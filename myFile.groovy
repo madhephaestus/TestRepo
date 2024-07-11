@@ -16,6 +16,6 @@ toSlice.addSlicePlane(new Transform().movez(toSlice.getMaxZ()-0.5));
 toSlice.addSlicePlane(new Transform().movez(toSlice.getMaxZ()-0.51));
 toSlice.addSlicePlane(new Transform());
 
-CSG cube = new Cube(50).toCSG().movez(30);
+CSG cube = new Cube(50).toCSG().movez(40);
 
 return [toSlice,cube]
