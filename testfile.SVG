@@ -21,7 +21,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
@@ -47,6 +47,15 @@
     <path
        id="path2"
        style="fill:#ff0000;fill-rule:evenodd;stroke-width:1.46114"
-       d="M 62.972865,35.139627 A 15.084663,18.933189 0 0 1 47.888202,54.072815 15.084663,18.933189 0 0 1 32.803538,35.139627 15.084663,18.933189 0 0 1 47.888202,16.206438 15.084663,18.933189 0 0 1 62.972865,35.139627 Z" />
+       d="M 73.317692,29.105144 A 15.084663,18.933189 0 0 1 58.233029,48.038332 15.084663,18.933189 0 0 1 43.148365,29.105144 15.084663,18.933189 0 0 1 58.233029,10.171955 15.084663,18.933189 0 0 1 73.317692,29.105144 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 3">
+    <path
+       id="rect1"
+       style="stroke-width:0.9375"
+       d="m 56.178162,69.683907 h 21.120689 v 13.21839 H 56.178162 Z" />
   </g>
 </svg>
