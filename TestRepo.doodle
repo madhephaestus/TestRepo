@@ -5,7 +5,7 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cube.groovy",
-        "name": "q3hek242tzIKrDfUFxcb9aHGs6oN0wj2LIwgHrur"
+        "name": "CrwkRqdpB6MfMweaIaQUSqASKjYjd4mhFN5KQ4E4"
       }
     },
     {
@@ -13,7 +13,7 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cube.groovy",
-        "name": "4ajeVjYScvpJmaiUdazQ4hCIy8x8ajUeseyb5WFG"
+        "name": "qeMXHhUAkEyseLlF5LR7pYtWwTHYOquO1NzfHWGj"
       }
     },
     {
@@ -31,7 +31,7 @@
           }
         },
         "names": [
-          "q3hek242tzIKrDfUFxcb9aHGs6oN0wj2LIwgHrur"
+          "CrwkRqdpB6MfMweaIaQUSqASKjYjd4mhFN5KQ4E4"
         ]
       }
     },
@@ -50,7 +50,7 @@
           }
         },
         "names": [
-          "q3hek242tzIKrDfUFxcb9aHGs6oN0wj2LIwgHrur"
+          "CrwkRqdpB6MfMweaIaQUSqASKjYjd4mhFN5KQ4E4"
         ]
       }
     },
@@ -58,7 +58,7 @@
       "type": "ToHole",
       "data": {
         "names": [
-          "q3hek242tzIKrDfUFxcb9aHGs6oN0wj2LIwgHrur"
+          "CrwkRqdpB6MfMweaIaQUSqASKjYjd4mhFN5KQ4E4"
         ]
       }
     },
@@ -66,17 +66,17 @@
       "type": "Group",
       "data": {
         "names": [
-          "q3hek242tzIKrDfUFxcb9aHGs6oN0wj2LIwgHrur",
-          "4ajeVjYScvpJmaiUdazQ4hCIy8x8ajUeseyb5WFG"
+          "CrwkRqdpB6MfMweaIaQUSqASKjYjd4mhFN5KQ4E4",
+          "qeMXHhUAkEyseLlF5LR7pYtWwTHYOquO1NzfHWGj"
         ],
-        "groupID": "awKGIed4tNmis28ghiEt6uSkuiIPsEBrxB1S6buI"
+        "groupID": "uTOE5kPlan2zCAW5C8AGfLr6d6cw6UNwywSdGd22"
       }
     },
     {
       "type": "Resize",
       "data": {
         "names": [
-          "awKGIed4tNmis28ghiEt6uSkuiIPsEBrxB1S6buI"
+          "uTOE5kPlan2zCAW5C8AGfLr6d6cw6UNwywSdGd22"
         ],
         "height": {
           "x": 0.0,
@@ -112,8 +112,17 @@
           }
         }
       }
+    },
+    {
+      "type": "ToSolid",
+      "data": {
+        "names": [
+          "uTOE5kPlan2zCAW5C8AGfLr6d6cw6UNwywSdGd22"
+        ],
+        "color": {}
+      }
     }
   ],
-  "currentIndex": 7,
+  "currentIndex": 8,
   "projectName": "A Test Project"
 }
