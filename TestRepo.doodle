@@ -5,7 +5,7 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cube.groovy",
-        "name": "ipKWlk6GUE7rQ12DzCYBIr7SYYPEMVsCPTKJQ4Bi"
+        "name": "q3hek242tzIKrDfUFxcb9aHGs6oN0wj2LIwgHrur"
       }
     },
     {
@@ -13,7 +13,26 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cube.groovy",
-        "name": "Un9TLjyjVxWXfSlm14l85MolFC4hI69aZQdsHEgK"
+        "name": "4ajeVjYScvpJmaiUdazQ4hCIy8x8ajUeseyb5WFG"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.9238795325112867,
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.3826834323650898
+          }
+        },
+        "names": [
+          "q3hek242tzIKrDfUFxcb9aHGs6oN0wj2LIwgHrur"
+        ]
       }
     },
     {
@@ -21,7 +40,7 @@
       "data": {
         "location": {
           "x": 10.0,
-          "y": 0.0,
+          "y": 10.0,
           "z": 0.0,
           "rotation": {
             "w": 1.0,
@@ -31,11 +50,70 @@
           }
         },
         "names": [
-          "Un9TLjyjVxWXfSlm14l85MolFC4hI69aZQdsHEgK"
+          "q3hek242tzIKrDfUFxcb9aHGs6oN0wj2LIwgHrur"
         ]
+      }
+    },
+    {
+      "type": "ToHole",
+      "data": {
+        "names": [
+          "q3hek242tzIKrDfUFxcb9aHGs6oN0wj2LIwgHrur"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "q3hek242tzIKrDfUFxcb9aHGs6oN0wj2LIwgHrur",
+          "4ajeVjYScvpJmaiUdazQ4hCIy8x8ajUeseyb5WFG"
+        ],
+        "groupID": "awKGIed4tNmis28ghiEt6uSkuiIPsEBrxB1S6buI"
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "awKGIed4tNmis28ghiEt6uSkuiIPsEBrxB1S6buI"
+        ],
+        "height": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 40.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightFront": {
+          "x": 40.0,
+          "y": 10.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftRear": {
+          "x": -10.0,
+          "y": 80.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     }
   ],
-  "currentIndex": 3,
+  "currentIndex": 7,
   "projectName": "A Test Project"
 }
