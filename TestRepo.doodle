@@ -5,7 +5,7 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cube.groovy",
-        "name": "CrwkRqdpB6MfMweaIaQUSqASKjYjd4mhFN5KQ4E4"
+        "name": "Q1IrxlrpVf62QexceFr1bVBzO6GQRq40A2jOTnrX"
       }
     },
     {
@@ -13,7 +13,7 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cube.groovy",
-        "name": "qeMXHhUAkEyseLlF5LR7pYtWwTHYOquO1NzfHWGj"
+        "name": "fCrpimTmMReB9sgSsrQbuUCiVD0EFRgSn8YyvSOT"
       }
     },
     {
@@ -31,7 +31,7 @@
           }
         },
         "names": [
-          "CrwkRqdpB6MfMweaIaQUSqASKjYjd4mhFN5KQ4E4"
+          "Q1IrxlrpVf62QexceFr1bVBzO6GQRq40A2jOTnrX"
         ]
       }
     },
@@ -50,7 +50,7 @@
           }
         },
         "names": [
-          "CrwkRqdpB6MfMweaIaQUSqASKjYjd4mhFN5KQ4E4"
+          "Q1IrxlrpVf62QexceFr1bVBzO6GQRq40A2jOTnrX"
         ]
       }
     },
@@ -58,7 +58,7 @@
       "type": "ToHole",
       "data": {
         "names": [
-          "CrwkRqdpB6MfMweaIaQUSqASKjYjd4mhFN5KQ4E4"
+          "Q1IrxlrpVf62QexceFr1bVBzO6GQRq40A2jOTnrX"
         ]
       }
     },
@@ -66,17 +66,17 @@
       "type": "Group",
       "data": {
         "names": [
-          "CrwkRqdpB6MfMweaIaQUSqASKjYjd4mhFN5KQ4E4",
-          "qeMXHhUAkEyseLlF5LR7pYtWwTHYOquO1NzfHWGj"
+          "Q1IrxlrpVf62QexceFr1bVBzO6GQRq40A2jOTnrX",
+          "fCrpimTmMReB9sgSsrQbuUCiVD0EFRgSn8YyvSOT"
         ],
-        "groupID": "uTOE5kPlan2zCAW5C8AGfLr6d6cw6UNwywSdGd22"
+        "groupID": "4rECzmhQp7LNHgsCSkS6mO2LmZE1Bj4pAYK9K2vK"
       }
     },
     {
       "type": "Resize",
       "data": {
         "names": [
-          "uTOE5kPlan2zCAW5C8AGfLr6d6cw6UNwywSdGd22"
+          "4rECzmhQp7LNHgsCSkS6mO2LmZE1Bj4pAYK9K2vK"
         ],
         "height": {
           "x": 0.0,
@@ -117,9 +117,13 @@
       "type": "ToSolid",
       "data": {
         "names": [
-          "uTOE5kPlan2zCAW5C8AGfLr6d6cw6UNwywSdGd22"
+          "4rECzmhQp7LNHgsCSkS6mO2LmZE1Bj4pAYK9K2vK"
         ],
-        "color": {}
+        "r": 0.0,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 1.0,
+        "useColor": true
       }
     }
   ],
