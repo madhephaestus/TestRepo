@@ -4,7 +4,7 @@
       "type": "AddFromScript",
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
-        "fileRel": "cube.groovy",
+        "fileRel": "sphere.groovy",
         "name": "Ke6QKHG13oiKICKHUiDQEteYk60YNAiIeVRV6N30"
       }
     },
@@ -12,7 +12,7 @@
       "type": "AddFromScript",
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
-        "fileRel": "cube.groovy",
+        "fileRel": "sphere.groovy",
         "name": "ThQnxrBPMCIyscDDMnb6pzzSpxDw6Sq1VJ4jXGU5"
       }
     },
