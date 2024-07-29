@@ -5,7 +5,7 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cube.groovy",
-        "name": "Y1C08wJT4PaXkaNLbxeoW0TIHeaND4B3eQdbY8Uo"
+        "name": "Ke6QKHG13oiKICKHUiDQEteYk60YNAiIeVRV6N30"
       }
     },
     {
@@ -13,7 +13,7 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cube.groovy",
-        "name": "BuWl01MmIulLVx2k05SOaF1qSzFByiL08SF8f5mp"
+        "name": "ThQnxrBPMCIyscDDMnb6pzzSpxDw6Sq1VJ4jXGU5"
       }
     },
     {
@@ -31,7 +31,7 @@
           }
         },
         "names": [
-          "Y1C08wJT4PaXkaNLbxeoW0TIHeaND4B3eQdbY8Uo"
+          "Ke6QKHG13oiKICKHUiDQEteYk60YNAiIeVRV6N30"
         ]
       }
     },
@@ -50,7 +50,7 @@
           }
         },
         "names": [
-          "Y1C08wJT4PaXkaNLbxeoW0TIHeaND4B3eQdbY8Uo"
+          "Ke6QKHG13oiKICKHUiDQEteYk60YNAiIeVRV6N30"
         ]
       }
     },
@@ -58,7 +58,7 @@
       "type": "ToHole",
       "data": {
         "names": [
-          "Y1C08wJT4PaXkaNLbxeoW0TIHeaND4B3eQdbY8Uo"
+          "Ke6QKHG13oiKICKHUiDQEteYk60YNAiIeVRV6N30"
         ]
       }
     },
@@ -66,17 +66,17 @@
       "type": "Group",
       "data": {
         "names": [
-          "Y1C08wJT4PaXkaNLbxeoW0TIHeaND4B3eQdbY8Uo",
-          "BuWl01MmIulLVx2k05SOaF1qSzFByiL08SF8f5mp"
+          "Ke6QKHG13oiKICKHUiDQEteYk60YNAiIeVRV6N30",
+          "ThQnxrBPMCIyscDDMnb6pzzSpxDw6Sq1VJ4jXGU5"
         ],
-        "groupID": "Zsl1cml3m6in5MVfi0dES5bjohU6XMizxQjuqQMJ"
+        "groupID": "khtEfnxq6tEQahLBKeJJvociwIDxhKPNQWkuoECt"
       }
     },
     {
       "type": "Resize",
       "data": {
         "names": [
-          "Zsl1cml3m6in5MVfi0dES5bjohU6XMizxQjuqQMJ"
+          "khtEfnxq6tEQahLBKeJJvociwIDxhKPNQWkuoECt"
         ],
         "height": {
           "x": 0.0,
@@ -117,7 +117,7 @@
       "type": "ToSolid",
       "data": {
         "names": [
-          "Zsl1cml3m6in5MVfi0dES5bjohU6XMizxQjuqQMJ"
+          "khtEfnxq6tEQahLBKeJJvociwIDxhKPNQWkuoECt"
         ],
         "r": 0.0,
         "g": 0.0,
@@ -130,7 +130,7 @@
       "type": "UnGroup",
       "data": {
         "names": [
-          "Zsl1cml3m6in5MVfi0dES5bjohU6XMizxQjuqQMJ"
+          "khtEfnxq6tEQahLBKeJJvociwIDxhKPNQWkuoECt"
         ]
       }
     },
@@ -138,13 +138,21 @@
       "type": "Group",
       "data": {
         "names": [
-          "Y1C08wJT4PaXkaNLbxeoW0TIHeaND4B3eQdbY8Uo",
-          "BuWl01MmIulLVx2k05SOaF1qSzFByiL08SF8f5mp"
+          "Ke6QKHG13oiKICKHUiDQEteYk60YNAiIeVRV6N30",
+          "ThQnxrBPMCIyscDDMnb6pzzSpxDw6Sq1VJ4jXGU5"
         ],
-        "groupID": "ptCymx1IHT9BsedBfAFvVDlIvFhmZrTkh59zVRuc"
+        "groupID": "8u8xHHDhCsIXpWL594nsVWz4jdsmVCcBgus2eao9"
+      }
+    },
+    {
+      "type": "ToHole",
+      "data": {
+        "names": [
+          "8u8xHHDhCsIXpWL594nsVWz4jdsmVCcBgus2eao9"
+        ]
       }
     }
   ],
-  "currentIndex": 10,
+  "currentIndex": 11,
   "projectName": "A Test Project"
 }
