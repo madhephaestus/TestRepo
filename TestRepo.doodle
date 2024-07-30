@@ -69,7 +69,8 @@
           "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
           "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
         ],
-        "groupID": "LDn6DN6r3EySZYEoebuVrWoHIvqugfT9qn013tJZ"
+        "groupID": "LDn6DN6r3EySZYEoebuVrWoHIvqugfT9qn013tJZ",
+        "hull": false
       }
     },
     {
@@ -141,7 +142,8 @@
           "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
           "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
         ],
-        "groupID": "c1s80RTJv4T70wKVo0Dlyelihr3gDf0PRKSdNoo0"
+        "groupID": "c1s80RTJv4T70wKVo0Dlyelihr3gDf0PRKSdNoo0",
+        "hull": false
       }
     },
     {
@@ -161,7 +163,8 @@
         "names": [
           "c1s80RTJv4T70wKVo0Dlyelihr3gDf0PRKSdNoo0"
         ],
-        "paste": "XaYrmW55UHITOuCuZ5SKJUtzJI9WYlIR6VsEdiJr"
+        "paste": "XaYrmW55UHITOuCuZ5SKJUtzJI9WYlIR6VsEdiJr",
+        "offset": 10.0
       }
     },
     {
@@ -182,7 +185,8 @@
           "XaYrmW55UHITOuCuZ5SKJUtzJI9WYlIR6VsEdiJr_2",
           "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
         ],
-        "groupID": "oSZNkU782KSJiLgw1p7mRhZLFvASrrcXvZfQHSv9"
+        "groupID": "oSZNkU782KSJiLgw1p7mRhZLFvASrrcXvZfQHSv9",
+        "hull": false
       }
     },
     {
@@ -197,8 +201,123 @@
         "a": 1.0,
         "useColor": true
       }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 50.0,
+          "y": 20.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "oSZNkU782KSJiLgw1p7mRhZLFvASrrcXvZfQHSv9"
+        ]
+      }
+    },
+    {
+      "type": "UnGroup",
+      "data": {
+        "names": [
+          "oSZNkU782KSJiLgw1p7mRhZLFvASrrcXvZfQHSv9"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -8.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
+          "XaYrmW55UHITOuCuZ5SKJUtzJI9WYlIR6VsEdiJr_1",
+          "XaYrmW55UHITOuCuZ5SKJUtzJI9WYlIR6VsEdiJr_2",
+          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -38.0,
+          "y": 11.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
+          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
+        ]
+      }
+    },
+    {
+      "type": "Paste",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
+          "XaYrmW55UHITOuCuZ5SKJUtzJI9WYlIR6VsEdiJr_1",
+          "XaYrmW55UHITOuCuZ5SKJUtzJI9WYlIR6VsEdiJr_2",
+          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
+        ],
+        "paste": "5TIfB0qCC10ucFHtTKyvOTII9bEKOGZwK3AgsEXv",
+        "offset": 10.0
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 17.0,
+          "y": -63.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
+          "XaYrmW55UHITOuCuZ5SKJUtzJI9WYlIR6VsEdiJr_1",
+          "XaYrmW55UHITOuCuZ5SKJUtzJI9WYlIR6VsEdiJr_2",
+          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
+        ]
+      }
     }
   ],
-  "currentIndex": 14,
-  "projectName": "A Test Project"
+  "currentIndex": 20,
+  "projectName": "Kevin Project"
 }
