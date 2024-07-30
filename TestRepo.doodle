@@ -4,16 +4,16 @@
       "type": "AddFromScript",
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
-        "fileRel": "cube.groovy",
-        "name": "jC6ZdRPypsx7EjNosKql8GdLg9j6n2zB6va2ANNZ"
+        "fileRel": "sphere.groovy",
+        "name": "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe"
       }
     },
     {
       "type": "AddFromScript",
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
-        "fileRel": "cube.groovy",
-        "name": "ohbmjSrPXVPxq0Ea24kbcG1iSsJGL2sduYpBoSuf"
+        "fileRel": "sphere.groovy",
+        "name": "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
       }
     },
     {
@@ -31,7 +31,7 @@
           }
         },
         "names": [
-          "jC6ZdRPypsx7EjNosKql8GdLg9j6n2zB6va2ANNZ"
+          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe"
         ]
       }
     },
@@ -50,7 +50,7 @@
           }
         },
         "names": [
-          "jC6ZdRPypsx7EjNosKql8GdLg9j6n2zB6va2ANNZ"
+          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe"
         ]
       }
     },
@@ -58,7 +58,7 @@
       "type": "ToHole",
       "data": {
         "names": [
-          "jC6ZdRPypsx7EjNosKql8GdLg9j6n2zB6va2ANNZ"
+          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe"
         ]
       }
     },
@@ -66,17 +66,17 @@
       "type": "Group",
       "data": {
         "names": [
-          "jC6ZdRPypsx7EjNosKql8GdLg9j6n2zB6va2ANNZ",
-          "ohbmjSrPXVPxq0Ea24kbcG1iSsJGL2sduYpBoSuf"
+          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
+          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
         ],
-        "groupID": "fRVnct5qX7zg1CDJcT1UeLNjmcpCuSKSPDu876iJ"
+        "groupID": "LDn6DN6r3EySZYEoebuVrWoHIvqugfT9qn013tJZ"
       }
     },
     {
       "type": "Resize",
       "data": {
         "names": [
-          "fRVnct5qX7zg1CDJcT1UeLNjmcpCuSKSPDu876iJ"
+          "LDn6DN6r3EySZYEoebuVrWoHIvqugfT9qn013tJZ"
         ],
         "height": {
           "x": 0.0,
@@ -117,7 +117,7 @@
       "type": "ToSolid",
       "data": {
         "names": [
-          "fRVnct5qX7zg1CDJcT1UeLNjmcpCuSKSPDu876iJ"
+          "LDn6DN6r3EySZYEoebuVrWoHIvqugfT9qn013tJZ"
         ],
         "r": 0.0,
         "g": 0.0,
@@ -130,7 +130,7 @@
       "type": "UnGroup",
       "data": {
         "names": [
-          "fRVnct5qX7zg1CDJcT1UeLNjmcpCuSKSPDu876iJ"
+          "LDn6DN6r3EySZYEoebuVrWoHIvqugfT9qn013tJZ"
         ]
       }
     },
@@ -138,10 +138,10 @@
       "type": "Group",
       "data": {
         "names": [
-          "jC6ZdRPypsx7EjNosKql8GdLg9j6n2zB6va2ANNZ",
-          "ohbmjSrPXVPxq0Ea24kbcG1iSsJGL2sduYpBoSuf"
+          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
+          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
         ],
-        "groupID": "dE1czlgFbzzKbQqvl6ugicigrlTEgbr2AY6AZGLR"
+        "groupID": "c1s80RTJv4T70wKVo0Dlyelihr3gDf0PRKSdNoo0"
       }
     },
     {
@@ -159,29 +159,46 @@
           }
         },
         "names": [
-          "dE1czlgFbzzKbQqvl6ugicigrlTEgbr2AY6AZGLR"
+          "c1s80RTJv4T70wKVo0Dlyelihr3gDf0PRKSdNoo0"
         ],
-        "paste": "wvy4ZAut3ZIXJ2iASB2Bnx7tptu3stUF0Jpv0XGd"
+        "paste": "XaYrmW55UHITOuCuZ5SKJUtzJI9WYlIR6VsEdiJr"
       }
     },
     {
       "type": "UnGroup",
       "data": {
         "names": [
-          "dE1czlgFbzzKbQqvl6ugicigrlTEgbr2AY6AZGLR",
-          "wvy4ZAut3ZIXJ2iASB2Bnx7tptu3stUF0Jpv0XGd"
+          "c1s80RTJv4T70wKVo0Dlyelihr3gDf0PRKSdNoo0",
+          "XaYrmW55UHITOuCuZ5SKJUtzJI9WYlIR6VsEdiJr"
         ]
       }
     },
     {
-      "type": "ToHole",
+      "type": "Group",
       "data": {
         "names": [
-          "ohbmjSrPXVPxq0Ea24kbcG1iSsJGL2sduYpBoSuf"
-        ]
+          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
+          "XaYrmW55UHITOuCuZ5SKJUtzJI9WYlIR6VsEdiJr_1",
+          "XaYrmW55UHITOuCuZ5SKJUtzJI9WYlIR6VsEdiJr_2",
+          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
+        ],
+        "groupID": "oSZNkU782KSJiLgw1p7mRhZLFvASrrcXvZfQHSv9"
+      }
+    },
+    {
+      "type": "ToSolid",
+      "data": {
+        "names": [
+          "oSZNkU782KSJiLgw1p7mRhZLFvASrrcXvZfQHSv9"
+        ],
+        "r": 0.800000011920929,
+        "g": 0.501960813999176,
+        "b": 0.20000000298023224,
+        "a": 1.0,
+        "useColor": true
       }
     }
   ],
-  "currentIndex": 13,
+  "currentIndex": 14,
   "projectName": "A Test Project"
 }
