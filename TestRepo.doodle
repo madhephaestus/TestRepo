@@ -12,8 +12,16 @@
       "type": "AddFromScript",
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
-        "fileRel": "sphere.groovy",
+        "fileRel": "cube.groovy",
         "name": "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
+      }
+    },
+        {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinder.groovy",
+        "name": "37VEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
       }
     },
     {
@@ -164,8 +172,814 @@
           "c1s80RTJv4T70wKVo0Dlyelihr3gDf0PRKSdNoo0"
         ]
       }
+    },
+    {
+      "type": "ToSolid",
+      "data": {
+        "names": [
+          "c1s80RTJv4T70wKVo0Dlyelihr3gDf0PRKSdNoo0"
+        ],
+        "r": 0.9019607901573181,
+        "g": 0.501960813999176,
+        "b": 0.3019607961177826,
+        "a": 1.0,
+        "useColor": true
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": -2.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "c1s80RTJv4T70wKVo0Dlyelihr3gDf0PRKSdNoo0"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -34.0,
+          "y": 44.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "c1s80RTJv4T70wKVo0Dlyelihr3gDf0PRKSdNoo0"
+        ]
+      }
+    },
+    {
+      "type": "UnGroup",
+      "data": {
+        "names": [
+          "c1s80RTJv4T70wKVo0Dlyelihr3gDf0PRKSdNoo0"
+        ]
+      }
+    },
+    {
+      "type": "Hide",
+      "data": {
+        "names": [
+          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
+        ]
+      }
+    },
+    {
+      "type": "Show",
+      "data": {
+        "names": [
+          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
+        ]
+      }
+    },
+    {
+      "type": "Paste",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe"
+        ],
+        "paste": "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2",
+        "offset": 20.0
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 51.0,
+          "y": -80.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
+        ]
+      }
+    },
+    {
+      "type": "ToSolid",
+      "data": {
+        "names": [
+          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
+        ],
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0,
+        "useColor": false
+      }
+    },
+    {
+      "type": "ToSolid",
+      "data": {
+        "names": [
+          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
+        ],
+        "r": 1.0,
+        "g": 0.6000000238418579,
+        "b": 0.4000000059604645,
+        "a": 1.0,
+        "useColor": true
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 30.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 49.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 49.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -97.99999999999999,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 36.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 39.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 15.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -39.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -36.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 102.0,
+          "y": -95.0,
+          "z": -3.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -12.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -5.0,
+          "y": 3.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2",
+          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
+        ],
+        "groupID": "r7gkgJTrArv67e3FCFFygZSQYge3mj8noOrFGAM2",
+        "hull": false
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -72.0,
+          "y": 102.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "r7gkgJTrArv67e3FCFFygZSQYge3mj8noOrFGAM2"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
+          "r7gkgJTrArv67e3FCFFygZSQYge3mj8noOrFGAM2"
+        ],
+        "groupID": "yy2U4UualKWMKixJdS8qh9pLwngc7jSy4M6b52yN",
+        "hull": false
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": -140.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "yy2U4UualKWMKixJdS8qh9pLwngc7jSy4M6b52yN"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -20.0,
+          "y": 20.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "yy2U4UualKWMKixJdS8qh9pLwngc7jSy4M6b52yN"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": -20.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "yy2U4UualKWMKixJdS8qh9pLwngc7jSy4M6b52yN"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 35.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "yy2U4UualKWMKixJdS8qh9pLwngc7jSy4M6b52yN"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -32.0,
+          "y": -51.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "yy2U4UualKWMKixJdS8qh9pLwngc7jSy4M6b52yN"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -34.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "yy2U4UualKWMKixJdS8qh9pLwngc7jSy4M6b52yN"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "yy2U4UualKWMKixJdS8qh9pLwngc7jSy4M6b52yN"
+        ]
+      }
+    },
+    {
+      "type": "Hide",
+      "data": {
+        "names": [
+          "yy2U4UualKWMKixJdS8qh9pLwngc7jSy4M6b52yN"
+        ]
+      }
+    },
+    {
+      "type": "Show",
+      "data": {
+        "names": [
+          "yy2U4UualKWMKixJdS8qh9pLwngc7jSy4M6b52yN"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -35.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "yy2U4UualKWMKixJdS8qh9pLwngc7jSy4M6b52yN"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "yy2U4UualKWMKixJdS8qh9pLwngc7jSy4M6b52yN"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 5.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "yy2U4UualKWMKixJdS8qh9pLwngc7jSy4M6b52yN"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 5.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "yy2U4UualKWMKixJdS8qh9pLwngc7jSy4M6b52yN"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 63.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "yy2U4UualKWMKixJdS8qh9pLwngc7jSy4M6b52yN"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 3.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "yy2U4UualKWMKixJdS8qh9pLwngc7jSy4M6b52yN"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -76.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "yy2U4UualKWMKixJdS8qh9pLwngc7jSy4M6b52yN"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 73.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "yy2U4UualKWMKixJdS8qh9pLwngc7jSy4M6b52yN"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -73.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "yy2U4UualKWMKixJdS8qh9pLwngc7jSy4M6b52yN"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 5.0,
+          "y": -22.0,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "yy2U4UualKWMKixJdS8qh9pLwngc7jSy4M6b52yN"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "yy2U4UualKWMKixJdS8qh9pLwngc7jSy4M6b52yN"
+        ]
+      }
     }
   ],
-  "currentIndex": 11,
-  "projectName": "Kevin Project"
+  "currentIndex": 58,
+  "projectName": "Kevin Project Test"
 }
