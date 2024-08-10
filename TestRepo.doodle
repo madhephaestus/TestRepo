@@ -5,7 +5,8 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe"
+        "name": "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
+        "nameIndex": 0
       }
     },
     {
@@ -13,7 +14,8 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cube.groovy",
-        "name": "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
+        "name": "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73",
+        "nameIndex": 0
       }
     },
     {
@@ -21,7 +23,8 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cylinder.groovy",
-        "name": "37VEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
+        "name": "37VEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73",
+        "nameIndex": 0
       }
     },
     {
@@ -1325,8 +1328,87 @@
           "PyKTX6rux3X91mfRe1wDQtGaQzC4pd3cRr0hr5Ji"
         ]
       }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
+          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
+        ],
+        "groupID": "Zestful_Cybertooth_W6LL4kZ7rPCxMVqLc8ezLxAFylYeHr7uG1zcK5Wn",
+        "hull": false
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Zestful_Cybertooth_W6LL4kZ7rPCxMVqLc8ezLxAFylYeHr7uG1zcK5Wn"
+        ],
+        "height": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 40.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightFront": {
+          "x": 0.0,
+          "y": 10.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftRear": {
+          "x": -10.0,
+          "y": 80.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -30.0,
+          "y": -25.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Zestful_Cybertooth_W6LL4kZ7rPCxMVqLc8ezLxAFylYeHr7uG1zcK5Wn"
+        ]
+      }
+    },
+    {
+      "type": "UnGroup",
+      "data": {
+        "names": [
+          "Zestful_Cybertooth_W6LL4kZ7rPCxMVqLc8ezLxAFylYeHr7uG1zcK5Wn"
+        ]
+      }
     }
   ],
-  "currentIndex": 83,
+  "currentIndex": 90,
   "projectName": "Kevin Project Test"
 }
