@@ -17,6 +17,11 @@ toSlice.addSlicePlane(new Transform().movez(toSlice.getMaxZ()-0.51));
 toSlice.addSlicePlane(new Transform());
 
 CSG cube = new Cube(50).toCSG().movez(40);
+
+CSG servo = Vitamins.get("hobbyServo", "mg92b")
+	.movez(cube.getMaxZ())
+cube=cube.difference(servo)
+	
 cube.setName("TheCube");
 
-return [toSlice,cube]
+return [toSlice,cube,servo]
