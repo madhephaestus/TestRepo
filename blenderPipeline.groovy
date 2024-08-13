@@ -8,10 +8,10 @@ CSG servo = Vitamins.get("hobbyServo", "mg92b")
 CSG horn = Vitamins.get("hobbyServoHorn", "standardMicro1")
 					.toZMax()
 					.rotz(90)
+//Make a slice around the horn
+CSG hornBlock = horn.scalex(2).scaley(2)
 //Take a slice around the motor
 CSG servoSlice = servo.getBoundingBox().toZMax().intersect(servo.getBoundingBox().toZMin().movez(horn.getMinZ()))
-CSG hornBlock = horn.scalex(2).scaley(2)
-//Make a slice around the horn
 CSG servoBlock=servoSlice.scalex(2)
 						.movex(linkLen)
 servo=servo.movex(linkLen)
