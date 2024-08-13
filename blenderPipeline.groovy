@@ -19,12 +19,18 @@ servo=servo.movex(linkLen)
 //Prodce a simple link
 CSG linkBlank = hornBlock.union(servoBlock).hull()
 String url="https://github.com/madhephaestus/TestRepo.git"
+// locate the file in the same git repo as this project
 File blender = ScriptingEngine.fileFromGit(url, "pipelineTest.blend")
+// Check if it exists yet and create it from the blank if it doessnt
 if(!blender.exists()) {
+	// if puting blender in git, ignore the temp file
 	ScriptingEngine.ignore(url, "**.blend1");
+	// create the blender file by importing the CSG
 	BlenderLoader.toBlenderFile(linkBlank, blender);
+	// open a tab with the new blender file
 	com.neuronrobotics.bowlerstudio.BowlerStudio.createFileTab(blender);
 }
+// load the blank from the blender file instead of using the hull
 linkBlank = ScriptingEngine.inlineFileScriptRun(blender, null);
 
 // take slices out of the modified link
