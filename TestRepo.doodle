@@ -5,7 +5,7 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
+        "name": "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s",
         "nameIndex": 0
       }
     },
@@ -13,17 +13,8 @@
       "type": "AddFromScript",
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
-        "fileRel": "cube.groovy",
-        "name": "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73",
-        "nameIndex": 0
-      }
-    },
-    {
-      "type": "AddFromScript",
-      "data": {
-        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
-        "fileRel": "cylinder.groovy",
-        "name": "37VEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73",
+        "fileRel": "sphere.groovy",
+        "name": "Jubilant_Monowheel_owJf5nwzjdIWYYoUEFu4OETP8NEWx28LjkeOSSXl",
         "nameIndex": 0
       }
     },
@@ -42,7 +33,7 @@
           }
         },
         "names": [
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe"
+          "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s"
         ]
       }
     },
@@ -61,7 +52,7 @@
           }
         },
         "names": [
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe"
+          "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s"
         ]
       }
     },
@@ -69,7 +60,7 @@
       "type": "ToHole",
       "data": {
         "names": [
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe"
+          "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s"
         ]
       }
     },
@@ -77,10 +68,10 @@
       "type": "Group",
       "data": {
         "names": [
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
-          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
+          "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s",
+          "Jubilant_Monowheel_owJf5nwzjdIWYYoUEFu4OETP8NEWx28LjkeOSSXl"
         ],
-        "groupID": "LDn6DN6r3EySZYEoebuVrWoHIvqugfT9qn013tJZ",
+        "groupID": "Exuberant_Titan_YWw1PsaSTRxTIA4GWoZIxtE5lEGMIrTptSsB2p18",
         "hull": false
       }
     },
@@ -88,7 +79,7 @@
       "type": "Resize",
       "data": {
         "names": [
-          "LDn6DN6r3EySZYEoebuVrWoHIvqugfT9qn013tJZ"
+          "Exuberant_Titan_YWw1PsaSTRxTIA4GWoZIxtE5lEGMIrTptSsB2p18"
         ],
         "height": {
           "x": 0.0,
@@ -101,9 +92,9 @@
             "z": 0.0
           }
         },
-        "rightFront": {
+        "leftFront": {
           "x": 40.0,
-          "y": 10.0,
+          "y": 80.0,
           "z": 0.0,
           "rotation": {
             "w": 1.0,
@@ -112,9 +103,9 @@
             "z": 0.0
           }
         },
-        "leftRear": {
+        "rightRear": {
           "x": -10.0,
-          "y": 80.0,
+          "y": 10.0,
           "z": 0.0,
           "rotation": {
             "w": 1.0,
@@ -129,7 +120,7 @@
       "type": "ToSolid",
       "data": {
         "names": [
-          "LDn6DN6r3EySZYEoebuVrWoHIvqugfT9qn013tJZ"
+          "Exuberant_Titan_YWw1PsaSTRxTIA4GWoZIxtE5lEGMIrTptSsB2p18"
         ],
         "r": 0.0,
         "g": 0.0,
@@ -142,7 +133,7 @@
       "type": "UnGroup",
       "data": {
         "names": [
-          "LDn6DN6r3EySZYEoebuVrWoHIvqugfT9qn013tJZ"
+          "Exuberant_Titan_YWw1PsaSTRxTIA4GWoZIxtE5lEGMIrTptSsB2p18"
         ]
       }
     },
@@ -150,1193 +141,10 @@
       "type": "Group",
       "data": {
         "names": [
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
-          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
+          "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s",
+          "Jubilant_Monowheel_owJf5nwzjdIWYYoUEFu4OETP8NEWx28LjkeOSSXl"
         ],
-        "groupID": "c1s80RTJv4T70wKVo0Dlyelihr3gDf0PRKSdNoo0",
-        "hull": false
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": -14.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "c1s80RTJv4T70wKVo0Dlyelihr3gDf0PRKSdNoo0"
-        ]
-      }
-    },
-    {
-      "type": "ToSolid",
-      "data": {
-        "names": [
-          "c1s80RTJv4T70wKVo0Dlyelihr3gDf0PRKSdNoo0"
-        ],
-        "r": 0.9019607901573181,
-        "g": 0.501960813999176,
-        "b": 0.3019607961177826,
-        "a": 1.0,
-        "useColor": true
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": -2.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "c1s80RTJv4T70wKVo0Dlyelihr3gDf0PRKSdNoo0"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": -34.0,
-          "y": 44.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "c1s80RTJv4T70wKVo0Dlyelihr3gDf0PRKSdNoo0"
-        ]
-      }
-    },
-    {
-      "type": "UnGroup",
-      "data": {
-        "names": [
-          "c1s80RTJv4T70wKVo0Dlyelihr3gDf0PRKSdNoo0"
-        ]
-      }
-    },
-    {
-      "type": "Hide",
-      "data": {
-        "names": [
-          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
-        ]
-      }
-    },
-    {
-      "type": "Show",
-      "data": {
-        "names": [
-          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
-        ]
-      }
-    },
-    {
-      "type": "Paste",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe"
-        ],
-        "paste": "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2",
-        "offset": 20.0
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 51.0,
-          "y": -80.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
-        ]
-      }
-    },
-    {
-      "type": "ToSolid",
-      "data": {
-        "names": [
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
-        ],
-        "r": 1.0,
-        "g": 0.0,
-        "b": 0.0,
-        "a": 1.0,
-        "useColor": false
-      }
-    },
-    {
-      "type": "ToSolid",
-      "data": {
-        "names": [
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
-        ],
-        "r": 1.0,
-        "g": 0.6000000238418579,
-        "b": 0.4000000059604645,
-        "a": 1.0,
-        "useColor": true
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 1.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 30.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 49.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 49.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": -97.99999999999999,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": -31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 36.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 39.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 15.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": -39.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe"
-        ]
-      }
-    },
-    {
-      "type": "Group",
-      "data": {
-        "names": [
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
-          "37VEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73",
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2",
-          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
-        ],
-        "groupID": "aADrTwXUHbMYDH7Naicb1yuVv4bf0LR1YMEWj4tl",
-        "hull": false
-      }
-    },
-    {
-      "type": "UnGroup",
-      "data": {
-        "names": [
-          "aADrTwXUHbMYDH7Naicb1yuVv4bf0LR1YMEWj4tl"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": -7.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": -36.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 66.0,
-          "y": -85.0,
-          "z": 22.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe"
-        ]
-      }
-    },
-    {
-      "type": "Group",
-      "data": {
-        "names": [
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
-        ],
-        "groupID": "GnrvRuRavQ9NjvPzy0zWZ24VxIWg5Z1wJVTFFSlX",
-        "hull": false
-      }
-    },
-    {
-      "type": "ToSolid",
-      "data": {
-        "names": [
-          "GnrvRuRavQ9NjvPzy0zWZ24VxIWg5Z1wJVTFFSlX"
-        ],
-        "r": 0.20000000298023224,
-        "g": 0.3019607961177826,
-        "b": 0.7019608020782471,
-        "a": 1.0,
-        "useColor": true
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 60.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "GnrvRuRavQ9NjvPzy0zWZ24VxIWg5Z1wJVTFFSlX"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": -15.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 53.0,
-          "y": 22.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 78.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "37VEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": -60.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "GnrvRuRavQ9NjvPzy0zWZ24VxIWg5Z1wJVTFFSlX"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": -78.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "37VEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": -0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
-        ]
-      }
-    },
-    {
-      "type": "ToSolid",
-      "data": {
-        "names": [
-          "37VEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
-        ],
-        "r": 0.800000011920929,
-        "g": 0.20000000298023224,
-        "b": 0.20000000298023224,
-        "a": 1.0,
-        "useColor": true
-      }
-    },
-    {
-      "type": "ToSolid",
-      "data": {
-        "names": [
-          "37VEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
-        ],
-        "r": 0.501960813999176,
-        "g": 0.3019607961177826,
-        "b": 0.501960813999176,
-        "a": 1.0,
-        "useColor": true
-      }
-    },
-    {
-      "type": "UnGroup",
-      "data": {
-        "names": [
-          "GnrvRuRavQ9NjvPzy0zWZ24VxIWg5Z1wJVTFFSlX"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": -42.0,
-          "y": 71.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe"
-        ]
-      }
-    },
-    {
-      "type": "Group",
-      "data": {
-        "names": [
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
-          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
-        ],
-        "groupID": "gSD2YXI1mcCRCPioBCA28brn4uO64iPkzUHXNy1c",
-        "hull": false
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 62.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "gSD2YXI1mcCRCPioBCA28brn4uO64iPkzUHXNy1c",
-          "37VEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73",
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": -15.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": -10.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "37VEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
-        ]
-      }
-    },
-    {
-      "type": "Paste",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "gSD2YXI1mcCRCPioBCA28brn4uO64iPkzUHXNy1c",
-          "37VEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73",
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
-        ],
-        "paste": "xtG1ddJwaqCCB301gmrB8VxWdmguwIE7rBpfAERk",
-        "offset": 0.0
-      }
-    },
-    {
-      "type": "Paste",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "gSD2YXI1mcCRCPioBCA28brn4uO64iPkzUHXNy1c",
-          "37VEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73",
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
-        ],
-        "paste": "kVjagHyeRSo6blTy16lja53pcl4w7YvqREwM3EW3",
-        "offset": 0.0
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": -62.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "gSD2YXI1mcCRCPioBCA28brn4uO64iPkzUHXNy1c"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": -52.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "37VEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": -47.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": -131.0,
-          "y": 0.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "gSD2YXI1mcCRCPioBCA28brn4uO64iPkzUHXNy1c",
-          "37VEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73",
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
-        ]
-      }
-    },
-    {
-      "type": "Delete",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "kVjagHyeRSo6blTy16lja53pcl4w7YvqREwM3EW3"
-        ]
-      }
-    },
-    {
-      "type": "Delete",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "xtG1ddJwaqCCB301gmrB8VxWdmguwIE7rBpfAERk"
-        ]
-      }
-    },
-    {
-      "type": "Delete",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "kVjagHyeRSo6blTy16lja53pcl4w7YvqREwM3EW3_1"
-        ]
-      }
-    },
-    {
-      "type": "Delete",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "xtG1ddJwaqCCB301gmrB8VxWdmguwIE7rBpfAERk_1"
-        ]
-      }
-    },
-    {
-      "type": "Delete",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "kVjagHyeRSo6blTy16lja53pcl4w7YvqREwM3EW3_2"
-        ]
-      }
-    },
-    {
-      "type": "UnGroup",
-      "data": {
-        "names": [
-          "xtG1ddJwaqCCB301gmrB8VxWdmguwIE7rBpfAERk_2"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": -62.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "xtG1ddJwaqCCB301gmrB8VxWdmguwIE7rBpfAERk_3"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": -84.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "xtG1ddJwaqCCB301gmrB8VxWdmguwIE7rBpfAERk_4"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": -61.0,
-          "z": 32.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "xtG1ddJwaqCCB301gmrB8VxWdmguwIE7rBpfAERk_4"
-        ]
-      }
-    },
-    {
-      "type": "Group",
-      "data": {
-        "names": [
-          "gSD2YXI1mcCRCPioBCA28brn4uO64iPkzUHXNy1c",
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
-        ],
-        "groupID": "NQ34wCxMvgsPWfPd8cGu43oIwGcs202IE4qq4WOL",
-        "hull": false
-      }
-    },
-    {
-      "type": "Group",
-      "data": {
-        "names": [
-          "xtG1ddJwaqCCB301gmrB8VxWdmguwIE7rBpfAERk_3",
-          "NQ34wCxMvgsPWfPd8cGu43oIwGcs202IE4qq4WOL"
-        ],
-        "groupID": "1ts7RfRMnvmmnMweO1AU6nrc4o6JQyXV4ZILpLXt",
-        "hull": false
-      }
-    },
-    {
-      "type": "Group",
-      "data": {
-        "names": [
-          "xtG1ddJwaqCCB301gmrB8VxWdmguwIE7rBpfAERk_4",
-          "37VEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73",
-          "1ts7RfRMnvmmnMweO1AU6nrc4o6JQyXV4ZILpLXt"
-        ],
-        "groupID": "SYcj02V3pykQeczOSJTo4p0C5ZMq9LHoqqHtjohM",
-        "hull": false
-      }
-    },
-    {
-      "type": "UnGroup",
-      "data": {
-        "names": [
-          "SYcj02V3pykQeczOSJTo4p0C5ZMq9LHoqqHtjohM"
-        ]
-      }
-    },
-    {
-      "type": "UnGroup",
-      "data": {
-        "names": [
-          "xtG1ddJwaqCCB301gmrB8VxWdmguwIE7rBpfAERk_4",
-          "37VEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73",
-          "1ts7RfRMnvmmnMweO1AU6nrc4o6JQyXV4ZILpLXt"
-        ]
-      }
-    },
-    {
-      "type": "UnGroup",
-      "data": {
-        "names": [
-          "xtG1ddJwaqCCB301gmrB8VxWdmguwIE7rBpfAERk_3",
-          "NQ34wCxMvgsPWfPd8cGu43oIwGcs202IE4qq4WOL"
-        ]
-      }
-    },
-    {
-      "type": "UnGroup",
-      "data": {
-        "names": [
-          "gSD2YXI1mcCRCPioBCA28brn4uO64iPkzUHXNy1c",
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2"
-        ]
-      }
-    },
-    {
-      "type": "Group",
-      "data": {
-        "names": [
-          "xtG1ddJwaqCCB301gmrB8VxWdmguwIE7rBpfAERk_3",
-          "xtG1ddJwaqCCB301gmrB8VxWdmguwIE7rBpfAERk_4"
-        ],
-        "groupID": "gbETAhvmVHEaTBZeZRfqQerg8SU2aE4rD5Ec0o25",
-        "hull": false
-      }
-    },
-    {
-      "type": "Group",
-      "data": {
-        "names": [
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2",
-          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
-        ],
-        "groupID": "KuTURIDmP3RAxPC6W4X9YDPsnvLAuUEAxUzEL5Ks",
-        "hull": false
-      }
-    },
-    {
-      "type": "Group",
-      "data": {
-        "names": [
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
-          "KuTURIDmP3RAxPC6W4X9YDPsnvLAuUEAxUzEL5Ks"
-        ],
-        "groupID": "YfFXxaWiR9PUtudTzHv45Eqw1MlwbdZOEmtzk1At",
-        "hull": false
-      }
-    },
-    {
-      "type": "Group",
-      "data": {
-        "names": [
-          "gbETAhvmVHEaTBZeZRfqQerg8SU2aE4rD5Ec0o25",
-          "37VEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
-        ],
-        "groupID": "PyKTX6rux3X91mfRe1wDQtGaQzC4pd3cRr0hr5Ji",
-        "hull": false
-      }
-    },
-    {
-      "type": "Group",
-      "data": {
-        "names": [
-          "YfFXxaWiR9PUtudTzHv45Eqw1MlwbdZOEmtzk1At",
-          "PyKTX6rux3X91mfRe1wDQtGaQzC4pd3cRr0hr5Ji"
-        ],
-        "groupID": "ho6gFXO8BppzQZaOz22WYPjdX0XvA6GNcj09TwjE",
-        "hull": false
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 127.0,
-          "y": 23.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "ho6gFXO8BppzQZaOz22WYPjdX0XvA6GNcj09TwjE"
-        ]
-      }
-    },
-    {
-      "type": "UnGroup",
-      "data": {
-        "names": [
-          "ho6gFXO8BppzQZaOz22WYPjdX0XvA6GNcj09TwjE"
-        ]
-      }
-    },
-    {
-      "type": "UnGroup",
-      "data": {
-        "names": [
-          "YfFXxaWiR9PUtudTzHv45Eqw1MlwbdZOEmtzk1At"
-        ]
-      }
-    },
-    {
-      "type": "UnGroup",
-      "data": {
-        "names": [
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
-          "KuTURIDmP3RAxPC6W4X9YDPsnvLAuUEAxUzEL5Ks"
-        ]
-      }
-    },
-    {
-      "type": "UnGroup",
-      "data": {
-        "names": [
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2",
-          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73",
-          "PyKTX6rux3X91mfRe1wDQtGaQzC4pd3cRr0hr5Ji"
-        ]
-      }
-    },
-    {
-      "type": "Group",
-      "data": {
-        "names": [
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
-          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
-        ],
-        "groupID": "Zestful_Cybertooth_W6LL4kZ7rPCxMVqLc8ezLxAFylYeHr7uG1zcK5Wn",
+        "groupID": "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn",
         "hull": false
       }
     },
@@ -1344,11 +152,11 @@
       "type": "Resize",
       "data": {
         "names": [
-          "Zestful_Cybertooth_W6LL4kZ7rPCxMVqLc8ezLxAFylYeHr7uG1zcK5Wn"
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
         ],
         "height": {
-          "x": 0.0,
-          "y": 0.0,
+          "x": 15.5,
+          "y": 42.0,
           "z": 40.0,
           "rotation": {
             "w": 1.0,
@@ -1357,9 +165,9 @@
             "z": 0.0
           }
         },
-        "rightFront": {
-          "x": 0.0,
-          "y": 10.0,
+        "leftFront": {
+          "x": 41.0,
+          "y": 80.0,
           "z": 0.0,
           "rotation": {
             "w": 1.0,
@@ -1368,9 +176,173 @@
             "z": 0.0
           }
         },
-        "leftRear": {
+        "rightRear": {
           "x": -10.0,
-          "y": 80.0,
+          "y": 4.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 19.5,
+          "y": 27.999999999999993,
+          "z": 40.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 49.0,
+          "y": 79.99999999999999,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -10.0,
+          "y": -24.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 18.000000000000004,
+          "y": 23.999999999999993,
+          "z": 40.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 46.00000000000001,
+          "y": 71.99999999999999,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -10.0,
+          "y": -24.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 11.500000000000007,
+          "y": 40.999999999999986,
+          "z": 40.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 33.000000000000014,
+          "y": 105.99999999999997,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -10.0,
+          "y": -24.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 15.000000000000007,
+          "y": 30.499999999999986,
+          "z": 40.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 40.000000000000014,
+          "y": 84.99999999999997,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -10.0,
+          "y": -24.0,
           "z": 0.0,
           "rotation": {
             "w": 1.0,
@@ -1385,9 +357,9 @@
       "type": "MoveCenter",
       "data": {
         "location": {
-          "x": -30.0,
-          "y": -25.0,
-          "z": 0.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 31.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -1396,48 +368,7 @@
           }
         },
         "names": [
-          "Zestful_Cybertooth_W6LL4kZ7rPCxMVqLc8ezLxAFylYeHr7uG1zcK5Wn"
-        ]
-      }
-    },
-    {
-      "type": "UnGroup",
-      "data": {
-        "names": [
-          "Zestful_Cybertooth_W6LL4kZ7rPCxMVqLc8ezLxAFylYeHr7uG1zcK5Wn"
-        ]
-      }
-    },
-    {
-      "type": "Group",
-      "data": {
-        "names": [
-          "gbETAhvmVHEaTBZeZRfqQerg8SU2aE4rD5Ec0o25",
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
-          "37VEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73",
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2",
-          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
-        ],
-        "groupID": "Perky_Ifrit_SknCgHTaoHKXIgufeEkwLYHgim21crjztrXRdTXX",
-        "hull": false
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 39.0,
-          "y": 18.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "Perky_Ifrit_SknCgHTaoHKXIgufeEkwLYHgim21crjztrXRdTXX"
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
         ]
       }
     },
@@ -1445,11 +376,2506 @@
       "type": "Resize",
       "data": {
         "names": [
-          "Perky_Ifrit_SknCgHTaoHKXIgufeEkwLYHgim21crjztrXRdTXX"
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
         ],
         "height": {
+          "x": 13.500000000000007,
+          "y": 40.999999999999986,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 37.000000000000014,
+          "y": 105.99999999999997,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -10.0,
+          "y": -24.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 15.000000000000007,
+          "y": 30.499999999999986,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 41.000000000000014,
+          "y": 108.99999999999997,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -10.0,
+          "y": -24.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 15.500000000000007,
+          "y": 42.49999999999998,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 47.000000000000014,
+          "y": 57.99999999999996,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -10.0,
+          "y": -24.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 18.500000000000007,
+          "y": 16.999999999999986,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 44.000000000000014,
+          "y": 94.99999999999997,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -10.0,
+          "y": -24.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 17.000000000000007,
+          "y": 35.499999999999986,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 53.000000000000014,
+          "y": 105.99999999999997,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -10.0,
+          "y": -24.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 21.500000000000004,
+          "y": 40.99999999999999,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 53.00000000000001,
+          "y": 105.99999999999999,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -3.0,
+          "y": -80.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 25.000000000000007,
+          "y": 12.999999999999986,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 43.000000000000014,
+          "y": 140.99999999999997,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -3.0,
+          "y": -80.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 20.000000000000007,
+          "y": 30.5,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 65.00000000000001,
+          "y": 10.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -3.0,
+          "y": -80.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 31.000000000000007,
+          "y": -35.0,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 59.000000000000014,
+          "y": 83.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -3.0,
+          "y": -80.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 43.50000000000001,
+          "y": 27.5,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 90.00000000000001,
+          "y": 83.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -3.0,
+          "y": -28.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 43.00000000000001,
+          "y": 29.5,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 89.00000000000001,
+          "y": 87.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -3.0,
+          "y": -28.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 34.00000000000001,
+          "y": 57.0,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 71.00000000000001,
+          "y": 142.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -3.0,
+          "y": -28.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 47.00000000000001,
+          "y": 12.5,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 97.00000000000001,
+          "y": 53.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -3.0,
+          "y": -28.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 45.00000000000001,
+          "y": 17.0,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 93.00000000000001,
+          "y": 62.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -3.0,
+          "y": -28.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 45.0,
+          "y": 42.0,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 93.0,
+          "y": 112.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -3.0,
+          "y": -28.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 37.5,
+          "y": 59.0,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 78.0,
+          "y": 146.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -3.0,
+          "y": -28.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 43.5,
+          "y": 45.5,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 90.0,
+          "y": 119.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -3.0,
+          "y": -28.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 42.0,
+          "y": 51.5,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 87.0,
+          "y": 131.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -3.0,
+          "y": -28.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 45.5,
+          "y": 33.5,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 94.0,
+          "y": 95.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -3.0,
+          "y": -28.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 33.0,
+          "y": 84.5,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 69.0,
+          "y": 197.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -3.0,
+          "y": -28.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 68.0,
+          "y": 42.5,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 139.0,
+          "y": 197.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -3.0,
+          "y": -112.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
           "x": 0.0,
-          "y": 0.0,
+          "y": -15.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ]
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 45.0,
+          "y": 132.5,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 93.0,
+          "y": 182.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -3.0,
+          "y": 83.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 4.0,
+          "y": -114.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ]
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 45.0,
+          "y": 49.0,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 89.0,
+          "y": 129.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 1.0,
+          "y": -31.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 53.00000000000001,
+          "y": 50.0,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 89.0,
+          "y": 131.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 17.0,
+          "y": -31.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 42.0,
+          "y": -37.000000000000014,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 67.0,
+          "y": 130.99999999999997,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 17.0,
+          "y": -205.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 72.5,
+          "y": -105.5,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 128.0,
+          "y": -6.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 17.0,
+          "y": -205.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -16.0,
+          "y": 129.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ]
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 54.0,
+          "y": 68.5,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 107.0,
+          "y": 123.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 1.0,
+          "y": 14.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 44.5,
+          "y": -26.0,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 88.0,
+          "y": 123.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 1.0,
+          "y": -175.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 44.99999999999999,
+          "y": -21.500000000000014,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 89.0,
+          "y": 132.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 1.0,
+          "y": -175.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 39.0,
+          "y": -114.50000000000001,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 77.0,
+          "y": -54.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 1.0,
+          "y": -175.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 45.0,
+          "y": 4.5,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 89.0,
+          "y": 184.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 1.0,
+          "y": -175.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 34.5,
+          "y": 89.00000000000001,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 68.0,
+          "y": 184.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 1.0,
+          "y": -6.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 28.0,
+          "y": 4.0,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 55.0,
+          "y": 184.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 1.0,
+          "y": -176.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 61.0,
+          "y": -9.999999999999986,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 121.0,
+          "y": 184.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 1.0,
+          "y": -204.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 84.0,
+          "y": 48.50000000000003,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 121.0,
+          "y": 184.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 47.0,
+          "y": -87.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 84.5,
+          "y": 87.0,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 122.0,
+          "y": 184.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 47.0,
+          "y": -10.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 84.0,
+          "y": 56.5,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 121.0,
+          "y": 123.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 47.0,
+          "y": -10.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 85.5,
+          "y": 16.5,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 124.0,
+          "y": 43.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 47.0,
+          "y": -10.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 98.0,
+          "y": 54.0,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 149.0,
+          "y": 118.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 47.0,
+          "y": -10.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 81.5,
+          "y": 94.0,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 116.0,
+          "y": 198.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 47.0,
+          "y": -10.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 82.0,
+          "y": 74.0,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 116.0,
+          "y": 198.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 48.0,
+          "y": -50.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 84.5,
+          "y": 93.5,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 116.0,
+          "y": 198.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 53.0,
+          "y": -11.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 82.0,
+          "y": 137.0,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 111.0,
+          "y": 198.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 53.0,
+          "y": 76.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 86.0,
+          "y": 111.5,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 119.0,
+          "y": 198.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 53.0,
+          "y": 25.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 85.0,
+          "y": 93.0,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 117.0,
+          "y": 161.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 53.0,
+          "y": 25.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 78.5,
+          "y": 124.5,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 104.0,
+          "y": 224.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 53.0,
+          "y": 25.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 81.0,
+          "y": 125.5,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 109.0,
+          "y": 226.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 53.0,
+          "y": 25.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 80.0,
+          "y": 164.0,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 107.0,
+          "y": 226.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 53.0,
+          "y": 102.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 83.0,
+          "y": 122.5,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 113.0,
+          "y": 226.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 53.0,
+          "y": 19.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 80.5,
+          "y": 150.5,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 108.0,
+          "y": 226.00000000000003,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 53.0,
+          "y": 75.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 2.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ]
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 75.5,
+          "y": 125.50000000000001,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 108.0,
+          "y": 228.00000000000003,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 43.0,
+          "y": 23.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 74.0,
+          "y": 145.0,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 105.0,
+          "y": 228.00000000000003,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 43.0,
+          "y": 62.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 80.0,
+          "y": 110.00000000000001,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 105.0,
+          "y": 228.00000000000003,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 55.0,
+          "y": -8.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 73.5,
+          "y": 160.0,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 105.0,
+          "y": 228.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 42.0,
+          "y": 92.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 73.5,
+          "y": 172.5,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 105.00000000000001,
+          "y": 228.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 42.0,
+          "y": 117.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 75.0,
+          "y": 149.0,
+          "z": 71.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 105.00000000000001,
+          "y": 228.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 45.0,
+          "y": 70.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 75.0,
+          "y": 149.0,
+          "z": 90.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 105.00000000000001,
+          "y": 228.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 45.0,
+          "y": 70.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 75.0,
+          "y": 149.0,
+          "z": 97.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 105.00000000000001,
+          "y": 228.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 45.0,
+          "y": 70.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 75.0,
+          "y": 149.0,
+          "z": 115.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 105.00000000000001,
+          "y": 228.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 45.0,
+          "y": 70.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 75.0,
+          "y": 149.0,
           "z": 80.0,
           "rotation": {
             "w": 1.0,
@@ -1458,10 +2884,10 @@
             "z": 0.0
           }
         },
-        "rightFront": {
-          "x": 20.0,
-          "y": 10.0,
-          "z": 0.0,
+        "leftFront": {
+          "x": 105.00000000000001,
+          "y": 228.0,
+          "z": 31.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -1469,10 +2895,10 @@
             "z": 0.0
           }
         },
-        "leftRear": {
-          "x": -10.0,
-          "y": 80.0,
-          "z": 0.0,
+        "rightRear": {
+          "x": 45.0,
+          "y": 70.0,
+          "z": 31.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -1483,66 +2909,15 @@
       }
     },
     {
-      "type": "UnGroup",
+      "type": "Resize",
       "data": {
         "names": [
-          "Perky_Ifrit_SknCgHTaoHKXIgufeEkwLYHgim21crjztrXRdTXX"
-        ]
-      }
-    },
-    {
-      "type": "UnGroup",
-      "data": {
-        "names": [
-          "gbETAhvmVHEaTBZeZRfqQerg8SU2aE4rD5Ec0o25",
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
-          "37VEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73",
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2",
-          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
-        ]
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 1.0,
-          "y": 27.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "xtG1ddJwaqCCB301gmrB8VxWdmguwIE7rBpfAERk_4"
-        ]
-      }
-    },
-    {
-      "type": "Group",
-      "data": {
-        "names": [
-          "n9iXKLXw1sI7DWMUabv2nievHFw2oTxTgjDikeLe",
-          "xtG1ddJwaqCCB301gmrB8VxWdmguwIE7rBpfAERk_3",
-          "xtG1ddJwaqCCB301gmrB8VxWdmguwIE7rBpfAERk_4",
-          "37VEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73",
-          "ZiVqoh79YrCRJuY5H80Triox1z5fj5ULy4UZvSF2",
-          "MmVEk8x8KUoBNJ5PWeORoj6dDUl8fcbfRAuVQa73"
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
         ],
-        "groupID": "Perky_Warpod_BXJ0AVVCMMkojzXuWWm8qJNfWRoiSSjJsxXm7wBo",
-        "hull": false
-      }
-    },
-    {
-      "type": "MoveCenter",
-      "data": {
-        "location": {
-          "x": 29.0,
-          "y": 0.0,
-          "z": 0.0,
+        "height": {
+          "x": 76.0,
+          "y": 124.5,
+          "z": 80.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -1550,20 +2925,113 @@
             "z": 0.0
           }
         },
-        "names": [
-          "Perky_Warpod_BXJ0AVVCMMkojzXuWWm8qJNfWRoiSSjJsxXm7wBo"
-        ]
+        "leftFront": {
+          "x": 107.00000000000001,
+          "y": 179.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 45.0,
+          "y": 70.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
-      "type": "UnGroup",
+      "type": "Resize",
       "data": {
         "names": [
-          "Perky_Warpod_BXJ0AVVCMMkojzXuWWm8qJNfWRoiSSjJsxXm7wBo"
-        ]
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 76.0,
+          "y": 124.5,
+          "z": 95.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 107.00000000000001,
+          "y": 179.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 45.0,
+          "y": 70.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": 76.50000000000001,
+          "y": 126.0,
+          "z": 95.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 107.00000000000003,
+          "y": 182.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 46.0,
+          "y": 70.0,
+          "z": 31.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     }
   ],
-  "currentIndex": 99,
-  "projectName": "Kevin Project Test"
+  "currentIndex": 83,
+  "projectName": "A Test Project"
 }
