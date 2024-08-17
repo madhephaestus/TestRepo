@@ -5,8 +5,7 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s",
-        "nameIndex": 0
+        "name": "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s"
       }
     },
     {
@@ -14,8 +13,7 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Jubilant_Monowheel_owJf5nwzjdIWYYoUEFu4OETP8NEWx28LjkeOSSXl",
-        "nameIndex": 0
+        "name": "Jubilant_Monowheel_owJf5nwzjdIWYYoUEFu4OETP8NEWx28LjkeOSSXl"
       }
     },
     {
@@ -149,15 +147,191 @@
       }
     },
     {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -29.851452544699285,
+          "y": 29.561502513826404,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.8965990278142176,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.44284329431820446
+          }
+        },
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 35.671495902199055,
+          "y": 3.8813908027747317,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.9238795325112867,
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.3826834323650899
+          }
+        },
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 34.45829246660263,
+          "y": 0.0,
+          "z": 5.541707533397382,
+          "rotation": {
+            "w": 0.7071067811865475,
+            "x": 0.0,
+            "y": 0.7071067811865476,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 4.782066248217273,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinder.groovy",
+        "name": "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 22.0,
+          "y": -46.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Blooming_Minotaur_1lbIPqmZ6R00crqEE4JsQmmYypbZzvCkwZlDo0yv"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -11.0,
+          "y": -28.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Blooming_Minotaur_1lbIPqmZ6R00crqEE4JsQmmYypbZzvCkwZlDo0yv"
+        ]
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Blooming_Minotaur_1lbIPqmZ6R00crqEE4JsQmmYypbZzvCkwZlDo0yv"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinderHole.groovy",
+        "name": "Radiant_Cyclops_7dO4C31wER6jp5J7B0VTzvrVSzTLS25kQaG2IlYn"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -4.0,
+          "y": 1.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Radiant_Cyclops_7dO4C31wER6jp5J7B0VTzvrVSzTLS25kQaG2IlYn"
+        ]
+      }
+    },
+    {
       "type": "Resize",
       "data": {
         "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+          "Radiant_Cyclops_7dO4C31wER6jp5J7B0VTzvrVSzTLS25kQaG2IlYn"
         ],
         "height": {
-          "x": 15.5,
-          "y": 42.0,
-          "z": 40.0,
+          "x": -4.0,
+          "y": 0.9999999999999991,
+          "z": 52.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -166,8 +340,8 @@
           }
         },
         "leftFront": {
-          "x": 41.0,
-          "y": 80.0,
+          "x": 6.0,
+          "y": 11.0,
           "z": 0.0,
           "rotation": {
             "w": 1.0,
@@ -177,8 +351,643 @@
           }
         },
         "rightRear": {
-          "x": -10.0,
-          "y": 4.0,
+          "x": -14.0,
+          "y": -9.000000000000002,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 20.0,
+          "y": 40.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Radiant_Cyclops_7dO4C31wER6jp5J7B0VTzvrVSzTLS25kQaG2IlYn"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn",
+          "Radiant_Cyclops_7dO4C31wER6jp5J7B0VTzvrVSzTLS25kQaG2IlYn"
+        ],
+        "groupID": "Glowing_Hologram_SRsXs2RbwED3NjpGGEl7DedYetyeOPVWvV2mesiO",
+        "hull": false
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinder.groovy",
+        "name": "Effulgent_Werewolf_UIjAFkveEnWLYVaTqW0pyVlOowTZNCqwlY7L9xs6"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": -7.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Effulgent_Werewolf_UIjAFkveEnWLYVaTqW0pyVlOowTZNCqwlY7L9xs6"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinderHole.groovy",
+        "name": "Glowing_Nanobot_ISnFBeP23vDxePjOSMqHGx5IR3NJhwNopLvQvF6g"
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Effulgent_Werewolf_UIjAFkveEnWLYVaTqW0pyVlOowTZNCqwlY7L9xs6",
+          "Glowing_Nanobot_ISnFBeP23vDxePjOSMqHGx5IR3NJhwNopLvQvF6g"
+        ],
+        "groupID": "Sparkling_Gorgon_EX8gq6M1nPU9O3c95V9hSsRcQi7825TD3Gu7MPtX",
+        "hull": false
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cube.groovy",
+        "name": "Gleaming_Replicant_q8hukSbY0WWlvfN7qQGji74pf4B0BCrdpWkHGe75"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 58.0,
+          "y": 17.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Gleaming_Replicant_q8hukSbY0WWlvfN7qQGji74pf4B0BCrdpWkHGe75"
+        ]
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Sparkling_Gorgon_EX8gq6M1nPU9O3c95V9hSsRcQi7825TD3Gu7MPtX"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cubeHole.groovy",
+        "name": "Euphoric_Banshee_ADdpznMXzBe3vGpkXzhAzgIgO2vrpWk8IZeKZOTK"
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Euphoric_Banshee_ADdpznMXzBe3vGpkXzhAzgIgO2vrpWk8IZeKZOTK"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Blithe_Hovercraft_v7tuA3BfaEHT7XL834zk6xXRqIpBEugOveuDmBG0"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 4.0,
+          "y": -15.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Blithe_Hovercraft_v7tuA3BfaEHT7XL834zk6xXRqIpBEugOveuDmBG0",
+          "Gleaming_Replicant_q8hukSbY0WWlvfN7qQGji74pf4B0BCrdpWkHGe75",
+          "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw",
+          "Glowing_Hologram_SRsXs2RbwED3NjpGGEl7DedYetyeOPVWvV2mesiO"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -9.0,
+          "y": 27.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Blithe_Hovercraft_v7tuA3BfaEHT7XL834zk6xXRqIpBEugOveuDmBG0",
+          "Gleaming_Replicant_q8hukSbY0WWlvfN7qQGji74pf4B0BCrdpWkHGe75",
+          "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw",
+          "Glowing_Hologram_SRsXs2RbwED3NjpGGEl7DedYetyeOPVWvV2mesiO"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 32.0,
+          "y": -17.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Blithe_Hovercraft_v7tuA3BfaEHT7XL834zk6xXRqIpBEugOveuDmBG0"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinderHole.groovy",
+        "name": "Brilliant_Basilisk_L1KGe8eDS6C6oqbCFoo6j4CzUOMGySb1AH8Ehh3z"
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Brilliant_Basilisk_L1KGe8eDS6C6oqbCFoo6j4CzUOMGySb1AH8Ehh3z"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Euphoric_Jetpack_GFZE8WyWGDTiKYStMfoNXlNY56hSKGl7Woe5rvlU"
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cubeHole.groovy",
+        "name": "Majestic_Gargoyle_fDfOKdntAvhdaW0YYFMPZqzeQrARlR4zXItkkTwj"
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Blithe_Hovercraft_v7tuA3BfaEHT7XL834zk6xXRqIpBEugOveuDmBG0",
+          "Majestic_Gargoyle_fDfOKdntAvhdaW0YYFMPZqzeQrARlR4zXItkkTwj",
+          "Gleaming_Replicant_q8hukSbY0WWlvfN7qQGji74pf4B0BCrdpWkHGe75",
+          "Euphoric_Jetpack_GFZE8WyWGDTiKYStMfoNXlNY56hSKGl7Woe5rvlU",
+          "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw",
+          "Glowing_Hologram_SRsXs2RbwED3NjpGGEl7DedYetyeOPVWvV2mesiO"
+        ],
+        "height": {
+          "x": 51.729146233301314,
+          "y": -8.99865478926413,
+          "z": 47.88254665435529,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 114.0,
+          "y": 93.00269042147174,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -10.541707533397371,
+          "y": -111.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cube.groovy",
+        "name": "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -26.0,
+          "y": 7.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP",
+          "Blithe_Hovercraft_v7tuA3BfaEHT7XL834zk6xXRqIpBEugOveuDmBG0",
+          "Majestic_Gargoyle_fDfOKdntAvhdaW0YYFMPZqzeQrARlR4zXItkkTwj",
+          "Gleaming_Replicant_q8hukSbY0WWlvfN7qQGji74pf4B0BCrdpWkHGe75",
+          "Euphoric_Jetpack_GFZE8WyWGDTiKYStMfoNXlNY56hSKGl7Woe5rvlU",
+          "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw",
+          "Glowing_Hologram_SRsXs2RbwED3NjpGGEl7DedYetyeOPVWvV2mesiO"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 28.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP",
+          "Blithe_Hovercraft_v7tuA3BfaEHT7XL834zk6xXRqIpBEugOveuDmBG0",
+          "Majestic_Gargoyle_fDfOKdntAvhdaW0YYFMPZqzeQrARlR4zXItkkTwj",
+          "Gleaming_Replicant_q8hukSbY0WWlvfN7qQGji74pf4B0BCrdpWkHGe75",
+          "Euphoric_Jetpack_GFZE8WyWGDTiKYStMfoNXlNY56hSKGl7Woe5rvlU",
+          "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw",
+          "Glowing_Hologram_SRsXs2RbwED3NjpGGEl7DedYetyeOPVWvV2mesiO"
+        ]
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP",
+          "Blithe_Hovercraft_v7tuA3BfaEHT7XL834zk6xXRqIpBEugOveuDmBG0",
+          "Majestic_Gargoyle_fDfOKdntAvhdaW0YYFMPZqzeQrARlR4zXItkkTwj",
+          "Gleaming_Replicant_q8hukSbY0WWlvfN7qQGji74pf4B0BCrdpWkHGe75",
+          "Euphoric_Jetpack_GFZE8WyWGDTiKYStMfoNXlNY56hSKGl7Woe5rvlU",
+          "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw",
+          "Glowing_Hologram_SRsXs2RbwED3NjpGGEl7DedYetyeOPVWvV2mesiO"
+        ],
+        "height": {
+          "x": 25.729146233301307,
+          "y": -1.9986547892641298,
+          "z": 100.88254665435528,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 87.99999999999999,
+          "y": 100.00269042147174,
+          "z": 28.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -36.54170753339737,
+          "y": -104.0,
+          "z": 28.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP",
+          "Blithe_Hovercraft_v7tuA3BfaEHT7XL834zk6xXRqIpBEugOveuDmBG0",
+          "Majestic_Gargoyle_fDfOKdntAvhdaW0YYFMPZqzeQrARlR4zXItkkTwj",
+          "Gleaming_Replicant_q8hukSbY0WWlvfN7qQGji74pf4B0BCrdpWkHGe75",
+          "Euphoric_Jetpack_GFZE8WyWGDTiKYStMfoNXlNY56hSKGl7Woe5rvlU",
+          "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw",
+          "Glowing_Hologram_SRsXs2RbwED3NjpGGEl7DedYetyeOPVWvV2mesiO"
+        ],
+        "height": {
+          "x": 23.229146233301307,
+          "y": 24.001345210735877,
+          "z": 100.88254665435528,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 87.99999999999999,
+          "y": 152.00269042147175,
+          "z": 28.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -41.54170753339737,
+          "y": -104.0,
+          "z": 28.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 78.88815511105543,
+          "z": 70.75038850579644,
+          "rotation": {
+            "w": -0.19509032201612841,
+            "x": 0.9807852804032304,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Gleaming_Replicant_q8hukSbY0WWlvfN7qQGji74pf4B0BCrdpWkHGe75"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -16.0,
+          "y": -30.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Gleaming_Replicant_q8hukSbY0WWlvfN7qQGji74pf4B0BCrdpWkHGe75"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 11.391143805089271,
+          "y": -30.98498382079333,
+          "z": 7.105427357601002E-15,
+          "rotation": {
+            "w": 0.9529240034046137,
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.30320924084751066
+          }
+        },
+        "names": [
+          "Gleaming_Replicant_q8hukSbY0WWlvfN7qQGji74pf4B0BCrdpWkHGe75"
+        ]
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Gleaming_Replicant_q8hukSbY0WWlvfN7qQGji74pf4B0BCrdpWkHGe75"
+        ]
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Majestic_Gargoyle_fDfOKdntAvhdaW0YYFMPZqzeQrARlR4zXItkkTwj"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 73.0,
+          "y": -15.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -28.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP"
+        ]
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP"
+        ],
+        "height": {
+          "x": 43.92321996952589,
+          "y": 53.29374449952099,
+          "z": 30.442218197150154,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 52.824691902023616,
+          "y": 32.842730490468824,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 35.02174803702816,
+          "y": 73.74475850857316,
           "z": 0.0,
           "rotation": {
             "w": 1.0,
@@ -193,12 +1002,12 @@
       "type": "Resize",
       "data": {
         "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+          "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP"
         ],
         "height": {
-          "x": 19.5,
-          "y": 27.999999999999993,
-          "z": 40.0,
+          "x": 43.42321996952589,
+          "y": 83.29374449952098,
+          "z": 30.442218197150154,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -207,8 +1016,8 @@
           }
         },
         "leftFront": {
-          "x": 49.0,
-          "y": 79.99999999999999,
+          "x": 52.824691902023616,
+          "y": 73.74475850857316,
           "z": 0.0,
           "rotation": {
             "w": 1.0,
@@ -218,8 +1027,8 @@
           }
         },
         "rightRear": {
-          "x": -10.0,
-          "y": -24.0,
+          "x": 34.02174803702816,
+          "y": 92.84273049046882,
           "z": 0.0,
           "rotation": {
             "w": 1.0,
@@ -234,12 +1043,12 @@
       "type": "Resize",
       "data": {
         "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+          "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP"
         ],
         "height": {
-          "x": 18.000000000000004,
-          "y": 23.999999999999993,
-          "z": 40.0,
+          "x": 44.42321996952589,
+          "y": 51.793744499520976,
+          "z": 30.442218197150154,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -248,8 +1057,8 @@
           }
         },
         "leftFront": {
-          "x": 46.00000000000001,
-          "y": 71.99999999999999,
+          "x": 52.824691902023616,
+          "y": 73.74475850857316,
           "z": 0.0,
           "rotation": {
             "w": 1.0,
@@ -259,8 +1068,68 @@
           }
         },
         "rightRear": {
-          "x": -10.0,
-          "y": -24.0,
+          "x": 36.02174803702816,
+          "y": 29.842730490468824,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": -4.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP"
+        ]
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP"
+        ],
+        "height": {
+          "x": 44.42321996952589,
+          "y": 47.793744499521,
+          "z": 46.442218197150154,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 52.824691902023616,
+          "y": 69.74475850857317,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 36.02174803702816,
+          "y": 25.842730490468824,
           "z": 0.0,
           "rotation": {
             "w": 1.0,
@@ -275,12 +1144,12 @@
       "type": "Resize",
       "data": {
         "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+          "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP"
         ],
         "height": {
-          "x": 11.500000000000007,
-          "y": 40.999999999999986,
-          "z": 40.0,
+          "x": 61.92321996952589,
+          "y": 44.293744499521,
+          "z": 46.442218197150154,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -289,8 +1158,8 @@
           }
         },
         "leftFront": {
-          "x": 33.000000000000014,
-          "y": 105.99999999999997,
+          "x": 87.82469190202362,
+          "y": 62.74475850857317,
           "z": 0.0,
           "rotation": {
             "w": 1.0,
@@ -300,49 +1169,8 @@
           }
         },
         "rightRear": {
-          "x": -10.0,
-          "y": -24.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 15.000000000000007,
-          "y": 30.499999999999986,
-          "z": 40.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 40.000000000000014,
-          "y": 84.99999999999997,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -10.0,
-          "y": -24.0,
+          "x": 36.02174803702816,
+          "y": 25.842730490468824,
           "z": 0.0,
           "rotation": {
             "w": 1.0,
@@ -359,7 +1187,7 @@
         "location": {
           "x": 0.0,
           "y": 0.0,
-          "z": 31.0,
+          "z": 10.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -368,869 +1196,8 @@
           }
         },
         "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+          "Euphoric_Jetpack_GFZE8WyWGDTiKYStMfoNXlNY56hSKGl7Woe5rvlU"
         ]
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 13.500000000000007,
-          "y": 40.999999999999986,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 37.000000000000014,
-          "y": 105.99999999999997,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -10.0,
-          "y": -24.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 15.000000000000007,
-          "y": 30.499999999999986,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 41.000000000000014,
-          "y": 108.99999999999997,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -10.0,
-          "y": -24.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 15.500000000000007,
-          "y": 42.49999999999998,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 47.000000000000014,
-          "y": 57.99999999999996,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -10.0,
-          "y": -24.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 18.500000000000007,
-          "y": 16.999999999999986,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 44.000000000000014,
-          "y": 94.99999999999997,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -10.0,
-          "y": -24.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 17.000000000000007,
-          "y": 35.499999999999986,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 53.000000000000014,
-          "y": 105.99999999999997,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -10.0,
-          "y": -24.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 21.500000000000004,
-          "y": 40.99999999999999,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 53.00000000000001,
-          "y": 105.99999999999999,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -3.0,
-          "y": -80.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 25.000000000000007,
-          "y": 12.999999999999986,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 43.000000000000014,
-          "y": 140.99999999999997,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -3.0,
-          "y": -80.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 20.000000000000007,
-          "y": 30.5,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 65.00000000000001,
-          "y": 10.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -3.0,
-          "y": -80.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 31.000000000000007,
-          "y": -35.0,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 59.000000000000014,
-          "y": 83.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -3.0,
-          "y": -80.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 43.50000000000001,
-          "y": 27.5,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 90.00000000000001,
-          "y": 83.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -3.0,
-          "y": -28.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 43.00000000000001,
-          "y": 29.5,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 89.00000000000001,
-          "y": 87.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -3.0,
-          "y": -28.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 34.00000000000001,
-          "y": 57.0,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 71.00000000000001,
-          "y": 142.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -3.0,
-          "y": -28.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 47.00000000000001,
-          "y": 12.5,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 97.00000000000001,
-          "y": 53.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -3.0,
-          "y": -28.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 45.00000000000001,
-          "y": 17.0,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 93.00000000000001,
-          "y": 62.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -3.0,
-          "y": -28.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 45.0,
-          "y": 42.0,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 93.0,
-          "y": 112.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -3.0,
-          "y": -28.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 37.5,
-          "y": 59.0,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 78.0,
-          "y": 146.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -3.0,
-          "y": -28.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 43.5,
-          "y": 45.5,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 90.0,
-          "y": 119.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -3.0,
-          "y": -28.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 42.0,
-          "y": 51.5,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 87.0,
-          "y": 131.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -3.0,
-          "y": -28.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 45.5,
-          "y": 33.5,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 94.0,
-          "y": 95.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -3.0,
-          "y": -28.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 33.0,
-          "y": 84.5,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 69.0,
-          "y": 197.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -3.0,
-          "y": -28.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 68.0,
-          "y": 42.5,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 139.0,
-          "y": 197.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -3.0,
-          "y": -112.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
       }
     },
     {
@@ -1238,8 +1205,8 @@
       "data": {
         "location": {
           "x": 0.0,
-          "y": -15.0,
-          "z": 0.0,
+          "y": 0.0,
+          "z": 17.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -1248,57 +1215,16 @@
           }
         },
         "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+          "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP"
         ]
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 45.0,
-          "y": 132.5,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 93.0,
-          "y": 182.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": -3.0,
-          "y": 83.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
       }
     },
     {
       "type": "MoveCenter",
       "data": {
         "location": {
-          "x": 4.0,
-          "y": -114.0,
+          "x": 91.0,
+          "y": -86.0,
           "z": 0.0,
           "rotation": {
             "w": 1.0,
@@ -1308,180 +1234,16 @@
           }
         },
         "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+          "Glowing_Hologram_SRsXs2RbwED3NjpGGEl7DedYetyeOPVWvV2mesiO"
         ]
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 45.0,
-          "y": 49.0,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 89.0,
-          "y": 129.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 1.0,
-          "y": -31.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 53.00000000000001,
-          "y": 50.0,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 89.0,
-          "y": 131.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 17.0,
-          "y": -31.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 42.0,
-          "y": -37.000000000000014,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 67.0,
-          "y": 130.99999999999997,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 17.0,
-          "y": -205.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 72.5,
-          "y": -105.5,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 128.0,
-          "y": -6.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 17.0,
-          "y": -205.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
       }
     },
     {
       "type": "MoveCenter",
       "data": {
         "location": {
-          "x": -16.0,
-          "y": 129.0,
+          "x": 19.0,
+          "y": -69.0,
           "z": 0.0,
           "rotation": {
             "w": 1.0,
@@ -1491,963 +1253,301 @@
           }
         },
         "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+          "Glowing_Hologram_SRsXs2RbwED3NjpGGEl7DedYetyeOPVWvV2mesiO"
         ]
       }
     },
     {
-      "type": "Resize",
+      "type": "MoveCenter",
       "data": {
+        "location": {
+          "x": -20.061064403851162,
+          "y": -73.99449146280519,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.9509386363033735,
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.30937955650863613
+          }
+        },
         "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 54.0,
-          "y": 68.5,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 107.0,
-          "y": 123.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 1.0,
-          "y": 14.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
+          "Glowing_Hologram_SRsXs2RbwED3NjpGGEl7DedYetyeOPVWvV2mesiO"
+        ]
       }
     },
     {
-      "type": "Resize",
+      "type": "MoveCenter",
       "data": {
+        "location": {
+          "x": 158.55040088531015,
+          "y": -178.92207383569374,
+          "z": 0.0,
+          "rotation": {
+            "w": -0.26325873353371865,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.9647252661862975
+          }
+        },
         "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 44.5,
-          "y": -26.0,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 88.0,
-          "y": 123.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 1.0,
-          "y": -175.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
+          "Glowing_Hologram_SRsXs2RbwED3NjpGGEl7DedYetyeOPVWvV2mesiO"
+        ]
       }
     },
     {
-      "type": "Resize",
+      "type": "AddFromScript",
       "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 44.99999999999999,
-          "y": -21.500000000000014,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 89.0,
-          "y": 132.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 1.0,
-          "y": -175.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cubeHole.groovy",
+        "name": "Glorious_Manticore_AxeQ192w5VMnqyzcugUQGWwM0xmggufLS1ELDgel"
       }
     },
     {
-      "type": "Resize",
+      "type": "AddFromScript",
       "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 39.0,
-          "y": -114.50000000000001,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 77.0,
-          "y": -54.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 1.0,
-          "y": -175.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinderHole.groovy",
+        "name": "Twinkling_Forcefield_zD3pMvGZcifrbjLY3KmahFChoN1MmQ0geqRVQXXz"
       }
     },
     {
-      "type": "Resize",
+      "type": "AddFromScript",
       "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 45.0,
-          "y": 4.5,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 89.0,
-          "y": 184.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 1.0,
-          "y": -175.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cube.groovy",
+        "name": "Vibrant_Submarine_qNiTObtW4wHRMkgI1WcFN0fcjYuTvemFxULHRD0U"
       }
     },
     {
-      "type": "Resize",
+      "type": "AddFromScript",
       "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 34.5,
-          "y": 89.00000000000001,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 68.0,
-          "y": 184.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 1.0,
-          "y": -6.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cube.groovy",
+        "name": "Magnificent_Cerberus_oCcBnbExiZC7NnQEh5hyOQ3iEXUzROe9Ov4FFksD"
       }
     },
     {
-      "type": "Resize",
+      "type": "MoveCenter",
       "data": {
+        "location": {
+          "x": -38.0,
+          "y": 1.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
         "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 28.0,
-          "y": 4.0,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 55.0,
-          "y": 184.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 1.0,
-          "y": -176.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
+          "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP",
+          "Magnificent_Cerberus_oCcBnbExiZC7NnQEh5hyOQ3iEXUzROe9Ov4FFksD",
+          "Blithe_Hovercraft_v7tuA3BfaEHT7XL834zk6xXRqIpBEugOveuDmBG0",
+          "Vibrant_Submarine_qNiTObtW4wHRMkgI1WcFN0fcjYuTvemFxULHRD0U",
+          "Euphoric_Jetpack_GFZE8WyWGDTiKYStMfoNXlNY56hSKGl7Woe5rvlU",
+          "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw",
+          "Glowing_Hologram_SRsXs2RbwED3NjpGGEl7DedYetyeOPVWvV2mesiO",
+          "Twinkling_Forcefield_zD3pMvGZcifrbjLY3KmahFChoN1MmQ0geqRVQXXz",
+          "Glorious_Manticore_AxeQ192w5VMnqyzcugUQGWwM0xmggufLS1ELDgel"
+        ]
       }
     },
     {
-      "type": "Resize",
+      "type": "AddFromScript",
       "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 61.0,
-          "y": -9.999999999999986,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 121.0,
-          "y": 184.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 1.0,
-          "y": -204.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Inventive_Hoverboard_yopRpLCaAztOucqDbvjixuF3Usg77Gs3fhv5GLzG"
       }
     },
     {
-      "type": "Resize",
+      "type": "AddFromScript",
       "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 84.0,
-          "y": 48.50000000000003,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 121.0,
-          "y": 184.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 47.0,
-          "y": -87.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Lively_Siren_hkY7olwQ4ZXen2n5OZJKkWbm0uwHcB6CsM8rkJ5w"
       }
     },
     {
-      "type": "Resize",
+      "type": "AddFromScript",
       "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 84.5,
-          "y": 87.0,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 122.0,
-          "y": 184.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 47.0,
-          "y": -10.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinder.groovy",
+        "name": "Euphoric_Skycycle_4T4UWHYIkHXNkiqzTtxJWSfZ1YKlapb4lucqKNGe"
       }
     },
     {
-      "type": "Resize",
+      "type": "AddFromScript",
       "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 84.0,
-          "y": 56.5,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 121.0,
-          "y": 123.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 47.0,
-          "y": -10.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinder.groovy",
+        "name": "Peppy_Yeti_B2oswYA75eqSHtkQ3s4EU8vCmUUbKGeyUMxqXnaU"
       }
     },
     {
-      "type": "Resize",
+      "type": "MoveCenter",
       "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 85.5,
-          "y": 16.5,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 124.0,
-          "y": 43.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 47.0,
-          "y": -10.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 98.0,
-          "y": 54.0,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 149.0,
-          "y": 118.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 47.0,
-          "y": -10.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 81.5,
-          "y": 94.0,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 116.0,
-          "y": 198.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 47.0,
-          "y": -10.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 82.0,
-          "y": 74.0,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 116.0,
-          "y": 198.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 48.0,
-          "y": -50.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 84.5,
-          "y": 93.5,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 116.0,
-          "y": 198.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 53.0,
-          "y": -11.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 82.0,
-          "y": 137.0,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 111.0,
-          "y": 198.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 53.0,
-          "y": 76.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 86.0,
-          "y": 111.5,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 119.0,
-          "y": 198.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 53.0,
-          "y": 25.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 85.0,
-          "y": 93.0,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 117.0,
-          "y": 161.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 53.0,
-          "y": 25.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 78.5,
-          "y": 124.5,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 104.0,
-          "y": 224.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 53.0,
-          "y": 25.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 81.0,
-          "y": 125.5,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 109.0,
-          "y": 226.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 53.0,
-          "y": 25.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 80.0,
-          "y": 164.0,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 107.0,
-          "y": 226.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 53.0,
-          "y": 102.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
-      }
-    },
-    {
-      "type": "Resize",
-      "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 83.0,
-          "y": 122.5,
-          "z": 71.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 113.0,
-          "y": 226.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 53.0,
+        "location": {
+          "x": 36.0,
           "y": 19.0,
-          "z": 31.0,
+          "z": 0.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
             "y": 0.0,
             "z": 0.0
           }
-        }
+        },
+        "names": [
+          "Glowing_Hologram_SRsXs2RbwED3NjpGGEl7DedYetyeOPVWvV2mesiO"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -29.0,
+          "y": -69.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Peppy_Yeti_B2oswYA75eqSHtkQ3s4EU8vCmUUbKGeyUMxqXnaU"
+        ]
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Peppy_Yeti_B2oswYA75eqSHtkQ3s4EU8vCmUUbKGeyUMxqXnaU"
+        ]
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Euphoric_Skycycle_4T4UWHYIkHXNkiqzTtxJWSfZ1YKlapb4lucqKNGe"
+        ]
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Lively_Siren_hkY7olwQ4ZXen2n5OZJKkWbm0uwHcB6CsM8rkJ5w"
+        ]
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Inventive_Hoverboard_yopRpLCaAztOucqDbvjixuF3Usg77Gs3fhv5GLzG"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -74.0,
+          "y": -101.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Blithe_Hovercraft_v7tuA3BfaEHT7XL834zk6xXRqIpBEugOveuDmBG0"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 5.0,
+          "y": -32.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw"
+        ]
       }
     },
     {
       "type": "Resize",
       "data": {
         "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+          "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw"
         ],
         "height": {
-          "x": 80.5,
-          "y": 150.5,
-          "z": 71.0,
+          "x": -12.027742574921392,
+          "y": -122.31403918901802,
+          "z": 58.442218197150154,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2456,9 +1556,9 @@
           }
         },
         "leftFront": {
-          "x": 108.0,
-          "y": 226.00000000000003,
-          "z": 31.0,
+          "x": 19.586984071800646,
+          "y": -97.62807837803604,
+          "z": 28.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2467,9 +1567,9 @@
           }
         },
         "rightRear": {
-          "x": 53.0,
-          "y": 75.0,
-          "z": 31.0,
+          "x": -43.64246922164343,
+          "y": -147.0,
+          "z": 28.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2484,7 +1584,480 @@
       "data": {
         "location": {
           "x": 0.0,
-          "y": 2.0,
+          "y": -79.09293009044296,
+          "z": 165.5351482875931,
+          "rotation": {
+            "w": 0.7071067811865475,
+            "x": -0.7071067811865476,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw"
+        ]
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw"
+        ],
+        "height": {
+          "x": 1.9722574250786096,
+          "y": -100.81403918901802,
+          "z": 67.90706990955707,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 47.58698407180065,
+          "y": -64.09293009044293,
+          "z": 18.535148287593103,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -43.64246922164343,
+          "y": -137.5351482875931,
+          "z": 18.535148287593103,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw"
+        ],
+        "height": {
+          "x": -2.5277425749213904,
+          "y": -104.81403918901802,
+          "z": 67.90706990955707,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 38.58698407180065,
+          "y": -72.09293009044293,
+          "z": 18.535148287593103,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -43.64246922164343,
+          "y": -137.5351482875931,
+          "z": 18.535148287593103,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw"
+        ],
+        "height": {
+          "x": -11.02774257492139,
+          "y": -111.31403918901802,
+          "z": 67.90706990955707,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 21.58698407180065,
+          "y": -85.09293009044293,
+          "z": 18.535148287593103,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -43.64246922164343,
+          "y": -137.5351482875931,
+          "z": 18.535148287593103,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw"
+        ],
+        "height": {
+          "x": -14.527742574921394,
+          "y": -114.31403918901802,
+          "z": 67.90706990955707,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 14.58698407180065,
+          "y": -91.09293009044293,
+          "z": 18.535148287593103,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -43.64246922164343,
+          "y": -137.5351482875931,
+          "z": 18.535148287593103,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw"
+        ],
+        "height": {
+          "x": -20.027742574921383,
+          "y": -118.81403918901802,
+          "z": 67.90706990955707,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 3.58698407180065,
+          "y": -100.09293009044293,
+          "z": 18.535148287593103,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -43.64246922164343,
+          "y": -137.5351482875931,
+          "z": 18.535148287593103,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw"
+        ],
+        "height": {
+          "x": 4.472257425078606,
+          "y": -116.31403918901802,
+          "z": 67.90706990955707,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 52.58698407180065,
+          "y": -95.09293009044293,
+          "z": 18.535148287593103,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -43.64246922164343,
+          "y": -137.5351482875931,
+          "z": 18.535148287593103,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw"
+        ],
+        "height": {
+          "x": 3.4722574250786096,
+          "y": -114.31403918901802,
+          "z": 67.90706990955707,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 50.58698407180065,
+          "y": -91.09293009044293,
+          "z": 18.535148287593103,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -43.64246922164343,
+          "y": -137.5351482875931,
+          "z": 18.535148287593103,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -57.0,
+          "y": 72.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Glowing_Hologram_SRsXs2RbwED3NjpGGEl7DedYetyeOPVWvV2mesiO"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -32.0,
+          "y": 54.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Glowing_Hologram_SRsXs2RbwED3NjpGGEl7DedYetyeOPVWvV2mesiO"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 5.0,
+          "y": 16.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Glowing_Hologram_SRsXs2RbwED3NjpGGEl7DedYetyeOPVWvV2mesiO"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP",
+          "Glowing_Hologram_SRsXs2RbwED3NjpGGEl7DedYetyeOPVWvV2mesiO"
+        ],
+        "groupID": "Flourishing_Hoverbike_7slSykPg1LJW1e9hBUcwL6ndi8LeVptJOOlpHrjv",
+        "hull": false
+      }
+    },
+    {
+      "type": "UnGroup",
+      "data": {
+        "names": [
+          "Flourishing_Hoverbike_7slSykPg1LJW1e9hBUcwL6ndi8LeVptJOOlpHrjv"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinderHole.groovy",
+        "name": "Bountiful_Sasquatch_2nS7AOanKRMDrPFM7PzaB0zlrfZrdZ2fc4QF3PfN"
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Copious_Hyperloop_tDU4LDN6m6j77EFfUhr91kDRGcpgWOIo7foVCHHK"
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinder.groovy",
+        "name": "Dazzling_Thunderbird_0xExiCNIR1govfxT2onaDzMqk77LOWUJ0mZRVwJb"
+      }
+    },
+    {
+      "type": "ToHole",
+      "data": {
+        "names": [
+          "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP"
+        ]
+      }
+    },
+    {
+      "type": "ToSolid",
+      "data": {
+        "names": [
+          "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP"
+        ],
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0,
+        "useColor": false
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP",
+          "Glowing_Hologram_SRsXs2RbwED3NjpGGEl7DedYetyeOPVWvV2mesiO"
+        ],
+        "groupID": "Creative_Gyrocopter_NnlQXiHBjoE60g74EsybTsKPAvjb7pdd98DWIMFd",
+        "hull": false
+      }
+    },
+    {
+      "type": "UnGroup",
+      "data": {
+        "names": [
+          "Creative_Gyrocopter_NnlQXiHBjoE60g74EsybTsKPAvjb7pdd98DWIMFd"
+        ]
+      }
+    },
+    {
+      "type": "UnGroup",
+      "data": {
+        "names": [
+          "Glowing_Hologram_SRsXs2RbwED3NjpGGEl7DedYetyeOPVWvV2mesiO"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn",
+          "Radiant_Cyclops_7dO4C31wER6jp5J7B0VTzvrVSzTLS25kQaG2IlYn"
+        ],
+        "groupID": "Dazzling_Leviathan_Jxhp4v4SuOiFs4dRWxuNUagXMgZHnzl0XtyfldQh",
+        "hull": false
+      }
+    },
+    {
+      "type": "UnGroup",
+      "data": {
+        "names": [
+          "Dazzling_Leviathan_Jxhp4v4SuOiFs4dRWxuNUagXMgZHnzl0XtyfldQh"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -1.0,
+          "y": -5.0,
           "z": 0.0,
           "rotation": {
             "w": 1.0,
@@ -2505,9 +2078,9 @@
           "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
         ],
         "height": {
-          "x": 75.5,
-          "y": 125.50000000000001,
-          "z": 71.0,
+          "x": 24.68774576004659,
+          "y": 130.67194979936318,
+          "z": 103.44210681044605,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2516,9 +2089,9 @@
           }
         },
         "leftFront": {
-          "x": 108.0,
-          "y": 228.00000000000003,
-          "z": 31.0,
+          "x": 51.7540261521043,
+          "y": 236.702412697653,
+          "z": 28.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2527,9 +2100,9 @@
           }
         },
         "rightRear": {
-          "x": 43.0,
-          "y": 23.0,
-          "z": 31.0,
+          "x": -2.3785346320111245,
+          "y": 24.641486901073392,
+          "z": 28.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2546,9 +2119,9 @@
           "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
         ],
         "height": {
-          "x": 74.0,
-          "y": 145.0,
-          "z": 71.0,
+          "x": 7.687745760046589,
+          "y": 99.17194979936319,
+          "z": 103.44210681044605,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2557,9 +2130,9 @@
           }
         },
         "leftFront": {
-          "x": 105.0,
-          "y": 228.00000000000003,
-          "z": 31.0,
+          "x": 51.7540261521043,
+          "y": 173.702412697653,
+          "z": 28.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2568,9 +2141,9 @@
           }
         },
         "rightRear": {
-          "x": 43.0,
-          "y": 62.0,
-          "z": 31.0,
+          "x": -36.378534632011124,
+          "y": 24.641486901073392,
+          "z": 28.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2587,9 +2160,9 @@
           "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
         ],
         "height": {
-          "x": 80.0,
-          "y": 110.00000000000001,
-          "z": 71.0,
+          "x": -1.8122542399534112,
+          "y": 89.1719497993632,
+          "z": 103.44210681044605,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2598,9 +2171,9 @@
           }
         },
         "leftFront": {
-          "x": 105.0,
-          "y": 228.00000000000003,
-          "z": 31.0,
+          "x": 51.7540261521043,
+          "y": 153.702412697653,
+          "z": 28.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2609,9 +2182,1276 @@
           }
         },
         "rightRear": {
-          "x": 55.0,
+          "x": -55.378534632011124,
+          "y": 24.641486901073392,
+          "z": 28.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": -1.8122542399534112,
+          "y": 89.17194979936319,
+          "z": 132.44210681044603,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 51.7540261521043,
+          "y": 153.702412697653,
+          "z": 28.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -55.378534632011124,
+          "y": 24.641486901073392,
+          "z": 28.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": -1.8122542399534112,
+          "y": 89.17194979936319,
+          "z": 96.44210681044603,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 51.7540261521043,
+          "y": 153.702412697653,
+          "z": 28.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -55.378534632011124,
+          "y": 24.641486901073392,
+          "z": 28.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": -1.8122542399534112,
+          "y": 89.17194979936319,
+          "z": 69.44210681044603,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 51.7540261521043,
+          "y": 153.702412697653,
+          "z": 28.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -55.378534632011124,
+          "y": 24.641486901073392,
+          "z": 28.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ],
+        "height": {
+          "x": -1.8122542399534112,
+          "y": 89.17194979936319,
+          "z": 127.44210681044603,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 51.7540261521043,
+          "y": 153.702412697653,
+          "z": 28.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -55.378534632011124,
+          "y": 24.641486901073392,
+          "z": 28.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinder.groovy",
+        "name": "Mirthful_Airship_Zgp6jPLA6u0sIJqPhxKMRfLHXFfNUykcZEsZhWJO"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -12.0,
+          "y": -13.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP",
+          "Dazzling_Thunderbird_0xExiCNIR1govfxT2onaDzMqk77LOWUJ0mZRVwJb",
+          "Euphoric_Jetpack_GFZE8WyWGDTiKYStMfoNXlNY56hSKGl7Woe5rvlU",
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn",
+          "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw",
+          "Mirthful_Airship_Zgp6jPLA6u0sIJqPhxKMRfLHXFfNUykcZEsZhWJO",
+          "Radiant_Cyclops_7dO4C31wER6jp5J7B0VTzvrVSzTLS25kQaG2IlYn",
+          "Magnificent_Cerberus_oCcBnbExiZC7NnQEh5hyOQ3iEXUzROe9Ov4FFksD",
+          "Copious_Hyperloop_tDU4LDN6m6j77EFfUhr91kDRGcpgWOIo7foVCHHK",
+          "Blithe_Hovercraft_v7tuA3BfaEHT7XL834zk6xXRqIpBEugOveuDmBG0",
+          "Vibrant_Submarine_qNiTObtW4wHRMkgI1WcFN0fcjYuTvemFxULHRD0U",
+          "Twinkling_Forcefield_zD3pMvGZcifrbjLY3KmahFChoN1MmQ0geqRVQXXz",
+          "Bountiful_Sasquatch_2nS7AOanKRMDrPFM7PzaB0zlrfZrdZ2fc4QF3PfN",
+          "Glorious_Manticore_AxeQ192w5VMnqyzcugUQGWwM0xmggufLS1ELDgel"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 135.0,
+          "y": 75.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Mirthful_Airship_Zgp6jPLA6u0sIJqPhxKMRfLHXFfNUykcZEsZhWJO"
+        ]
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Dazzling_Thunderbird_0xExiCNIR1govfxT2onaDzMqk77LOWUJ0mZRVwJb"
+        ]
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Bountiful_Sasquatch_2nS7AOanKRMDrPFM7PzaB0zlrfZrdZ2fc4QF3PfN"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 111.0,
+          "y": 61.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Copious_Hyperloop_tDU4LDN6m6j77EFfUhr91kDRGcpgWOIo7foVCHHK"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Dazzling_Behemoth_Toi9psqmhyC2e9ItSRIOJp7828f5zCC5YNI4sYrF"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 82.0,
+          "y": 32.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Dazzling_Behemoth_Toi9psqmhyC2e9ItSRIOJp7828f5zCC5YNI4sYrF"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 113.00000000000003,
+          "y": 0.0,
+          "z": 133.0,
+          "rotation": {
+            "w": 0.7071067811865475,
+            "x": 0.0,
+            "y": -0.7071067811865476,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Mirthful_Airship_Zgp6jPLA6u0sIJqPhxKMRfLHXFfNUykcZEsZhWJO"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -30.0,
+          "y": -30.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Mirthful_Airship_Zgp6jPLA6u0sIJqPhxKMRfLHXFfNUykcZEsZhWJO"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 8.0,
           "y": -8.0,
-          "z": 31.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Copious_Hyperloop_tDU4LDN6m6j77EFfUhr91kDRGcpgWOIo7foVCHHK"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -4.0,
+          "y": -8.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Copious_Hyperloop_tDU4LDN6m6j77EFfUhr91kDRGcpgWOIo7foVCHHK"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Dazzling_Behemoth_Toi9psqmhyC2e9ItSRIOJp7828f5zCC5YNI4sYrF"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Dazzling_Behemoth_Toi9psqmhyC2e9ItSRIOJp7828f5zCC5YNI4sYrF"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Mirthful_Airship_Zgp6jPLA6u0sIJqPhxKMRfLHXFfNUykcZEsZhWJO",
+          "Copious_Hyperloop_tDU4LDN6m6j77EFfUhr91kDRGcpgWOIo7foVCHHK",
+          "Dazzling_Behemoth_Toi9psqmhyC2e9ItSRIOJp7828f5zCC5YNI4sYrF"
+        ],
+        "groupID": "Ingenious_Starship_LjaXrR2piCEIEiNGsEpFOqGax8QWoJwiMy64hxxS",
+        "hull": false
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": -37.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Magnificent_Cerberus_oCcBnbExiZC7NnQEh5hyOQ3iEXUzROe9Ov4FFksD"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 27.0,
+          "y": -13.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Magnificent_Cerberus_oCcBnbExiZC7NnQEh5hyOQ3iEXUzROe9Ov4FFksD"
+        ]
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Magnificent_Cerberus_oCcBnbExiZC7NnQEh5hyOQ3iEXUzROe9Ov4FFksD"
+        ]
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Vibrant_Submarine_qNiTObtW4wHRMkgI1WcFN0fcjYuTvemFxULHRD0U"
+        ]
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Glorious_Manticore_AxeQ192w5VMnqyzcugUQGWwM0xmggufLS1ELDgel"
+        ]
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Twinkling_Forcefield_zD3pMvGZcifrbjLY3KmahFChoN1MmQ0geqRVQXXz"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinder.groovy",
+        "name": "Perky_Manticore_ZNl7CngAXUJXlsdHnB3ji0vKLXdGXbZ2JkZGKfw7"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 16.251203994445575,
+          "y": -116.873891200994,
+          "z": 63.66519857338602,
+          "rotation": {
+            "w": 0.6971065931219914,
+            "x": 0.11850062373612344,
+            "y": -0.11850062373612341,
+            "z": 0.6971065931219914
+          }
+        },
+        "names": [
+          "Perky_Manticore_ZNl7CngAXUJXlsdHnB3ji0vKLXdGXbZ2JkZGKfw7"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Perky_Manticore_ZNl7CngAXUJXlsdHnB3ji0vKLXdGXbZ2JkZGKfw7",
+          "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw"
+        ],
+        "groupID": "Bouncy_Forcefield_6rsvyVXwCf71y7Y1HQeD4KxFLuREwcr0PglPTVxt",
+        "hull": false
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 73.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Bouncy_Forcefield_6rsvyVXwCf71y7Y1HQeD4KxFLuREwcr0PglPTVxt"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -18.535148287593103,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Bouncy_Forcefield_6rsvyVXwCf71y7Y1HQeD4KxFLuREwcr0PglPTVxt"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -7.105427357601002E-15,
+          "y": 44.93566061259866,
+          "z": -7.105427357601002E-15,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Bouncy_Forcefield_6rsvyVXwCf71y7Y1HQeD4KxFLuREwcr0PglPTVxt"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 3.6286055563028015,
+          "y": -5.681016424139017,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Ingenious_Starship_LjaXrR2piCEIEiNGsEpFOqGax8QWoJwiMy64hxxS"
+        ]
+      }
+    },
+    {
+      "type": "UnGroup",
+      "data": {
+        "names": [
+          "Bouncy_Forcefield_6rsvyVXwCf71y7Y1HQeD4KxFLuREwcr0PglPTVxt"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 6.608614815801388,
+          "y": -9.352337823065326E-7,
+          "z": 18.87661126977465,
+          "rotation": {
+            "w": 1.0,
+            "x": 2.042692744197649E-17,
+            "y": 1.3877787807814444E-17,
+            "z": -2.2928230624469474E-18
+          }
+        },
+        "names": [
+          "Perky_Manticore_ZNl7CngAXUJXlsdHnB3ji0vKLXdGXbZ2JkZGKfw7"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 99.3797948674635,
+          "y": 15.416737258312518,
+          "z": -46.93505883536589,
+          "rotation": {
+            "w": 0.7053648561062243,
+            "x": -0.04960190532188252,
+            "y": 0.0496019123414142,
+            "z": -0.70536495592761
+          }
+        },
+        "names": [
+          "Perky_Manticore_ZNl7CngAXUJXlsdHnB3ji0vKLXdGXbZ2JkZGKfw7"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Majestic_Cerberus_1KOcN8uOt2Yj9wD2jbJowbgjCh9aIPjTgQ7g8TL9"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 95.79258918401874,
+          "y": 27.751265806571638,
+          "z": 40.299791184900414,
+          "rotation": {
+            "w": 0.9951847897454063,
+            "x": 0.09801649991408234,
+            "y": -1.9564447683213992E-7,
+            "z": 1.9864248132887034E-6
+          }
+        },
+        "names": [
+          "Majestic_Cerberus_1KOcN8uOt2Yj9wD2jbJowbgjCh9aIPjTgQ7g8TL9"
+        ]
+      }
+    },
+    {
+      "type": "ToHole",
+      "data": {
+        "names": [
+          "Majestic_Cerberus_1KOcN8uOt2Yj9wD2jbJowbgjCh9aIPjTgQ7g8TL9"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -0.991291921496039,
+          "y": 1.402850247633758E-7,
+          "z": -2.8314908310599947,
+          "rotation": {
+            "w": 1.0,
+            "x": 6.128078232592947E-17,
+            "y": 4.1633363423443333E-17,
+            "z": -6.878469187340842E-18
+          }
+        },
+        "names": [
+          "Majestic_Cerberus_1KOcN8uOt2Yj9wD2jbJowbgjCh9aIPjTgQ7g8TL9"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Jaunty_Hoverboard_H55raUpFONdLCSQLtZdtcZUDo4teSoHtsPSeynbZ"
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Sprightly_Siren_P5kMfxwVVYbQ8NntlUbSKdjHJnDb7rTGzUVqsYH3"
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Jocund_Skycycle_IEEhPV4WMyKR1aK0qQiIXyuXto554joWXaYXXkEz"
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Verdant_Yeti_wKQVvaf6bwJ74G10kqqgpUTo0jDmbWuA4mdLrE23"
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Effulgent_Hoverbike_XRU5Rb2D14TYFadGWFgAsjPabdA99C4pwlgb1ltW"
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Resplendent_Sasquatch_8hPkJ4oZE6OFOoR0JAZ84Ulvny7DIHDIhSHIEMcL"
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Effulgent_Hyperloop_LxTpH1rfqfLEwduz0b2vHXYOalgxU3DdZrxbFUm1"
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Mirthful_Thunderbird_Ex7sQylHZuw9hVzyDSkxxDXNaEzuKw5T1Wog3TnT"
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Burgeoning_Gyrocopter_s4E4HDAxQ5R0vqQBqCVi1PqZqfNtw2qMNb3AryR9"
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Fruitful_Leviathan_Lf0cpPQyZ3lLSXOcFPuFosciHv80JDTORiakJ8AO"
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Amazing_Airship_DWXSN5fgs4wLwCA4zvZ4ktbFB2QgCIzZIFSfDyJT"
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Chirpy_Behemoth_dAHhry6gOIXJotLbvTARZUsa52ahbr5xFFzAXiU1"
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Sparkling_Starship_VPOEfpGOlNZ9MyBxuyBKlPSJ0DSfgejVnf9cmU9Q"
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Wonderful_Colossus_LVw3B7rNwJVtDVwV3F35qAqTJ7VRRM9Em1beACbb"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 2.831491538646784,
+          "y": 4.999999599294817,
+          "z": -0.9912919214961917,
+          "rotation": {
+            "w": 1.0,
+            "x": 4.0853854883952994E-16,
+            "y": 2.7755575615628904E-16,
+            "z": -4.585646124893895E-17
+          }
+        },
+        "names": [
+          "Majestic_Cerberus_1KOcN8uOt2Yj9wD2jbJowbgjCh9aIPjTgQ7g8TL9"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -5.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Majestic_Cerberus_1KOcN8uOt2Yj9wD2jbJowbgjCh9aIPjTgQ7g8TL9"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Majestic_Cerberus_1KOcN8uOt2Yj9wD2jbJowbgjCh9aIPjTgQ7g8TL9",
+          "Perky_Manticore_ZNl7CngAXUJXlsdHnB3ji0vKLXdGXbZ2JkZGKfw7"
+        ],
+        "groupID": "Ebullient_Monowheel_uFPGaNxyfoohxSqlugsnQcZwl8zw1dJLlxJ5AOlK",
+        "hull": false
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 12.885257377275831,
+          "y": 124.78960080065868,
+          "z": 70.3949782510247,
+          "rotation": {
+            "w": 0.5466008036499095,
+            "x": 0.4485839513951354,
+            "y": -0.44858395139513524,
+            "z": 0.5466008036499094
+          }
+        },
+        "names": [
+          "Ebullient_Monowheel_uFPGaNxyfoohxSqlugsnQcZwl8zw1dJLlxJ5AOlK"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 76.03956266252615,
+          "y": 108.94447203136572,
+          "z": 131.9445948817385,
+          "rotation": {
+            "w": -0.41881479235865604,
+            "x": 0.7842107568709998,
+            "y": -0.40384527563743905,
+            "z": 0.2156771936360224
+          }
+        },
+        "names": [
+          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 1.9985432247366894,
+          "y": -120.2786710924573,
+          "z": 71.31008212657548,
+          "rotation": {
+            "w": 0.11850062373612348,
+            "x": 0.6971065931219914,
+            "y": 0.6971065931219914,
+            "z": -0.11850062373612356
+          }
+        },
+        "names": [
+          "Ingenious_Starship_LjaXrR2piCEIEiNGsEpFOqGax8QWoJwiMy64hxxS"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cube.groovy",
+        "name": "Blooming_Rocketship_CgnCvPW2YigrIMaTyuZMa3KcTjHKODwtivIfcPRL"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 31.14987614554653,
+          "y": -37.0070705885676,
+          "z": 58.28208200310479,
+          "rotation": {
+            "w": 0.4171700291252551,
+            "x": 0.24880057347706527,
+            "y": -0.4477373095580969,
+            "z": 0.7507321380271356
+          }
+        },
+        "names": [
+          "Blooming_Rocketship_CgnCvPW2YigrIMaTyuZMa3KcTjHKODwtivIfcPRL"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -4.842854775046511,
+          "y": 3.0120104590605763,
+          "z": 10.558150909242187,
+          "rotation": {
+            "w": 1.0,
+            "x": -1.1213252548714081E-14,
+            "y": -5.6066262743570405E-15,
+            "z": 2.8033131371785195E-15
+          }
+        },
+        "names": [
+          "Blooming_Rocketship_CgnCvPW2YigrIMaTyuZMa3KcTjHKODwtivIfcPRL"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 2.9968749532511474,
+          "y": -8.679711194325193,
+          "z": -13.292153854723225,
+          "rotation": {
+            "w": 1.0,
+            "x": -7.28583859910259E-16,
+            "y": -5.828670879282072E-15,
+            "z": -1.457167719820518E-15
+          }
+        },
+        "names": [
+          "Blooming_Rocketship_CgnCvPW2YigrIMaTyuZMa3KcTjHKODwtivIfcPRL"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -42.18819077868356,
+          "y": -63.332773035586825,
+          "z": 3.180631768116953,
+          "rotation": {
+            "w": 1.0,
+            "x": -1.2281842209915794E-15,
+            "y": -9.825473767932635E-15,
+            "z": -2.456368441983159E-15
+          }
+        },
+        "names": [
+          "Blooming_Rocketship_CgnCvPW2YigrIMaTyuZMa3KcTjHKODwtivIfcPRL"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 42.12831804044541,
+          "y": 66.83603466356722,
+          "z": 0.3863800374676458,
+          "rotation": {
+            "w": 1.0,
+            "x": -1.7763568394002505E-15,
+            "y": -1.4210854715202004E-14,
+            "z": -3.552713678800501E-15
+          }
+        },
+        "names": [
+          "Blooming_Rocketship_CgnCvPW2YigrIMaTyuZMa3KcTjHKODwtivIfcPRL"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -14.86215262219028,
+          "y": 9.42290541882656,
+          "z": -9.503960905989118,
+          "rotation": {
+            "w": 1.0,
+            "x": -2.2204460492503136E-16,
+            "y": -1.7763568394002505E-15,
+            "z": -4.440892098500626E-16
+          }
+        },
+        "names": [
+          "Blooming_Rocketship_CgnCvPW2YigrIMaTyuZMa3KcTjHKODwtivIfcPRL"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -0.06236031248549878,
+          "y": 0.03953769964398646,
+          "z": -0.039877801487676834,
+          "rotation": {
+            "w": 1.0,
+            "x": -6.938893903907231E-18,
+            "y": -5.551115123125783E-17,
+            "z": -1.387778780781445E-17
+          }
+        },
+        "names": [
+          "Blooming_Rocketship_CgnCvPW2YigrIMaTyuZMa3KcTjHKODwtivIfcPRL"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 8.396087322025188,
+          "y": 157.89452591854746,
+          "z": 129.04400319263308,
+          "rotation": {
+            "w": -0.009692563393117347,
+            "x": 0.009692563393117264,
+            "y": 0.7070403483641301,
+            "z": -0.70704034836413
+          }
+        },
+        "names": [
+          "Radiant_Cyclops_7dO4C31wER6jp5J7B0VTzvrVSzTLS25kQaG2IlYn"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": -24.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Radiant_Cyclops_7dO4C31wER6jp5J7B0VTzvrVSzTLS25kQaG2IlYn"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP",
+          "Radiant_Cyclops_7dO4C31wER6jp5J7B0VTzvrVSzTLS25kQaG2IlYn"
+        ],
+        "groupID": "Thriving_Gremlin_x3gRNJVuvmi8IaJ5H8wwISPWVGTxUqsAh0DOfI1A",
+        "hull": false
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -20.495042412773508,
+          "y": -27.438503549940783,
+          "z": 17.77868834977783,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": -2.2985086056692697E-17
+          }
+        },
+        "names": [
+          "Ebullient_Monowheel_uFPGaNxyfoohxSqlugsnQcZwl8zw1dJLlxJ5AOlK"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 16.755439101741914,
+          "y": 41.57348440604707,
+          "z": -27.32948325248576,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": -6.071532165918826E-17
+          }
+        },
+        "names": [
+          "Ebullient_Monowheel_uFPGaNxyfoohxSqlugsnQcZwl8zw1dJLlxJ5AOlK"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -47.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Blooming_Rocketship_CgnCvPW2YigrIMaTyuZMa3KcTjHKODwtivIfcPRL"
+        ]
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Ingenious_Starship_LjaXrR2piCEIEiNGsEpFOqGax8QWoJwiMy64hxxS"
+        ],
+        "height": {
+          "x": 28.534897605799827,
+          "y": -39.1500655361545,
+          "z": 63.159547183246005,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 43.519255450675715,
+          "y": -3.6500655361545,
+          "z": 43.190831493494215,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 13.55053976092394,
+          "y": -74.6500655361545,
+          "z": 43.190831493494215,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2625,12 +3465,12 @@
       "type": "Resize",
       "data": {
         "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+          "Ingenious_Starship_LjaXrR2piCEIEiNGsEpFOqGax8QWoJwiMy64hxxS"
         ],
         "height": {
-          "x": 73.5,
-          "y": 160.0,
-          "z": 71.0,
+          "x": 28.534897605799827,
+          "y": -39.1500655361545,
+          "z": 70.159547183246,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2639,9 +3479,9 @@
           }
         },
         "leftFront": {
-          "x": 105.0,
-          "y": 228.0,
-          "z": 31.0,
+          "x": 43.519255450675715,
+          "y": -3.650065536154501,
+          "z": 43.190831493494215,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2650,9 +3490,9 @@
           }
         },
         "rightRear": {
-          "x": 42.0,
-          "y": 92.0,
-          "z": 31.0,
+          "x": 13.55053976092394,
+          "y": -74.6500655361545,
+          "z": 43.190831493494215,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2666,12 +3506,12 @@
       "type": "Resize",
       "data": {
         "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+          "Ingenious_Starship_LjaXrR2piCEIEiNGsEpFOqGax8QWoJwiMy64hxxS"
         ],
         "height": {
-          "x": 73.5,
-          "y": 172.5,
-          "z": 71.0,
+          "x": 54.03489760579983,
+          "y": -49.6500655361545,
+          "z": 70.159547183246,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2680,9 +3520,9 @@
           }
         },
         "leftFront": {
-          "x": 105.00000000000001,
-          "y": 228.0,
-          "z": 31.0,
+          "x": 94.51925545067571,
+          "y": -24.6500655361545,
+          "z": 43.190831493494215,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2691,9 +3531,9 @@
           }
         },
         "rightRear": {
-          "x": 42.0,
-          "y": 117.0,
-          "z": 31.0,
+          "x": 13.55053976092394,
+          "y": -74.6500655361545,
+          "z": 43.190831493494215,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2707,12 +3547,12 @@
       "type": "Resize",
       "data": {
         "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+          "Ingenious_Starship_LjaXrR2piCEIEiNGsEpFOqGax8QWoJwiMy64hxxS"
         ],
         "height": {
-          "x": 75.0,
-          "y": 149.0,
-          "z": 71.0,
+          "x": 66.53489760579983,
+          "y": -11.1500655361545,
+          "z": 70.159547183246,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2721,9 +3561,9 @@
           }
         },
         "leftFront": {
-          "x": 105.00000000000001,
-          "y": 228.0,
-          "z": 31.0,
+          "x": 119.51925545067571,
+          "y": -24.650065536154504,
+          "z": 43.190831493494215,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2732,9 +3572,9 @@
           }
         },
         "rightRear": {
-          "x": 45.0,
-          "y": 70.0,
-          "z": 31.0,
+          "x": 13.55053976092394,
+          "y": 2.3499344638455,
+          "z": 43.190831493494215,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2745,261 +3585,177 @@
       }
     },
     {
-      "type": "Resize",
+      "type": "MoveCenter",
       "data": {
+        "location": {
+          "x": 0.0,
+          "y": -3.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
         "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 75.0,
-          "y": 149.0,
-          "z": 90.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 105.00000000000001,
-          "y": 228.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 45.0,
-          "y": 70.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
+          "Ebullient_Monowheel_uFPGaNxyfoohxSqlugsnQcZwl8zw1dJLlxJ5AOlK"
+        ]
       }
     },
     {
-      "type": "Resize",
+      "type": "AddFromScript",
       "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 75.0,
-          "y": 149.0,
-          "z": 97.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 105.00000000000001,
-          "y": 228.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 45.0,
-          "y": 70.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinder.groovy",
+        "name": "Resplendent_Imp_HSFVtgi3k6ZKW0ilV6mQAVS0EjxbfD9427fjg0Zv"
       }
     },
     {
-      "type": "Resize",
+      "type": "MoveCenter",
       "data": {
+        "location": {
+          "x": 30.273281989902387,
+          "y": 61.02341576013343,
+          "z": 141.57077010154129,
+          "rotation": {
+            "w": 0.8581941893548426,
+            "x": 0.47450136384326813,
+            "y": -0.08405205931881927,
+            "z": 0.17687973426237594
+          }
+        },
         "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 75.0,
-          "y": 149.0,
-          "z": 115.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 105.00000000000001,
-          "y": 228.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 45.0,
-          "y": 70.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
+          "Resplendent_Imp_HSFVtgi3k6ZKW0ilV6mQAVS0EjxbfD9427fjg0Zv"
+        ]
       }
     },
     {
-      "type": "Resize",
+      "type": "AddFromScript",
       "data": {
-        "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 75.0,
-          "y": 149.0,
-          "z": 80.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 105.00000000000001,
-          "y": 228.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 45.0,
-          "y": 70.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinderHole.groovy",
+        "name": "Teeming_Ogre_KmsxNcaUpPQa5cIwGTdkkQ1KFiUlCBwI3qiTdmyz"
       }
     },
     {
-      "type": "Resize",
+      "type": "MoveCenter",
       "data": {
+        "location": {
+          "x": 33.663480391213625,
+          "y": 66.5262831579364,
+          "z": 131.5110924819373,
+          "rotation": {
+            "w": 0.8581942696118229,
+            "x": 0.4745012136212597,
+            "y": -0.08405203558177,
+            "z": 0.17687975913581028
+          }
+        },
         "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
-        ],
-        "height": {
-          "x": 76.0,
-          "y": 124.5,
-          "z": 80.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 107.00000000000001,
-          "y": 179.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 45.0,
-          "y": 70.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
+          "Teeming_Ogre_KmsxNcaUpPQa5cIwGTdkkQ1KFiUlCBwI3qiTdmyz"
+        ]
       }
     },
     {
-      "type": "Resize",
+      "type": "Group",
       "data": {
         "names": [
-          "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
+          "Resplendent_Imp_HSFVtgi3k6ZKW0ilV6mQAVS0EjxbfD9427fjg0Zv",
+          "Teeming_Ogre_KmsxNcaUpPQa5cIwGTdkkQ1KFiUlCBwI3qiTdmyz"
         ],
-        "height": {
-          "x": 76.0,
-          "y": 124.5,
-          "z": 95.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "leftFront": {
-          "x": 107.00000000000001,
-          "y": 179.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "rightRear": {
-          "x": 45.0,
-          "y": 70.0,
-          "z": 31.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        }
+        "groupID": "Magnificent_Monorail_RKV1h29uoeVMF96W5AEBQZoXfBS5uO7rQyYsP4fO",
+        "hull": false
       }
     },
     {
-      "type": "Resize",
+      "type": "UnGroup",
       "data": {
         "names": [
+          "Magnificent_Monorail_RKV1h29uoeVMF96W5AEBQZoXfBS5uO7rQyYsP4fO"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.3003067153195076,
+          "y": 0.7893954530431131,
+          "z": 0.5354163757757533,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": -1.5407439555097887E-33
+          }
+        },
+        "names": [
+          "Teeming_Ogre_KmsxNcaUpPQa5cIwGTdkkQ1KFiUlCBwI3qiTdmyz"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Resplendent_Imp_HSFVtgi3k6ZKW0ilV6mQAVS0EjxbfD9427fjg0Zv",
+          "Teeming_Ogre_KmsxNcaUpPQa5cIwGTdkkQ1KFiUlCBwI3qiTdmyz"
+        ],
+        "groupID": "Beaming_Troll_v4JvAmgjB5ejwVU1nek3qglbDPjkJZXf8GD2nUSL",
+        "hull": false
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -0.6006143315619283,
+          "y": -1.5787903181432057,
+          "z": -1.070833113075821,
+          "rotation": {
+            "w": 1.0,
+            "x": 3.851859888774473E-33,
+            "y": -5.55111512312578E-17,
+            "z": 5.55111512312578E-17
+          }
+        },
+        "names": [
+          "Beaming_Troll_v4JvAmgjB5ejwVU1nek3qglbDPjkJZXf8GD2nUSL"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Beaming_Troll_v4JvAmgjB5ejwVU1nek3qglbDPjkJZXf8GD2nUSL",
           "Ingenious_Rocketship_eZPKjoG9AvCCxAPDGHFJss6kupAEKjMsaQbGjgzn"
         ],
-        "height": {
-          "x": 76.50000000000001,
-          "y": 126.0,
-          "z": 95.0,
+        "groupID": "Productive_Bathyscaphe_jJlEJNHbMdpBLNbxMV72lkiZuL7fjOxhXOsiX7N4",
+        "hull": false
+      }
+    },
+    {
+      "type": "ToSolid",
+      "data": {
+        "names": [
+          "Productive_Bathyscaphe_jJlEJNHbMdpBLNbxMV72lkiZuL7fjOxhXOsiX7N4"
+        ],
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0,
+        "useColor": true
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -3007,10 +3763,18 @@
             "z": 0.0
           }
         },
-        "leftFront": {
-          "x": 107.00000000000003,
-          "y": 182.0,
-          "z": 31.0,
+        "names": [
+          "Blooming_Rocketship_CgnCvPW2YigrIMaTyuZMa3KcTjHKODwtivIfcPRL"
+        ]
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -3018,20 +3782,61 @@
             "z": 0.0
           }
         },
-        "rightRear": {
-          "x": 46.0,
-          "y": 70.0,
-          "z": 31.0,
+        "names": [
+          "Euphoric_Jetpack_GFZE8WyWGDTiKYStMfoNXlNY56hSKGl7Woe5rvlU"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 23.397513520621878,
+          "y": 113.68973332972328,
+          "z": 214.62998497496676,
           "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
+            "w": -0.08044661640735808,
+            "x": 0.1704828597813234,
+            "y": 0.8594439472905797,
+            "z": -0.475205258698782
           }
-        }
+        },
+        "names": [
+          "Productive_Bathyscaphe_jJlEJNHbMdpBLNbxMV72lkiZuL7fjOxhXOsiX7N4"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -22.664302442182326,
+          "y": 151.31091681066735,
+          "z": 122.76525441083541,
+          "rotation": {
+            "w": 0.6518918832815391,
+            "x": -0.6027591493853349,
+            "y": -0.3241618441255599,
+            "z": 0.3265539452479971
+          }
+        },
+        "names": [
+          "Productive_Bathyscaphe_jJlEJNHbMdpBLNbxMV72lkiZuL7fjOxhXOsiX7N4"
+        ]
       }
     }
   ],
-  "currentIndex": 83,
-  "projectName": "A Test Project"
+  "currentIndex": 204,
+  "projectName": "Kevins Project",
+  "workplane": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  }
 }
