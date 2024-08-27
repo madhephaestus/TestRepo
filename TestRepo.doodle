@@ -5,7 +5,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s"
+        "name": "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -13,7 +24,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Jubilant_Monowheel_owJf5nwzjdIWYYoUEFu4OETP8NEWx28LjkeOSSXl"
+        "name": "Jubilant_Monowheel_owJf5nwzjdIWYYoUEFu4OETP8NEWx28LjkeOSSXl",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -104,6 +126,17 @@
         "rightRear": {
           "x": -10.0,
           "y": 10.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
           "z": 0.0,
           "rotation": {
             "w": 1.0,
@@ -227,7 +260,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cylinder.groovy",
-        "name": "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw"
+        "name": "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -254,7 +298,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Blooming_Minotaur_1lbIPqmZ6R00crqEE4JsQmmYypbZzvCkwZlDo0yv"
+        "name": "Blooming_Minotaur_1lbIPqmZ6R00crqEE4JsQmmYypbZzvCkwZlDo0yv",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -300,7 +355,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cylinderHole.groovy",
-        "name": "Radiant_Cyclops_7dO4C31wER6jp5J7B0VTzvrVSzTLS25kQaG2IlYn"
+        "name": "Radiant_Cyclops_7dO4C31wER6jp5J7B0VTzvrVSzTLS25kQaG2IlYn",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -360,6 +426,17 @@
             "y": 0.0,
             "z": 0.0
           }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
         }
       }
     },
@@ -398,7 +475,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cylinder.groovy",
-        "name": "Effulgent_Werewolf_UIjAFkveEnWLYVaTqW0pyVlOowTZNCqwlY7L9xs6"
+        "name": "Effulgent_Werewolf_UIjAFkveEnWLYVaTqW0pyVlOowTZNCqwlY7L9xs6",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -425,7 +513,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cylinderHole.groovy",
-        "name": "Glowing_Nanobot_ISnFBeP23vDxePjOSMqHGx5IR3NJhwNopLvQvF6g"
+        "name": "Glowing_Nanobot_ISnFBeP23vDxePjOSMqHGx5IR3NJhwNopLvQvF6g",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -444,7 +543,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cube.groovy",
-        "name": "Gleaming_Replicant_q8hukSbY0WWlvfN7qQGji74pf4B0BCrdpWkHGe75"
+        "name": "Gleaming_Replicant_q8hukSbY0WWlvfN7qQGji74pf4B0BCrdpWkHGe75",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -490,7 +600,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cubeHole.groovy",
-        "name": "Euphoric_Banshee_ADdpznMXzBe3vGpkXzhAzgIgO2vrpWk8IZeKZOTK"
+        "name": "Euphoric_Banshee_ADdpznMXzBe3vGpkXzhAzgIgO2vrpWk8IZeKZOTK",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -517,7 +638,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Blithe_Hovercraft_v7tuA3BfaEHT7XL834zk6xXRqIpBEugOveuDmBG0"
+        "name": "Blithe_Hovercraft_v7tuA3BfaEHT7XL834zk6xXRqIpBEugOveuDmBG0",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -588,7 +720,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cylinderHole.groovy",
-        "name": "Brilliant_Basilisk_L1KGe8eDS6C6oqbCFoo6j4CzUOMGySb1AH8Ehh3z"
+        "name": "Brilliant_Basilisk_L1KGe8eDS6C6oqbCFoo6j4CzUOMGySb1AH8Ehh3z",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -615,7 +758,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Euphoric_Jetpack_GFZE8WyWGDTiKYStMfoNXlNY56hSKGl7Woe5rvlU"
+        "name": "Euphoric_Jetpack_GFZE8WyWGDTiKYStMfoNXlNY56hSKGl7Woe5rvlU",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -623,7 +777,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cubeHole.groovy",
-        "name": "Majestic_Gargoyle_fDfOKdntAvhdaW0YYFMPZqzeQrARlR4zXItkkTwj"
+        "name": "Majestic_Gargoyle_fDfOKdntAvhdaW0YYFMPZqzeQrARlR4zXItkkTwj",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -669,6 +834,17 @@
             "y": 0.0,
             "z": 0.0
           }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
         }
       }
     },
@@ -677,7 +853,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cube.groovy",
-        "name": "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP"
+        "name": "Splendid_Teleporter_sMdVSDKiGg2OCQD8HdKiOmlFQRUoBO2tmQAQYAWP",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -774,6 +961,17 @@
             "y": 0.0,
             "z": 0.0
           }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
         }
       }
     },
@@ -815,6 +1013,17 @@
           "x": -41.54170753339737,
           "y": -104.0,
           "z": 28.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -995,6 +1204,17 @@
             "y": 0.0,
             "z": 0.0
           }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
         }
       }
     },
@@ -1036,6 +1256,17 @@
             "y": 0.0,
             "z": 0.0
           }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
         }
       }
     },
@@ -1070,6 +1301,17 @@
         "rightRear": {
           "x": 36.02174803702816,
           "y": 29.842730490468824,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
           "z": 0.0,
           "rotation": {
             "w": 1.0,
@@ -1137,6 +1379,17 @@
             "y": 0.0,
             "z": 0.0
           }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
         }
       }
     },
@@ -1171,6 +1424,17 @@
         "rightRear": {
           "x": 36.02174803702816,
           "y": 25.842730490468824,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
           "z": 0.0,
           "rotation": {
             "w": 1.0,
@@ -1300,7 +1564,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cubeHole.groovy",
-        "name": "Glorious_Manticore_AxeQ192w5VMnqyzcugUQGWwM0xmggufLS1ELDgel"
+        "name": "Glorious_Manticore_AxeQ192w5VMnqyzcugUQGWwM0xmggufLS1ELDgel",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -1308,7 +1583,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cylinderHole.groovy",
-        "name": "Twinkling_Forcefield_zD3pMvGZcifrbjLY3KmahFChoN1MmQ0geqRVQXXz"
+        "name": "Twinkling_Forcefield_zD3pMvGZcifrbjLY3KmahFChoN1MmQ0geqRVQXXz",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -1316,7 +1602,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cube.groovy",
-        "name": "Vibrant_Submarine_qNiTObtW4wHRMkgI1WcFN0fcjYuTvemFxULHRD0U"
+        "name": "Vibrant_Submarine_qNiTObtW4wHRMkgI1WcFN0fcjYuTvemFxULHRD0U",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -1324,7 +1621,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cube.groovy",
-        "name": "Magnificent_Cerberus_oCcBnbExiZC7NnQEh5hyOQ3iEXUzROe9Ov4FFksD"
+        "name": "Magnificent_Cerberus_oCcBnbExiZC7NnQEh5hyOQ3iEXUzROe9Ov4FFksD",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -1359,7 +1667,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Inventive_Hoverboard_yopRpLCaAztOucqDbvjixuF3Usg77Gs3fhv5GLzG"
+        "name": "Inventive_Hoverboard_yopRpLCaAztOucqDbvjixuF3Usg77Gs3fhv5GLzG",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -1367,7 +1686,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Lively_Siren_hkY7olwQ4ZXen2n5OZJKkWbm0uwHcB6CsM8rkJ5w"
+        "name": "Lively_Siren_hkY7olwQ4ZXen2n5OZJKkWbm0uwHcB6CsM8rkJ5w",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -1375,7 +1705,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cylinder.groovy",
-        "name": "Euphoric_Skycycle_4T4UWHYIkHXNkiqzTtxJWSfZ1YKlapb4lucqKNGe"
+        "name": "Euphoric_Skycycle_4T4UWHYIkHXNkiqzTtxJWSfZ1YKlapb4lucqKNGe",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -1383,7 +1724,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cylinder.groovy",
-        "name": "Peppy_Yeti_B2oswYA75eqSHtkQ3s4EU8vCmUUbKGeyUMxqXnaU"
+        "name": "Peppy_Yeti_B2oswYA75eqSHtkQ3s4EU8vCmUUbKGeyUMxqXnaU",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -1576,6 +1928,17 @@
             "y": 0.0,
             "z": 0.0
           }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
         }
       }
     },
@@ -1636,6 +1999,17 @@
             "y": 0.0,
             "z": 0.0
           }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
         }
       }
     },
@@ -1671,6 +2045,17 @@
           "x": -43.64246922164343,
           "y": -137.5351482875931,
           "z": 18.535148287593103,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -1718,6 +2103,17 @@
             "y": 0.0,
             "z": 0.0
           }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
         }
       }
     },
@@ -1753,6 +2149,17 @@
           "x": -43.64246922164343,
           "y": -137.5351482875931,
           "z": 18.535148287593103,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -1800,6 +2207,17 @@
             "y": 0.0,
             "z": 0.0
           }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
         }
       }
     },
@@ -1841,6 +2259,17 @@
             "y": 0.0,
             "z": 0.0
           }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
         }
       }
     },
@@ -1876,6 +2305,17 @@
           "x": -43.64246922164343,
           "y": -137.5351482875931,
           "z": 18.535148287593103,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -1966,7 +2406,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cylinderHole.groovy",
-        "name": "Bountiful_Sasquatch_2nS7AOanKRMDrPFM7PzaB0zlrfZrdZ2fc4QF3PfN"
+        "name": "Bountiful_Sasquatch_2nS7AOanKRMDrPFM7PzaB0zlrfZrdZ2fc4QF3PfN",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -1974,7 +2425,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Copious_Hyperloop_tDU4LDN6m6j77EFfUhr91kDRGcpgWOIo7foVCHHK"
+        "name": "Copious_Hyperloop_tDU4LDN6m6j77EFfUhr91kDRGcpgWOIo7foVCHHK",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -1982,7 +2444,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cylinder.groovy",
-        "name": "Dazzling_Thunderbird_0xExiCNIR1govfxT2onaDzMqk77LOWUJ0mZRVwJb"
+        "name": "Dazzling_Thunderbird_0xExiCNIR1govfxT2onaDzMqk77LOWUJ0mZRVwJb",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -2109,6 +2582,17 @@
             "y": 0.0,
             "z": 0.0
           }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
         }
       }
     },
@@ -2144,6 +2628,17 @@
           "x": -36.378534632011124,
           "y": 24.641486901073392,
           "z": 28.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2191,6 +2686,17 @@
             "y": 0.0,
             "z": 0.0
           }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
         }
       }
     },
@@ -2226,6 +2732,17 @@
           "x": -55.378534632011124,
           "y": 24.641486901073392,
           "z": 28.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2273,6 +2790,17 @@
             "y": 0.0,
             "z": 0.0
           }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
         }
       }
     },
@@ -2308,6 +2836,17 @@
           "x": -55.378534632011124,
           "y": 24.641486901073392,
           "z": 28.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -2355,6 +2894,17 @@
             "y": 0.0,
             "z": 0.0
           }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
         }
       }
     },
@@ -2363,7 +2913,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cylinder.groovy",
-        "name": "Mirthful_Airship_Zgp6jPLA6u0sIJqPhxKMRfLHXFfNUykcZEsZhWJO"
+        "name": "Mirthful_Airship_Zgp6jPLA6u0sIJqPhxKMRfLHXFfNUykcZEsZhWJO",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -2479,7 +3040,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Dazzling_Behemoth_Toi9psqmhyC2e9ItSRIOJp7828f5zCC5YNI4sYrF"
+        "name": "Dazzling_Behemoth_Toi9psqmhyC2e9ItSRIOJp7828f5zCC5YNI4sYrF",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -2746,7 +3318,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cylinder.groovy",
-        "name": "Perky_Manticore_ZNl7CngAXUJXlsdHnB3ji0vKLXdGXbZ2JkZGKfw7"
+        "name": "Perky_Manticore_ZNl7CngAXUJXlsdHnB3ji0vKLXdGXbZ2JkZGKfw7",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -2906,7 +3489,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Majestic_Cerberus_1KOcN8uOt2Yj9wD2jbJowbgjCh9aIPjTgQ7g8TL9"
+        "name": "Majestic_Cerberus_1KOcN8uOt2Yj9wD2jbJowbgjCh9aIPjTgQ7g8TL9",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -2960,7 +3554,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Jaunty_Hoverboard_H55raUpFONdLCSQLtZdtcZUDo4teSoHtsPSeynbZ"
+        "name": "Jaunty_Hoverboard_H55raUpFONdLCSQLtZdtcZUDo4teSoHtsPSeynbZ",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -2968,7 +3573,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Sprightly_Siren_P5kMfxwVVYbQ8NntlUbSKdjHJnDb7rTGzUVqsYH3"
+        "name": "Sprightly_Siren_P5kMfxwVVYbQ8NntlUbSKdjHJnDb7rTGzUVqsYH3",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -2976,7 +3592,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Jocund_Skycycle_IEEhPV4WMyKR1aK0qQiIXyuXto554joWXaYXXkEz"
+        "name": "Jocund_Skycycle_IEEhPV4WMyKR1aK0qQiIXyuXto554joWXaYXXkEz",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -2984,7 +3611,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Verdant_Yeti_wKQVvaf6bwJ74G10kqqgpUTo0jDmbWuA4mdLrE23"
+        "name": "Verdant_Yeti_wKQVvaf6bwJ74G10kqqgpUTo0jDmbWuA4mdLrE23",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -2992,7 +3630,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Effulgent_Hoverbike_XRU5Rb2D14TYFadGWFgAsjPabdA99C4pwlgb1ltW"
+        "name": "Effulgent_Hoverbike_XRU5Rb2D14TYFadGWFgAsjPabdA99C4pwlgb1ltW",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -3000,7 +3649,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Resplendent_Sasquatch_8hPkJ4oZE6OFOoR0JAZ84Ulvny7DIHDIhSHIEMcL"
+        "name": "Resplendent_Sasquatch_8hPkJ4oZE6OFOoR0JAZ84Ulvny7DIHDIhSHIEMcL",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -3008,7 +3668,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Effulgent_Hyperloop_LxTpH1rfqfLEwduz0b2vHXYOalgxU3DdZrxbFUm1"
+        "name": "Effulgent_Hyperloop_LxTpH1rfqfLEwduz0b2vHXYOalgxU3DdZrxbFUm1",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -3016,7 +3687,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Mirthful_Thunderbird_Ex7sQylHZuw9hVzyDSkxxDXNaEzuKw5T1Wog3TnT"
+        "name": "Mirthful_Thunderbird_Ex7sQylHZuw9hVzyDSkxxDXNaEzuKw5T1Wog3TnT",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -3024,7 +3706,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Burgeoning_Gyrocopter_s4E4HDAxQ5R0vqQBqCVi1PqZqfNtw2qMNb3AryR9"
+        "name": "Burgeoning_Gyrocopter_s4E4HDAxQ5R0vqQBqCVi1PqZqfNtw2qMNb3AryR9",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -3032,7 +3725,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Fruitful_Leviathan_Lf0cpPQyZ3lLSXOcFPuFosciHv80JDTORiakJ8AO"
+        "name": "Fruitful_Leviathan_Lf0cpPQyZ3lLSXOcFPuFosciHv80JDTORiakJ8AO",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -3040,7 +3744,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Amazing_Airship_DWXSN5fgs4wLwCA4zvZ4ktbFB2QgCIzZIFSfDyJT"
+        "name": "Amazing_Airship_DWXSN5fgs4wLwCA4zvZ4ktbFB2QgCIzZIFSfDyJT",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -3048,7 +3763,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Chirpy_Behemoth_dAHhry6gOIXJotLbvTARZUsa52ahbr5xFFzAXiU1"
+        "name": "Chirpy_Behemoth_dAHhry6gOIXJotLbvTARZUsa52ahbr5xFFzAXiU1",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -3056,7 +3782,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Sparkling_Starship_VPOEfpGOlNZ9MyBxuyBKlPSJ0DSfgejVnf9cmU9Q"
+        "name": "Sparkling_Starship_VPOEfpGOlNZ9MyBxuyBKlPSJ0DSfgejVnf9cmU9Q",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -3064,7 +3801,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Wonderful_Colossus_LVw3B7rNwJVtDVwV3F35qAqTJ7VRRM9Em1beACbb"
+        "name": "Wonderful_Colossus_LVw3B7rNwJVtDVwV3F35qAqTJ7VRRM9Em1beACbb",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -3178,7 +3926,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cube.groovy",
-        "name": "Blooming_Rocketship_CgnCvPW2YigrIMaTyuZMa3KcTjHKODwtivIfcPRL"
+        "name": "Blooming_Rocketship_CgnCvPW2YigrIMaTyuZMa3KcTjHKODwtivIfcPRL",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -3458,6 +4217,17 @@
             "y": 0.0,
             "z": 0.0
           }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
         }
       }
     },
@@ -3493,6 +4263,17 @@
           "x": 13.55053976092394,
           "y": -74.6500655361545,
           "z": 43.190831493494215,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
           "rotation": {
             "w": 1.0,
             "x": 0.0,
@@ -3540,6 +4321,17 @@
             "y": 0.0,
             "z": 0.0
           }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
         }
       }
     },
@@ -3581,6 +4373,17 @@
             "y": 0.0,
             "z": 0.0
           }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
         }
       }
     },
@@ -3608,7 +4411,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cylinder.groovy",
-        "name": "Resplendent_Imp_HSFVtgi3k6ZKW0ilV6mQAVS0EjxbfD9427fjg0Zv"
+        "name": "Resplendent_Imp_HSFVtgi3k6ZKW0ilV6mQAVS0EjxbfD9427fjg0Zv",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -3635,7 +4449,18 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cylinderHole.groovy",
-        "name": "Teeming_Ogre_KmsxNcaUpPQa5cIwGTdkkQ1KFiUlCBwI3qiTdmyz"
+        "name": "Teeming_Ogre_KmsxNcaUpPQa5cIwGTdkkQ1KFiUlCBwI3qiTdmyz",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
       }
     },
     {
@@ -3824,19 +4649,1695 @@
           "Productive_Bathyscaphe_jJlEJNHbMdpBLNbxMV72lkiZuL7fjOxhXOsiX7N4"
         ]
       }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 28.524656373001044,
+          "y": 160.13206383952428,
+          "z": 145.0865255517587,
+          "rotation": {
+            "w": 0.022570605277101228,
+            "x": -0.0025427834808163284,
+            "y": 0.68820905347475,
+            "z": -0.7251568111415513
+          }
+        },
+        "names": [
+          "Productive_Bathyscaphe_jJlEJNHbMdpBLNbxMV72lkiZuL7fjOxhXOsiX7N4"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinder.groovy",
+        "name": "Imaginative_Hologram_ErpNgg79eg4a88Rre9nNZgBbdleHck94jTSlmDgt",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 37.1071218805713,
+          "y": 56.96608738159668,
+          "z": 162.97688741623625,
+          "rotation": {
+            "w": 0.7699784437395081,
+            "x": 0.3182131115104332,
+            "y": -0.2060572562882406,
+            "z": 0.5132387543534648
+          }
+        },
+        "names": [
+          "Imaginative_Hologram_ErpNgg79eg4a88Rre9nNZgBbdleHck94jTSlmDgt"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinder.groovy",
+        "name": "Luxuriant_Werewolf_GPj1MeUUSjoTGTYX5hvTV6DiwX3doGFwrCRAQONv",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 54.02548384778669,
+          "y": 59.96350676103674,
+          "z": 174.58352155162248,
+          "rotation": {
+            "w": 0.7723705034300372,
+            "x": 0.3192528972568753,
+            "y": -0.20448184715002946,
+            "z": 0.5096160978721472
+          }
+        },
+        "names": [
+          "Luxuriant_Werewolf_GPj1MeUUSjoTGTYX5hvTV6DiwX3doGFwrCRAQONv"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Buoyant_Nanobot_NxZ1idI9LaD46sto3NIF134pDS8m2snPnJfoJ7J4",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 70.07279236765316,
+          "y": 63.73670332356784,
+          "z": 186.70234528808325,
+          "rotation": {
+            "w": 0.7747967123619397,
+            "x": 0.3203071161516691,
+            "y": -0.2028676046988008,
+            "z": 0.5059032919634956
+          }
+        },
+        "names": [
+          "Buoyant_Nanobot_NxZ1idI9LaD46sto3NIF134pDS8m2snPnJfoJ7J4"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinder.groovy",
+        "name": "Wonderful_Gorgon_hvnykDNsC0Nufwr68CNT0P2grfRoQ1gnoRmPdIAz",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 81.61930348066454,
+          "y": 58.707236693465035,
+          "z": 196.15487977701784,
+          "rotation": {
+            "w": -0.1725044695880978,
+            "x": -0.11390779935732727,
+            "y": 0.5890683215846575,
+            "z": -0.7811950676515658
+          }
+        },
+        "names": [
+          "Wonderful_Gorgon_hvnykDNsC0Nufwr68CNT0P2grfRoQ1gnoRmPdIAz"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -4.239184548905595,
+          "y": 2.5239010070805192,
+          "z": 2.7675328483647683,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Buoyant_Nanobot_NxZ1idI9LaD46sto3NIF134pDS8m2snPnJfoJ7J4"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -7.643324864306528,
+          "y": 11.945876768729132,
+          "z": 1.9686577267293386,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Wonderful_Gorgon_hvnykDNsC0Nufwr68CNT0P2grfRoQ1gnoRmPdIAz"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -1.2769049609493832,
+          "y": -0.5821658734298584,
+          "z": -1.424990040848182,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Wonderful_Gorgon_hvnykDNsC0Nufwr68CNT0P2grfRoQ1gnoRmPdIAz"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -0.6384524804748537,
+          "y": -0.29108293671498586,
+          "z": -0.7124950204240577,
+          "rotation": {
+            "w": 1.0,
+            "x": 3.469446951953614E-16,
+            "y": 5.551115123125782E-16,
+            "z": -2.775557561562891E-16
+          }
+        },
+        "names": [
+          "Wonderful_Gorgon_hvnykDNsC0Nufwr68CNT0P2grfRoQ1gnoRmPdIAz"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.19619511973257886,
+          "y": 0.08487881574403389,
+          "z": -0.2104829247967075,
+          "rotation": {
+            "w": 1.0,
+            "x": 1.0408340855860843E-16,
+            "y": 1.6653345369377348E-16,
+            "z": -8.326672684688674E-17
+          }
+        },
+        "names": [
+          "Wonderful_Gorgon_hvnykDNsC0Nufwr68CNT0P2grfRoQ1gnoRmPdIAz"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -0.7170401632928929,
+          "y": 0.5613660785787999,
+          "z": 0.41318461980841903,
+          "rotation": {
+            "w": 1.0,
+            "x": 4.85722573273506E-16,
+            "y": 7.771561172376095E-16,
+            "z": -3.8857805861880474E-16
+          }
+        },
+        "names": [
+          "Wonderful_Gorgon_hvnykDNsC0Nufwr68CNT0P2grfRoQ1gnoRmPdIAz"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.06539837324419295,
+          "y": 0.02829293858134463,
+          "z": -0.07016097493223583,
+          "rotation": {
+            "w": 1.0,
+            "x": 3.469446951953614E-17,
+            "y": 5.551115123125783E-17,
+            "z": -2.7755575615628914E-17
+          }
+        },
+        "names": [
+          "Wonderful_Gorgon_hvnykDNsC0Nufwr68CNT0P2grfRoQ1gnoRmPdIAz"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Wonderful_Gorgon_hvnykDNsC0Nufwr68CNT0P2grfRoQ1gnoRmPdIAz",
+          "Buoyant_Nanobot_NxZ1idI9LaD46sto3NIF134pDS8m2snPnJfoJ7J4"
+        ],
+        "groupID": "Blithe_Leviathan_S1bIcnma4ojO5EQYGVqfFZnKNNp19G7HPzqYlcge",
+        "hull": false
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -5.285700552241153,
+          "y": -3.6323797275882015,
+          "z": -7.674450285633924,
+          "rotation": {
+            "w": 1.0,
+            "x": 5.169475958410885E-15,
+            "y": 8.271161533457416E-15,
+            "z": -4.135580766728709E-15
+          }
+        },
+        "names": [
+          "Blithe_Leviathan_S1bIcnma4ojO5EQYGVqfFZnKNNp19G7HPzqYlcge"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Luxuriant_Werewolf_GPj1MeUUSjoTGTYX5hvTV6DiwX3doGFwrCRAQONv",
+          "Blithe_Leviathan_S1bIcnma4ojO5EQYGVqfFZnKNNp19G7HPzqYlcge"
+        ],
+        "groupID": "Radiant_Airship_QozPuDIAU91JPWCXyCTisFnkJQsYmjCMmKMuTJ03",
+        "hull": false
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -3.8964285749733563,
+          "y": 2.454291833889215,
+          "z": 2.488834256081759,
+          "rotation": {
+            "w": 1.0,
+            "x": 3.677613769070831E-15,
+            "y": 5.884182030513329E-15,
+            "z": -2.9420910152566652E-15
+          }
+        },
+        "names": [
+          "Radiant_Airship_QozPuDIAU91JPWCXyCTisFnkJQsYmjCMmKMuTJ03"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Imaginative_Hologram_ErpNgg79eg4a88Rre9nNZgBbdleHck94jTSlmDgt",
+          "Radiant_Airship_QozPuDIAU91JPWCXyCTisFnkJQsYmjCMmKMuTJ03"
+        ],
+        "groupID": "Lively_Behemoth_Zk4un1TqjU8sqmxsxve7UwEhHq1VsvgwUJfC24f4",
+        "hull": false
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Productive_Bathyscaphe_jJlEJNHbMdpBLNbxMV72lkiZuL7fjOxhXOsiX7N4",
+          "Lively_Behemoth_Zk4un1TqjU8sqmxsxve7UwEhHq1VsvgwUJfC24f4"
+        ],
+        "groupID": "Fecund_Starship_RwMYuhyfhDzSIelCQ5ZV1q12Ljm5Vf6FtjKhcZaJ",
+        "hull": false
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 22.700000000000003,
+          "y": 93.5,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Fecund_Starship_RwMYuhyfhDzSIelCQ5ZV1q12Ljm5Vf6FtjKhcZaJ"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -63.44221878051761,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Fecund_Starship_RwMYuhyfhDzSIelCQ5ZV1q12Ljm5Vf6FtjKhcZaJ"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 114.84635117566819,
+          "y": -39.563463137019966,
+          "z": -3.2463434338737684,
+          "rotation": {
+            "w": 0.5028132601828269,
+            "x": -0.4749724816949266,
+            "y": 0.5238590804072433,
+            "z": -0.49714347113459806
+          }
+        },
+        "names": [
+          "Fecund_Starship_RwMYuhyfhDzSIelCQ5ZV1q12Ljm5Vf6FtjKhcZaJ"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinder.groovy",
+        "name": "Ebullient_Colossus_82GsItEJ2wy6xrvs6EbwTaAEyirHmuH3YjLEGXhr",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 105.03204938744454,
+          "y": -11.576580805093243,
+          "z": 65.68534128610804,
+          "rotation": {
+            "w": 0.6977204740358643,
+            "x": 0.11481658614950346,
+            "y": -0.11481742665715589,
+            "z": 0.6977250534357864
+          }
+        },
+        "names": [
+          "Ebullient_Colossus_82GsItEJ2wy6xrvs6EbwTaAEyirHmuH3YjLEGXhr"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Peppy_Monowheel_jE2AtGqta7MQiqf1us7TEoeXXSxRGywJRAiMUnqZ",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 113.53384726553648,
+          "y": -10.561359231356406,
+          "z": 83.92270281933946,
+          "rotation": {
+            "w": 0.6977216336401698,
+            "x": 0.11481663971814611,
+            "y": -0.11481706389514884,
+            "z": 0.6977239447179834
+          }
+        },
+        "names": [
+          "Peppy_Monowheel_jE2AtGqta7MQiqf1us7TEoeXXSxRGywJRAiMUnqZ"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -3.044192695307889,
+          "y": 1.066486416551049E-5,
+          "z": -8.999049440564287,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Peppy_Monowheel_jE2AtGqta7MQiqf1us7TEoeXXSxRGywJRAiMUnqZ"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -0.7578153542053309,
+          "y": -0.1999974979365119,
+          "z": 0.25635305683721454,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Peppy_Monowheel_jE2AtGqta7MQiqf1us7TEoeXXSxRGywJRAiMUnqZ"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -1.5156303761717966,
+          "y": -0.2999949958735759,
+          "z": 0.5127061197958855,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Peppy_Monowheel_jE2AtGqta7MQiqf1us7TEoeXXSxRGywJRAiMUnqZ"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Peppy_Monowheel_jE2AtGqta7MQiqf1us7TEoeXXSxRGywJRAiMUnqZ",
+          "Ebullient_Colossus_82GsItEJ2wy6xrvs6EbwTaAEyirHmuH3YjLEGXhr"
+        ],
+        "groupID": "Vivacious_Titan_hgfjNzPyE7Oow7XbAzwa6ylUTSPfdCzsuB4sNFPB",
+        "hull": false
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -1.1215446772186959,
+          "y": 3.929160482030181E-6,
+          "z": -3.3154392675763162,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Vivacious_Titan_hgfjNzPyE7Oow7XbAzwa6ylUTSPfdCzsuB4sNFPB"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Ingenious_Starship_LjaXrR2piCEIEiNGsEpFOqGax8QWoJwiMy64hxxS",
+          "Vivacious_Titan_hgfjNzPyE7Oow7XbAzwa6ylUTSPfdCzsuB4sNFPB"
+        ],
+        "groupID": "Creative_Rocketship_IZI3kSs9ZSITpumoNLamVW5Vag2CwtMF7xcpnuvt",
+        "hull": false
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -59.67792376023066,
+          "y": -5.099802962559108,
+          "z": 20.18780387786576,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Fecund_Starship_RwMYuhyfhDzSIelCQ5ZV1q12Ljm5Vf6FtjKhcZaJ"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -48.40532227290141,
+          "y": 27.400159819083505,
+          "z": 16.374553964772232,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Fecund_Starship_RwMYuhyfhDzSIelCQ5ZV1q12Ljm5Vf6FtjKhcZaJ"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinder.groovy",
+        "name": "Astounding_Gremlin_g4OREQlByDZrFDJEGGBkc2YPZTKDMa5ymel4MyGS",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 37.82469177246088,
+          "y": 47.834355767303606,
+          "z": 56.0586749502844,
+          "rotation": {
+            "w": 0.5000000000000001,
+            "x": 0.5,
+            "y": -0.4999999999999999,
+            "z": 0.5
+          }
+        },
+        "names": [
+          "Astounding_Gremlin_g4OREQlByDZrFDJEGGBkc2YPZTKDMa5ymel4MyGS"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Burgeoning_Hovercar_sOiubUDGgpl2CFt4HuDo5R5KeSWTkphE54CPDcn5",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 37.87469177320599,
+          "y": 46.29880546151523,
+          "z": 75.93568653299491,
+          "rotation": {
+            "w": 0.5000000000000001,
+            "x": 0.5,
+            "y": -0.4999999999999999,
+            "z": 0.5
+          }
+        },
+        "names": [
+          "Burgeoning_Hovercar_sOiubUDGgpl2CFt4HuDo5R5KeSWTkphE54CPDcn5"
+        ]
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Burgeoning_Hovercar_sOiubUDGgpl2CFt4HuDo5R5KeSWTkphE54CPDcn5"
+        ]
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Astounding_Gremlin_g4OREQlByDZrFDJEGGBkc2YPZTKDMa5ymel4MyGS"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Ebullient_Monowheel_uFPGaNxyfoohxSqlugsnQcZwl8zw1dJLlxJ5AOlK",
+          "Thriving_Gremlin_x3gRNJVuvmi8IaJ5H8wwISPWVGTxUqsAh0DOfI1A",
+          "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw"
+        ],
+        "groupID": "Sparkling_Hoversuit_pq9RAP8Zj0AdybSphMl6htMAhs5Yb11Iu0s49VUV",
+        "hull": false
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "text.groovy",
+        "name": "Efflorescent_Dwarf_flMoLMH1Z8pnSBTYyNbmQxRP9WsPebcP9NJQhHHr",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -87.34084033801207,
+          "y": -51.36332401004216,
+          "z": 92.23871017294778,
+          "rotation": {
+            "w": 0.8354208407896326,
+            "x": 0.29793187230603074,
+            "y": -0.14833330036366602,
+            "z": 0.43738524236854265
+          }
+        },
+        "names": [
+          "Efflorescent_Dwarf_flMoLMH1Z8pnSBTYyNbmQxRP9WsPebcP9NJQhHHr"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "text.groovy",
+        "name": "Jocund_Goliath_VnN9EOBZplxI7hebhokNf4TWrbXdSgk96Mu3WDbf",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 19.235199831050863,
+          "y": 35.64138621991528,
+          "z": 63.44221878051758,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Jocund_Goliath_VnN9EOBZplxI7hebhokNf4TWrbXdSgk96Mu3WDbf"
+        ]
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Jocund_Goliath_VnN9EOBZplxI7hebhokNf4TWrbXdSgk96Mu3WDbf"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "text.groovy",
+        "name": "Creative_Leviathan_MByX5LTziqMd8zfJOKSfp0SVqUERgoq8EQek7Pc5",
+        "location": {
+          "x": 22.447200046818807,
+          "y": 34.064113084296395,
+          "z": 63.44221878051758,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "ToSolid",
+      "data": {
+        "names": [
+          "Creative_Leviathan_MByX5LTziqMd8zfJOKSfp0SVqUERgoq8EQek7Pc5"
+        ],
+        "r": 0.800000011920929,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0,
+        "useColor": true
+      }
+    },
+    {
+      "type": "ToSolid",
+      "data": {
+        "names": [
+          "Creative_Leviathan_MByX5LTziqMd8zfJOKSfp0SVqUERgoq8EQek7Pc5"
+        ],
+        "r": 0.800000011920929,
+        "g": 1.0,
+        "b": 0.800000011920929,
+        "a": 1.0,
+        "useColor": true
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Creative_Leviathan_MByX5LTziqMd8zfJOKSfp0SVqUERgoq8EQek7Pc5"
+        ],
+        "height": {
+          "x": 22.447200046818807,
+          "y": 34.064113084296395,
+          "z": 67.44221878051758,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 28.509700046818807,
+          "y": 56.931300584296395,
+          "z": 63.44221878051758,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 16.384700046818807,
+          "y": 11.196925584296395,
+          "z": 63.44221878051758,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Creative_Leviathan_MByX5LTziqMd8zfJOKSfp0SVqUERgoq8EQek7Pc5"
+        ],
+        "height": {
+          "x": 22.447200046818807,
+          "y": 34.064113084296395,
+          "z": 66.44221878051758,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 28.509700046818807,
+          "y": 56.931300584296395,
+          "z": 63.44221878051758,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": 16.384700046818807,
+          "y": 11.196925584296395,
+          "z": 63.44221878051758,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 56.51131313111521,
+          "y": 11.616913037477595,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.7071067811865475,
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071067811865476
+          }
+        },
+        "names": [
+          "Creative_Leviathan_MByX5LTziqMd8zfJOKSfp0SVqUERgoq8EQek7Pc5"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -9.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Creative_Leviathan_MByX5LTziqMd8zfJOKSfp0SVqUERgoq8EQek7Pc5"
+        ]
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Creative_Leviathan_MByX5LTziqMd8zfJOKSfp0SVqUERgoq8EQek7Pc5"
+        ],
+        "height": {
+          "x": 13.447200046818807,
+          "y": 34.064113084296395,
+          "z": 66.44221878051758,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 36.31438754681881,
+          "y": 40.126613084296395,
+          "z": 63.44221878051758,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -9.419987453181193,
+          "y": 28.00161308429639,
+          "z": 63.44221878051758,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Creative_Leviathan_MByX5LTziqMd8zfJOKSfp0SVqUERgoq8EQek7Pc5"
+        ],
+        "height": {
+          "x": 13.447200046818807,
+          "y": 34.064113084296395,
+          "z": 64.44221878051758,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 36.31438754681881,
+          "y": 40.126613084296395,
+          "z": 63.44221878051758,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -9.419987453181193,
+          "y": 28.00161308429639,
+          "z": 63.44221878051758,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -3.5592433350407404,
+          "y": -2.5762739062676827,
+          "z": -5.449275148297461,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Efflorescent_Dwarf_flMoLMH1Z8pnSBTYyNbmQxRP9WsPebcP9NJQhHHr"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Spirited_Hoverboard_jxsOtegYxEfmKNJlVkUtrysyPWFRRAbMtXGJ6YE3",
+        "location": {
+          "x": 6.4411195841150715,
+          "y": 104.34603707893024,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Energetic_Thunderbird_J82O6CX40p3Sq0hIOArYtXFMlgXaDl1dxmbpfluB",
+        "location": {
+          "x": 11.169943881600773,
+          "y": 108.74082164878239,
+          "z": 17.290562903249338,
+          "rotation": {
+            "w": 0.8631383020725777,
+            "x": 0.36921640414558915,
+            "y": -0.12655846188296657,
+            "z": 0.3203973691073108
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Spirited_Hoverboard_jxsOtegYxEfmKNJlVkUtrysyPWFRRAbMtXGJ6YE3"
+        ]
+      }
+    },
+    {
+      "type": "UnGroup",
+      "data": {
+        "names": [
+          "Creative_Rocketship_IZI3kSs9ZSITpumoNLamVW5Vag2CwtMF7xcpnuvt"
+        ]
+      }
+    },
+    {
+      "type": "UnGroup",
+      "data": {
+        "names": [
+          "Vivacious_Titan_hgfjNzPyE7Oow7XbAzwa6ylUTSPfdCzsuB4sNFPB"
+        ]
+      }
+    },
+    {
+      "type": "UnGroup",
+      "data": {
+        "names": [
+          "Ingenious_Starship_LjaXrR2piCEIEiNGsEpFOqGax8QWoJwiMy64hxxS"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Copious_Hyperloop_tDU4LDN6m6j77EFfUhr91kDRGcpgWOIo7foVCHHK",
+          "Dazzling_Behemoth_Toi9psqmhyC2e9ItSRIOJp7828f5zCC5YNI4sYrF",
+          "Mirthful_Airship_Zgp6jPLA6u0sIJqPhxKMRfLHXFfNUykcZEsZhWJO"
+        ],
+        "groupID": "Ingenious_Ifrit_N8jvtVCRYf9QYVRyk9t3mnEoOnUsTWmBhYOyQhjx",
+        "hull": false
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "text.groovy",
+        "name": "Beaming_Warpod_uwCDAJK1V29lgjgOIdQD4KyJNGKfilct8LAAPRo4",
+        "location": {
+          "x": 37.82469177246094,
+          "y": 36.46932105009837,
+          "z": 54.98469535858382,
+          "rotation": {
+            "w": 0.5000000000000001,
+            "x": 0.5,
+            "y": -0.4999999999999999,
+            "z": 0.5
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -2.8421709430404007E-14,
+          "y": 91.45401640868218,
+          "z": 18.515374308485455,
+          "rotation": {
+            "w": 0.7071067811865475,
+            "x": -0.7071067811865476,
+            "y": -1.570092458683775E-16,
+            "z": -1.570092458683775E-16
+          }
+        },
+        "names": [
+          "Beaming_Warpod_uwCDAJK1V29lgjgOIdQD4KyJNGKfilct8LAAPRo4"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": 4.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Beaming_Warpod_uwCDAJK1V29lgjgOIdQD4KyJNGKfilct8LAAPRo4"
+        ]
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Beaming_Warpod_uwCDAJK1V29lgjgOIdQD4KyJNGKfilct8LAAPRo4"
+        ],
+        "height": {
+          "x": -1.0,
+          "y": -1.5,
+          "z": 10.000000000000014,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 18.889648437500014,
+          "y": 3.429687500000007,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -20.889648437500007,
+          "y": -6.4296875,
+          "z": -7.105427357601002E-15,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 37.82469177246094,
+          "y": 36.46932105009837,
+          "z": 54.98469535858382,
+          "rotation": {
+            "w": 0.5000000000000001,
+            "x": 0.5,
+            "y": -0.4999999999999999,
+            "z": 0.5
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Beaming_Warpod_uwCDAJK1V29lgjgOIdQD4KyJNGKfilct8LAAPRo4"
+        ],
+        "height": {
+          "x": 3.0,
+          "y": -0.5,
+          "z": 10.000000000000021,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 18.88964843750001,
+          "y": 5.429687500000007,
+          "z": -7.105427357601002E-15,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -12.889648437500007,
+          "y": -6.4296875,
+          "z": -1.4210854715202004E-14,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 37.82469177246094,
+          "y": 36.46932105009837,
+          "z": 54.98469535858382,
+          "rotation": {
+            "w": 0.5000000000000001,
+            "x": 0.5,
+            "y": -0.4999999999999999,
+            "z": 0.5
+          }
+        }
+      }
+    },
+    {
+      "type": "Resize",
+      "data": {
+        "names": [
+          "Beaming_Warpod_uwCDAJK1V29lgjgOIdQD4KyJNGKfilct8LAAPRo4"
+        ],
+        "height": {
+          "x": 3.0,
+          "y": -0.5,
+          "z": 3.0000000000000213,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "leftFront": {
+          "x": 18.889648437500014,
+          "y": 5.429687500000007,
+          "z": -7.105427357601002E-15,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "rightRear": {
+          "x": -12.889648437500007,
+          "y": -6.4296875,
+          "z": -1.4210854715202004E-14,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "workplane": {
+          "x": 37.82469177246094,
+          "y": 36.46932105009837,
+          "z": 54.98469535858382,
+          "rotation": {
+            "w": 0.5000000000000001,
+            "x": 0.5,
+            "y": -0.4999999999999999,
+            "z": 0.5
+          }
+        }
+      }
+    },
+    {
+      "type": "ToSolid",
+      "data": {
+        "names": [
+          "Beaming_Warpod_uwCDAJK1V29lgjgOIdQD4KyJNGKfilct8LAAPRo4"
+        ],
+        "r": 0.9019607901573181,
+        "g": 0.9019607901573181,
+        "b": 0.3019607961177826,
+        "a": 1.0,
+        "useColor": true
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -1.0169266671544972,
+          "y": -0.7360782589336237,
+          "z": -1.5569357566564173,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Efflorescent_Dwarf_flMoLMH1Z8pnSBTYyNbmQxRP9WsPebcP9NJQhHHr"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Merry_Elemental_KOi7DLpWf21Wn8Msw0eEYE57rF5ivXMBXHoGpi02",
+        "location": {
+          "x": 5.6493927702101985,
+          "y": 106.12524180996425,
+          "z": 15.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Merry_Elemental_KOi7DLpWf21Wn8Msw0eEYE57rF5ivXMBXHoGpi02"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -0.9472777407261361,
+          "y": -0.9999914130066507,
+          "z": 0.3204404091836892,
+          "rotation": {
+            "w": 1.0,
+            "x": -6.719321788155235E-17,
+            "y": 1.110223024625157E-16,
+            "z": 1.334034540278161E-17
+          }
+        },
+        "names": [
+          "Peppy_Monowheel_jE2AtGqta7MQiqf1us7TEoeXXSxRGywJRAiMUnqZ"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.9472686189126875,
+          "y": -8.58695173278079E-6,
+          "z": -0.32044057725182995,
+          "rotation": {
+            "w": 1.0,
+            "x": -3.3596608940776174E-17,
+            "y": 5.551115123125785E-17,
+            "z": 6.670172701390805E-18
+          }
+        },
+        "names": [
+          "Peppy_Monowheel_jE2AtGqta7MQiqf1us7TEoeXXSxRGywJRAiMUnqZ"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 9.121813334900253E-6,
+          "y": 0.9999999999583835,
+          "z": 1.68068140737887E-7,
+          "rotation": {
+            "w": 1.0,
+            "x": -1.6798304470388086E-16,
+            "y": 2.7755575615628923E-16,
+            "z": 3.335086350695402E-17
+          }
+        },
+        "names": [
+          "Peppy_Monowheel_jE2AtGqta7MQiqf1us7TEoeXXSxRGywJRAiMUnqZ"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.09472321316569321,
+          "y": -0.4000008586785242,
+          "z": -0.032044124952420816,
+          "rotation": {
+            "w": 1.0,
+            "x": -5.711423519931949E-16,
+            "y": 9.43689570931383E-16,
+            "z": 1.1339293592364368E-16
+          }
+        },
+        "names": [
+          "Peppy_Monowheel_jE2AtGqta7MQiqf1us7TEoeXXSxRGywJRAiMUnqZ"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Peppy_Monowheel_jE2AtGqta7MQiqf1us7TEoeXXSxRGywJRAiMUnqZ"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -0.16022211298131595,
+          "y": -0.19999845888926515,
+          "z": -0.4736343430893868,
+          "rotation": {
+            "w": 1.0,
+            "x": -2.3517626258543323E-16,
+            "y": 3.885780586188049E-16,
+            "z": 4.669120890973563E-17
+          }
+        },
+        "names": [
+          "Peppy_Monowheel_jE2AtGqta7MQiqf1us7TEoeXXSxRGywJRAiMUnqZ"
+        ]
+      }
     }
   ],
-  "currentIndex": 204,
+  "currentIndex": 286,
   "projectName": "Kevins Project",
   "workplane": {
-    "x": 0.0,
-    "y": 0.0,
-    "z": 0.0,
+    "x": 112.72487344831721,
+    "y": -20.515464243421647,
+    "z": 80.50150292440469,
     "rotation": {
-      "w": 1.0,
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
+      "w": 0.6977196625770399,
+      "x": 0.11481598994338936,
+      "y": -0.11481715454371805,
+      "z": 0.6977260077775409
     }
   }
 }
