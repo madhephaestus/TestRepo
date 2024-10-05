@@ -1,0 +1,275 @@
+{
+  "opperations": [
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "sphere.groovy",
+        "name": "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s",
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinder.groovy",
+        "name": "Verdant_Leprechaun_ytpyvvPC2I",
+        "location": {
+          "x": -1.887905186592775,
+          "y": 1.145268450615763,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.7071067811865476,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.7071067811865475
+          }
+        }
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Verdant_Leprechaun_ytpyvvPC2I"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinder.groovy",
+        "name": "Effulgent_Hoversuit_JUUmnr4c97",
+        "location": {
+          "x": -1.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.7071067811865476,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.7071067811865475
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Effulgent_Hoversuit_JUUmnr4c97"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Effulgent_Hoversuit_JUUmnr4c97"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinder.groovy",
+        "name": "Imaginative_Specter_DX0zWi9EQg",
+        "location": {
+          "x": 0.0,
+          "y": 23.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.7071067811865476,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.7071067811865475
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Imaginative_Specter_DX0zWi9EQg"
+        ]
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
+        "fileRel": "cylinder.groovy",
+        "name": "Fabulous_Levitator_7r7m6mxO4Y",
+        "location": {
+          "x": 10.0,
+          "y": -2.0,
+          "z": 11.0,
+          "rotation": {
+            "w": 0.45603409999966016,
+            "x": 0.4410491943209586,
+            "y": -0.5526984785476011,
+            "z": 0.5404006843421835
+          }
+        }
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -7.846282234804024,
+          "y": 1.560722618468379,
+          "z": -3.552713678800501E-15,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Fabulous_Levitator_7r7m6mxO4Y"
+        ]
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Fabulous_Levitator_7r7m6mxO4Y",
+          "Effulgent_Hoversuit_JUUmnr4c97"
+        ],
+        "groupID": "Joyous_Hobgoblin_DogfVjZEmQ",
+        "hull": false
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -0.29597244118583266,
+          "y": -1.688496152416791,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.9928211874464774,
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.11960806727544178
+          }
+        },
+        "names": [
+          "Joyous_Hobgoblin_DogfVjZEmQ"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.044052044755154895,
+          "y": 0.20906891147146744,
+          "z": -5.329070518200751E-15,
+          "rotation": {
+            "w": 0.9998505724592803,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.01728677971310751
+          }
+        },
+        "names": [
+          "Joyous_Hobgoblin_DogfVjZEmQ"
+        ]
+      }
+    }
+  ],
+  "currentIndex": 14,
+  "projectName": "Second One",
+  "workplane": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  }
+}
