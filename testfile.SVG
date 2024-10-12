@@ -6,7 +6,7 @@
    width="28.222222912098783mm"
    height="28.222222912098783mm"
    sodipodi:docname="testfile.SVG"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,12 +27,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="6.5249998"
-     inkscape:cx="53.333335"
-     inkscape:cy="53.333335"
+     inkscape:cx="53.409963"
+     inkscape:cy="53.409963"
      inkscape:window-width="1433"
      inkscape:window-height="938"
-     inkscape:window-x="70"
-     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <path
      id="path1"
@@ -55,7 +55,7 @@
      inkscape:label="Layer 3">
     <path
        id="rect1"
-       style="stroke-width:0.9375"
-       d="m 56.178162,69.683907 h 21.120689 v 13.21839 H 56.178162 Z" />
+       style="fill:#f7ff00;fill-opacity:1;stroke:#e4f60c;stroke-width:2.42365;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 42.032411,42.909071 h 39.25987 v 47.377124 h -39.25987 z" />
   </g>
 </svg>

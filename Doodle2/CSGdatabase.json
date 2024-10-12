@@ -1,4 +1,924 @@
 {
+  "Abundant_Hologram_ZoUXGK3bp9_CaDoodle_TextGeneration_Font": {
+    "options2": [
+      "FreeMono Bold",
+      "DejaVu Sans Mono",
+      "FreeMono",
+      "DejaVu Sans Mono Bold",
+      "FreeMono Oblique",
+      "Liberation Serif",
+      "DejaVu Serif",
+      "FreeSerif Bold Italic",
+      "DejaVu Sans Bold",
+      "FreeSans Bold",
+      "FreeMono Bold Oblique",
+      "DejaVu Sans",
+      "Latin Modern Mono 10 Italic",
+      "FreeSerif Bold",
+      "FreeSans",
+      "FreeSans Oblique",
+      "FreeSerif Italic",
+      "Droid Sans Fallback",
+      "FreeSerif",
+      "FreeSans Bold Oblique",
+      "DejaVu Serif Bold",
+      "Arial"
+    ],
+    "name": "Abundant_Hologram_ZoUXGK3bp9_CaDoodle_TextGeneration_Font",
+    "options": [
+      "FreeMono Bold",
+      "DejaVu Sans Mono",
+      "FreeMono",
+      "DejaVu Sans Mono Bold",
+      "FreeMono Oblique",
+      "Liberation Serif",
+      "DejaVu Serif",
+      "FreeSerif Bold Italic",
+      "DejaVu Sans Bold",
+      "FreeSans Bold",
+      "FreeMono Bold Oblique",
+      "DejaVu Sans",
+      "Latin Modern Mono 10 Italic",
+      "FreeSerif Bold",
+      "FreeSans",
+      "FreeSans Oblique",
+      "FreeSerif Italic",
+      "Droid Sans Fallback",
+      "FreeSerif",
+      "FreeSans Bold Oblique",
+      "DejaVu Serif Bold",
+      "Arial"
+    ],
+    "strValue": "Arial"
+  },
+  "Superb_Segway_N65HMf4P6Q_CaDoodle_CylinderGeneration_Sides": {
+    "name": "Superb_Segway_N65HMf4P6Q_CaDoodle_CylinderGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 16000
+  },
+  "Ebullient_Golem_nPILyozBjo_CaDoodle_CylinderHoleGeneration_Sides": {
+    "name": "Ebullient_Golem_nPILyozBjo_CaDoodle_CylinderHoleGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 16000
+  },
+  "Imaginative_Specter_DX0zWi9EQg_CaDoodle_CylinderGeneration_Sides": {
+    "name": "Imaginative_Specter_DX0zWi9EQg_CaDoodle_CylinderGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 16000
+  },
+  "Copious_Hyperloop_tDU4LDN6m6j77EFfUhr91kDRGcpgWOIo7foVCHHK_CaDoodle_ShereGeneration_Sides": {
+    "name": "Copious_Hyperloop_tDU4LDN6m6j77EFfUhr91kDRGcpgWOIo7foVCHHK_CaDoodle_ShereGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "value": 8000
+  },
+  "Mirthful_Airship_Zgp6jPLA6u0sIJqPhxKMRfLHXFfNUykcZEsZhWJO_CaDoodle_CylinderGeneration_Sides": {
+    "name": "Mirthful_Airship_Zgp6jPLA6u0sIJqPhxKMRfLHXFfNUykcZEsZhWJO_CaDoodle_CylinderGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 16000
+  },
+  "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s_CaDoodle_ShereGeneration_Sides": {
+    "name": "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s_CaDoodle_ShereGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "value": 8000
+  },
+  "Chirpy_Behemoth_dAHhry6gOIXJotLbvTARZUsa52ahbr5xFFzAXiU1_CaDoodle_ShereGeneration_Sides": {
+    "name": "Chirpy_Behemoth_dAHhry6gOIXJotLbvTARZUsa52ahbr5xFFzAXiU1_CaDoodle_ShereGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "value": 8000
+  },
+  "Beaming_Warpod_uwCDAJK1V29lgjgOIdQD4KyJNGKfilct8LAAPRo4_CaDoodle_TextGeneration_Font": {
+    "options2": [
+      "FreeMono Bold",
+      "DejaVu Sans Mono",
+      "FreeMono",
+      "DejaVu Sans Mono Bold",
+      "FreeMono Oblique",
+      "Liberation Serif",
+      "DejaVu Serif",
+      "FreeSerif Bold Italic",
+      "DejaVu Sans Bold",
+      "FreeSans Bold",
+      "FreeMono Bold Oblique",
+      "DejaVu Sans",
+      "Latin Modern Mono 10 Italic",
+      "FreeSerif Bold",
+      "FreeSans",
+      "FreeSans Oblique",
+      "FreeSerif Italic",
+      "Droid Sans Fallback",
+      "FreeSerif",
+      "FreeSans Bold Oblique",
+      "DejaVu Serif Bold",
+      "Arial"
+    ],
+    "name": "Beaming_Warpod_uwCDAJK1V29lgjgOIdQD4KyJNGKfilct8LAAPRo4_CaDoodle_TextGeneration_Font",
+    "options": [
+      "FreeMono Bold",
+      "DejaVu Sans Mono",
+      "FreeMono",
+      "DejaVu Sans Mono Bold",
+      "FreeMono Oblique",
+      "Liberation Serif",
+      "DejaVu Serif",
+      "FreeSerif Bold Italic",
+      "DejaVu Sans Bold",
+      "FreeSans Bold",
+      "FreeMono Bold Oblique",
+      "DejaVu Sans",
+      "Latin Modern Mono 10 Italic",
+      "FreeSerif Bold",
+      "FreeSans",
+      "FreeSans Oblique",
+      "FreeSerif Italic",
+      "Droid Sans Fallback",
+      "FreeSerif",
+      "FreeSans Bold Oblique",
+      "DejaVu Serif Bold",
+      "Arial"
+    ],
+    "strValue": "FreeMono"
+  },
+  "Jocund_Phoenix_P8fa9XXlhH_CaDoodle_TextGeneration_Value": {
+    "name": "Jocund_Phoenix_P8fa9XXlhH_CaDoodle_TextGeneration_Value",
+    "options": [],
+    "strValue": "Text"
+  },
+  "Creative_Leviathan_MByX5LTziqMd8zfJOKSfp0SVqUERgoq8EQek7Pc5_CaDoodle_TextGeneration_Value": {
+    "options2": [],
+    "name": "Creative_Leviathan_MByX5LTziqMd8zfJOKSfp0SVqUERgoq8EQek7Pc5_CaDoodle_TextGeneration_Value",
+    "options": [],
+    "strValue": "Kevin"
+  },
+  "Energetic_Thunderbird_J82O6CX40p3Sq0hIOArYtXFMlgXaDl1dxmbpfluB_CaDoodle_ShereGeneration_Sides": {
+    "name": "Energetic_Thunderbird_J82O6CX40p3Sq0hIOArYtXFMlgXaDl1dxmbpfluB_CaDoodle_ShereGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "value": 8000
+  },
+  "Fecund_Griffin_JeQQyWlwbH_CaDoodle_CylinderGeneration_Sides": {
+    "name": "Fecund_Griffin_JeQQyWlwbH_CaDoodle_CylinderGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 16000
+  },
+  "Twinkling_Forcefield_zD3pMvGZcifrbjLY3KmahFChoN1MmQ0geqRVQXXz_CaDoodle_CylinderHoleGeneration_Sides": {
+    "name": "Twinkling_Forcefield_zD3pMvGZcifrbjLY3KmahFChoN1MmQ0geqRVQXXz_CaDoodle_CylinderHoleGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 16000
+  },
+  "Beaming_Sprite_B6gqAODIsu_CaDoodle_TextGeneration_Value": {
+    "name": "Beaming_Sprite_B6gqAODIsu_CaDoodle_TextGeneration_Value",
+    "options": [],
+    "strValue": "Text"
+  },
+  "Efflorescent_Ornithopter_qrFpFsoZV3_CaDoodle_CylinderGeneration_Sides": {
+    "name": "Efflorescent_Ornithopter_qrFpFsoZV3_CaDoodle_CylinderGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 16000
+  },
+  "Blooming_Minotaur_1lbIPqmZ6R00crqEE4JsQmmYypbZzvCkwZlDo0yv_CaDoodle_ShereGeneration_Sides": {
+    "name": "Blooming_Minotaur_1lbIPqmZ6R00crqEE4JsQmmYypbZzvCkwZlDo0yv_CaDoodle_ShereGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "value": 8000
+  },
+  "Fruitful_Leviathan_Lf0cpPQyZ3lLSXOcFPuFosciHv80JDTORiakJ8AO_CaDoodle_ShereGeneration_Sides": {
+    "name": "Fruitful_Leviathan_Lf0cpPQyZ3lLSXOcFPuFosciHv80JDTORiakJ8AO_CaDoodle_ShereGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "value": 8000
+  },
+  "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw_CaDoodle_CylinderGeneration_Sides": {
+    "name": "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw_CaDoodle_CylinderGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 16000
+  },
+  "Euphoric_Skycycle_4T4UWHYIkHXNkiqzTtxJWSfZ1YKlapb4lucqKNGe_CaDoodle_CylinderGeneration_Sides": {
+    "name": "Euphoric_Skycycle_4T4UWHYIkHXNkiqzTtxJWSfZ1YKlapb4lucqKNGe_CaDoodle_CylinderGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 16000
+  },
+  "Snappy_Centaur_KQjCLh9I3w_CaDoodle_TextGeneration_Value": {
+    "name": "Snappy_Centaur_KQjCLh9I3w_CaDoodle_TextGeneration_Value",
+    "options": [],
+    "strValue": "Text"
+  },
+  "Dazzling_Behemoth_Toi9psqmhyC2e9ItSRIOJp7828f5zCC5YNI4sYrF_CaDoodle_ShereGeneration_Sides": {
+    "name": "Dazzling_Behemoth_Toi9psqmhyC2e9ItSRIOJp7828f5zCC5YNI4sYrF_CaDoodle_ShereGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "value": 8000
+  },
+  "Spirited_Gravicycle_sI3lpxkyGS_CaDoodle_TextGeneration_Font": {
+    "name": "Spirited_Gravicycle_sI3lpxkyGS_CaDoodle_TextGeneration_Font",
+    "options": [
+      "FreeMono Bold",
+      "DejaVu Sans Mono",
+      "FreeMono",
+      "DejaVu Sans Mono Bold",
+      "FreeMono Oblique",
+      "Liberation Serif",
+      "DejaVu Serif",
+      "FreeSerif Bold Italic",
+      "DejaVu Sans Bold",
+      "FreeSans Bold",
+      "FreeMono Bold Oblique",
+      "DejaVu Sans",
+      "Latin Modern Mono 10 Italic",
+      "FreeSerif Bold",
+      "FreeSans",
+      "FreeSans Oblique",
+      "FreeSerif Italic",
+      "Droid Sans Fallback",
+      "FreeSerif",
+      "FreeSans Bold Oblique",
+      "DejaVu Serif Bold",
+      "Arial"
+    ],
+    "strValue": "Arial"
+  },
+  "Abundant_Hologram_ZoUXGK3bp9_CaDoodle_TextGeneration_Value": {
+    "options2": [],
+    "name": "Abundant_Hologram_ZoUXGK3bp9_CaDoodle_TextGeneration_Value",
+    "options": [],
+    "strValue": "Text"
+  },
+  "Sparkling_Starship_VPOEfpGOlNZ9MyBxuyBKlPSJ0DSfgejVnf9cmU9Q_CaDoodle_ShereGeneration_Sides": {
+    "name": "Sparkling_Starship_VPOEfpGOlNZ9MyBxuyBKlPSJ0DSfgejVnf9cmU9Q_CaDoodle_ShereGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "value": 8000
+  },
+  "Mirthful_Thunderbird_Ex7sQylHZuw9hVzyDSkxxDXNaEzuKw5T1Wog3TnT_CaDoodle_ShereGeneration_Sides": {
+    "name": "Mirthful_Thunderbird_Ex7sQylHZuw9hVzyDSkxxDXNaEzuKw5T1Wog3TnT_CaDoodle_ShereGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "value": 8000
+  },
+  "Lively_Hyperpod_vcMfyZl1I6_CaDoodle_TextGeneration_Font": {
+    "name": "Lively_Hyperpod_vcMfyZl1I6_CaDoodle_TextGeneration_Font",
+    "options": [
+      "FreeMono Bold",
+      "DejaVu Sans Mono",
+      "FreeMono",
+      "DejaVu Sans Mono Bold",
+      "FreeMono Oblique",
+      "Liberation Serif",
+      "DejaVu Serif",
+      "FreeSerif Bold Italic",
+      "DejaVu Sans Bold",
+      "FreeSans Bold",
+      "FreeMono Bold Oblique",
+      "DejaVu Sans",
+      "Latin Modern Mono 10 Italic",
+      "FreeSerif Bold",
+      "FreeSans",
+      "FreeSans Oblique",
+      "FreeSerif Italic",
+      "Droid Sans Fallback",
+      "FreeSerif",
+      "FreeSans Bold Oblique",
+      "DejaVu Serif Bold",
+      "Arial"
+    ],
+    "strValue": "Arial"
+  },
+  "Lively_Siren_hkY7olwQ4ZXen2n5OZJKkWbm0uwHcB6CsM8rkJ5w_CaDoodle_ShereGeneration_Sides": {
+    "name": "Lively_Siren_hkY7olwQ4ZXen2n5OZJKkWbm0uwHcB6CsM8rkJ5w_CaDoodle_ShereGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "value": 8000
+  },
+  "Jocund_Skycycle_IEEhPV4WMyKR1aK0qQiIXyuXto554joWXaYXXkEz_CaDoodle_ShereGeneration_Sides": {
+    "name": "Jocund_Skycycle_IEEhPV4WMyKR1aK0qQiIXyuXto554joWXaYXXkEz_CaDoodle_ShereGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "value": 8000
+  },
+  "Burgeoning_Hovercar_sOiubUDGgpl2CFt4HuDo5R5KeSWTkphE54CPDcn5_CaDoodle_ShereGeneration_Sides": {
+    "name": "Burgeoning_Hovercar_sOiubUDGgpl2CFt4HuDo5R5KeSWTkphE54CPDcn5_CaDoodle_ShereGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "value": 8000
+  },
+  "Bouncy_Hoversuit_mPiOZoam6Y_CaDoodle_TextGeneration_Value": {
+    "name": "Bouncy_Hoversuit_mPiOZoam6Y_CaDoodle_TextGeneration_Value",
+    "options": [],
+    "strValue": "Text"
+  },
+  "Majestic_Cerberus_1KOcN8uOt2Yj9wD2jbJowbgjCh9aIPjTgQ7g8TL9_CaDoodle_ShereGeneration_Sides": {
+    "name": "Majestic_Cerberus_1KOcN8uOt2Yj9wD2jbJowbgjCh9aIPjTgQ7g8TL9_CaDoodle_ShereGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "value": 8000
+  },
+  "Glowing_Nanobot_ISnFBeP23vDxePjOSMqHGx5IR3NJhwNopLvQvF6g_CaDoodle_CylinderHoleGeneration_Sides": {
+    "name": "Glowing_Nanobot_ISnFBeP23vDxePjOSMqHGx5IR3NJhwNopLvQvF6g_CaDoodle_CylinderHoleGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 16000
+  },
+  "Efflorescent_Goblin_zRsOynNTr3_CaDoodle_CylinderGeneration_Sides": {
+    "name": "Efflorescent_Goblin_zRsOynNTr3_CaDoodle_CylinderGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 16000
+  },
+  "Beaming_Sprite_B6gqAODIsu_CaDoodle_TextGeneration_Font": {
+    "name": "Beaming_Sprite_B6gqAODIsu_CaDoodle_TextGeneration_Font",
+    "options": [
+      "FreeMono Bold",
+      "DejaVu Sans Mono",
+      "FreeMono",
+      "DejaVu Sans Mono Bold",
+      "FreeMono Oblique",
+      "Liberation Serif",
+      "DejaVu Serif",
+      "FreeSerif Bold Italic",
+      "DejaVu Sans Bold",
+      "FreeSans Bold",
+      "FreeMono Bold Oblique",
+      "DejaVu Sans",
+      "Latin Modern Mono 10 Italic",
+      "FreeSerif Bold",
+      "FreeSans",
+      "FreeSans Oblique",
+      "FreeSerif Italic",
+      "Droid Sans Fallback",
+      "FreeSerif",
+      "FreeSans Bold Oblique",
+      "DejaVu Serif Bold",
+      "Arial"
+    ],
+    "strValue": "Arial"
+  },
+  "Jaunty_Hoverboard_H55raUpFONdLCSQLtZdtcZUDo4teSoHtsPSeynbZ_CaDoodle_ShereGeneration_Sides": {
+    "name": "Jaunty_Hoverboard_H55raUpFONdLCSQLtZdtcZUDo4teSoHtsPSeynbZ_CaDoodle_ShereGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "value": 8000
+  },
+  "Bouncy_Hoversuit_mPiOZoam6Y_CaDoodle_TextGeneration_Font": {
+    "name": "Bouncy_Hoversuit_mPiOZoam6Y_CaDoodle_TextGeneration_Font",
+    "options": [
+      "FreeMono Bold",
+      "DejaVu Sans Mono",
+      "FreeMono",
+      "DejaVu Sans Mono Bold",
+      "FreeMono Oblique",
+      "Liberation Serif",
+      "DejaVu Serif",
+      "FreeSerif Bold Italic",
+      "DejaVu Sans Bold",
+      "FreeSans Bold",
+      "FreeMono Bold Oblique",
+      "DejaVu Sans",
+      "Latin Modern Mono 10 Italic",
+      "FreeSerif Bold",
+      "FreeSans",
+      "FreeSans Oblique",
+      "FreeSerif Italic",
+      "Droid Sans Fallback",
+      "FreeSerif",
+      "FreeSans Bold Oblique",
+      "DejaVu Serif Bold",
+      "Arial"
+    ],
+    "strValue": "Arial"
+  },
+  "Sprightly_Gyrocar_4vb6zMKrAH_CaDoodle_CylinderHoleGeneration_Sides": {
+    "name": "Sprightly_Gyrocar_4vb6zMKrAH_CaDoodle_CylinderHoleGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 16000
+  },
+  "Euphoric_Jetpack_GFZE8WyWGDTiKYStMfoNXlNY56hSKGl7Woe5rvlU_CaDoodle_ShereGeneration_Sides": {
+    "name": "Euphoric_Jetpack_GFZE8WyWGDTiKYStMfoNXlNY56hSKGl7Woe5rvlU_CaDoodle_ShereGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "value": 8000
+  },
+  "Teeming_Ogre_KmsxNcaUpPQa5cIwGTdkkQ1KFiUlCBwI3qiTdmyz_CaDoodle_CylinderHoleGeneration_Sides": {
+    "name": "Teeming_Ogre_KmsxNcaUpPQa5cIwGTdkkQ1KFiUlCBwI3qiTdmyz_CaDoodle_CylinderHoleGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 16000
+  },
   "Efflorescent_Dwarf_flMoLMH1Z8pnSBTYyNbmQxRP9WsPebcP9NJQhHHr_CaDoodle_TextGeneration_Font": {
     "options2": [
       "FreeMono Bold",
@@ -55,30 +975,6 @@
     "name": "Spirited_Gravicycle_sI3lpxkyGS_CaDoodle_TextGeneration_Value",
     "options": [],
     "strValue": "Text"
-  },
-  "Superb_Segway_N65HMf4P6Q_CaDoodle_CylinderGeneration_Sides": {
-    "name": "Superb_Segway_N65HMf4P6Q_CaDoodle_CylinderGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "64"
-    ],
-    "value": 16000
   },
   "Perky_Manticore_ZNl7CngAXUJXlsdHnB3ji0vKLXdGXbZ2JkZGKfw7_CaDoodle_CylinderGeneration_Sides": {
     "name": "Perky_Manticore_ZNl7CngAXUJXlsdHnB3ji0vKLXdGXbZ2JkZGKfw7_CaDoodle_CylinderGeneration_Sides",
@@ -176,80 +1072,8 @@
     ],
     "value": 8000
   },
-  "Imaginative_Specter_DX0zWi9EQg_CaDoodle_CylinderGeneration_Sides": {
-    "name": "Imaginative_Specter_DX0zWi9EQg_CaDoodle_CylinderGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "64"
-    ],
-    "value": 16000
-  },
-  "Copious_Hyperloop_tDU4LDN6m6j77EFfUhr91kDRGcpgWOIo7foVCHHK_CaDoodle_ShereGeneration_Sides": {
-    "name": "Copious_Hyperloop_tDU4LDN6m6j77EFfUhr91kDRGcpgWOIo7foVCHHK_CaDoodle_ShereGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "20"
-    ],
-    "value": 8000
-  },
   "Bountiful_Sasquatch_2nS7AOanKRMDrPFM7PzaB0zlrfZrdZ2fc4QF3PfN_CaDoodle_CylinderHoleGeneration_Sides": {
     "name": "Bountiful_Sasquatch_2nS7AOanKRMDrPFM7PzaB0zlrfZrdZ2fc4QF3PfN_CaDoodle_CylinderHoleGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "64"
-    ],
-    "value": 16000
-  },
-  "Mirthful_Airship_Zgp6jPLA6u0sIJqPhxKMRfLHXFfNUykcZEsZhWJO_CaDoodle_CylinderGeneration_Sides": {
-    "name": "Mirthful_Airship_Zgp6jPLA6u0sIJqPhxKMRfLHXFfNUykcZEsZhWJO_CaDoodle_CylinderGeneration_Sides",
     "options": [
       "3",
       "4",
@@ -302,30 +1126,6 @@
     "options": [],
     "strValue": "test"
   },
-  "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s_CaDoodle_ShereGeneration_Sides": {
-    "name": "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s_CaDoodle_ShereGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "20"
-    ],
-    "value": 8000
-  },
   "Scintillating_Unicorn_RsoEkFThi6_CaDoodle_CylinderHoleGeneration_Sides": {
     "name": "Scintillating_Unicorn_RsoEkFThi6_CaDoodle_CylinderHoleGeneration_Sides",
     "options": [
@@ -350,8 +1150,8 @@
     ],
     "value": 16000
   },
-  "Chirpy_Behemoth_dAHhry6gOIXJotLbvTARZUsa52ahbr5xFFzAXiU1_CaDoodle_ShereGeneration_Sides": {
-    "name": "Chirpy_Behemoth_dAHhry6gOIXJotLbvTARZUsa52ahbr5xFFzAXiU1_CaDoodle_ShereGeneration_Sides",
+  "Marvelous_Cyclops_XO9h0acRC3_CaDoodle_ShereGeneration_Sides": {
+    "name": "Marvelous_Cyclops_XO9h0acRC3_CaDoodle_ShereGeneration_Sides",
     "options": [
       "3",
       "4",
@@ -374,57 +1174,29 @@
     ],
     "value": 8000
   },
-  "Beaming_Warpod_uwCDAJK1V29lgjgOIdQD4KyJNGKfilct8LAAPRo4_CaDoodle_TextGeneration_Font": {
-    "options2": [
-      "FreeMono Bold",
-      "DejaVu Sans Mono",
-      "FreeMono",
-      "DejaVu Sans Mono Bold",
-      "FreeMono Oblique",
-      "Liberation Serif",
-      "DejaVu Serif",
-      "FreeSerif Bold Italic",
-      "DejaVu Sans Bold",
-      "FreeSans Bold",
-      "FreeMono Bold Oblique",
-      "DejaVu Sans",
-      "Latin Modern Mono 10 Italic",
-      "FreeSerif Bold",
-      "FreeSans",
-      "FreeSans Oblique",
-      "FreeSerif Italic",
-      "Droid Sans Fallback",
-      "FreeSerif",
-      "FreeSans Bold Oblique",
-      "DejaVu Serif Bold",
-      "Arial"
-    ],
-    "name": "Beaming_Warpod_uwCDAJK1V29lgjgOIdQD4KyJNGKfilct8LAAPRo4_CaDoodle_TextGeneration_Font",
+  "Fruitful_Hydra_hDBrCrTVmV_CaDoodle_ShereGeneration_Sides": {
+    "name": "Fruitful_Hydra_hDBrCrTVmV_CaDoodle_ShereGeneration_Sides",
     "options": [
-      "FreeMono Bold",
-      "DejaVu Sans Mono",
-      "FreeMono",
-      "DejaVu Sans Mono Bold",
-      "FreeMono Oblique",
-      "Liberation Serif",
-      "DejaVu Serif",
-      "FreeSerif Bold Italic",
-      "DejaVu Sans Bold",
-      "FreeSans Bold",
-      "FreeMono Bold Oblique",
-      "DejaVu Sans",
-      "Latin Modern Mono 10 Italic",
-      "FreeSerif Bold",
-      "FreeSans",
-      "FreeSans Oblique",
-      "FreeSerif Italic",
-      "Droid Sans Fallback",
-      "FreeSerif",
-      "FreeSans Bold Oblique",
-      "DejaVu Serif Bold",
-      "Arial"
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
     ],
-    "strValue": "FreeMono"
+    "value": 8000
   },
   "Amazing_Airship_DWXSN5fgs4wLwCA4zvZ4ktbFB2QgCIzZIFSfDyJT_CaDoodle_ShereGeneration_Sides": {
     "name": "Amazing_Airship_DWXSN5fgs4wLwCA4zvZ4ktbFB2QgCIzZIFSfDyJT_CaDoodle_ShereGeneration_Sides",
@@ -558,12 +1330,6 @@
     ],
     "value": 16000
   },
-  "Jocund_Phoenix_P8fa9XXlhH_CaDoodle_TextGeneration_Value": {
-    "options2": [],
-    "name": "Jocund_Phoenix_P8fa9XXlhH_CaDoodle_TextGeneration_Value",
-    "options": [],
-    "strValue": "Text"
-  },
   "Brilliant_Basilisk_L1KGe8eDS6C6oqbCFoo6j4CzUOMGySb1AH8Ehh3z_CaDoodle_CylinderHoleGeneration_Sides": {
     "name": "Brilliant_Basilisk_L1KGe8eDS6C6oqbCFoo6j4CzUOMGySb1AH8Ehh3z_CaDoodle_CylinderHoleGeneration_Sides",
     "options": [
@@ -587,12 +1353,6 @@
       "64"
     ],
     "value": 16000
-  },
-  "Creative_Leviathan_MByX5LTziqMd8zfJOKSfp0SVqUERgoq8EQek7Pc5_CaDoodle_TextGeneration_Value": {
-    "options2": [],
-    "name": "Creative_Leviathan_MByX5LTziqMd8zfJOKSfp0SVqUERgoq8EQek7Pc5_CaDoodle_TextGeneration_Value",
-    "options": [],
-    "strValue": "Kevin"
   },
   "Resplendent_Sasquatch_8hPkJ4oZE6OFOoR0JAZ84Ulvny7DIHDIhSHIEMcL_CaDoodle_ShereGeneration_Sides": {
     "name": "Resplendent_Sasquatch_8hPkJ4oZE6OFOoR0JAZ84Ulvny7DIHDIhSHIEMcL_CaDoodle_ShereGeneration_Sides",
@@ -666,30 +1426,6 @@
     ],
     "value": 8000
   },
-  "Energetic_Thunderbird_J82O6CX40p3Sq0hIOArYtXFMlgXaDl1dxmbpfluB_CaDoodle_ShereGeneration_Sides": {
-    "name": "Energetic_Thunderbird_J82O6CX40p3Sq0hIOArYtXFMlgXaDl1dxmbpfluB_CaDoodle_ShereGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "20"
-    ],
-    "value": 8000
-  },
   "Jubilant_Bathyscaphe_AoCpdKk1tQ_CaDoodle_CylinderHoleGeneration_Sides": {
     "name": "Jubilant_Bathyscaphe_AoCpdKk1tQ_CaDoodle_CylinderHoleGeneration_Sides",
     "options": [
@@ -714,8 +1450,8 @@
     ],
     "value": 16000
   },
-  "Fecund_Griffin_JeQQyWlwbH_CaDoodle_CylinderGeneration_Sides": {
-    "name": "Fecund_Griffin_JeQQyWlwbH_CaDoodle_CylinderGeneration_Sides",
+  "Blithe_Sphinx_laFZQhiqC0_CaDoodle_CylinderHoleGeneration_Sides": {
+    "name": "Blithe_Sphinx_laFZQhiqC0_CaDoodle_CylinderHoleGeneration_Sides",
     "options": [
       "3",
       "4",
@@ -763,30 +1499,6 @@
     "value": 16000
   },
   "Jocund_Phoenix_P8fa9XXlhH_CaDoodle_TextGeneration_Font": {
-    "options2": [
-      "FreeMono Bold",
-      "DejaVu Sans Mono",
-      "FreeMono",
-      "DejaVu Sans Mono Bold",
-      "FreeMono Oblique",
-      "Liberation Serif",
-      "DejaVu Serif",
-      "FreeSerif Bold Italic",
-      "DejaVu Sans Bold",
-      "FreeSans Bold",
-      "FreeMono Bold Oblique",
-      "DejaVu Sans",
-      "Latin Modern Mono 10 Italic",
-      "FreeSerif Bold",
-      "FreeSans",
-      "FreeSans Oblique",
-      "FreeSerif Italic",
-      "Droid Sans Fallback",
-      "FreeSerif",
-      "FreeSans Bold Oblique",
-      "DejaVu Serif Bold",
-      "Arial"
-    ],
     "name": "Jocund_Phoenix_P8fa9XXlhH_CaDoodle_TextGeneration_Font",
     "options": [
       "FreeMono Bold",
@@ -838,30 +1550,6 @@
     ],
     "value": 16000
   },
-  "Twinkling_Forcefield_zD3pMvGZcifrbjLY3KmahFChoN1MmQ0geqRVQXXz_CaDoodle_CylinderHoleGeneration_Sides": {
-    "name": "Twinkling_Forcefield_zD3pMvGZcifrbjLY3KmahFChoN1MmQ0geqRVQXXz_CaDoodle_CylinderHoleGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "64"
-    ],
-    "value": 16000
-  },
   "Dazzling_Thunderbird_0xExiCNIR1govfxT2onaDzMqk77LOWUJ0mZRVwJb_CaDoodle_CylinderGeneration_Sides": {
     "name": "Dazzling_Thunderbird_0xExiCNIR1govfxT2onaDzMqk77LOWUJ0mZRVwJb_CaDoodle_CylinderGeneration_Sides",
     "options": [
@@ -886,13 +1574,8 @@
     ],
     "value": 16000
   },
-  "Beaming_Sprite_B6gqAODIsu_CaDoodle_TextGeneration_Value": {
-    "name": "Beaming_Sprite_B6gqAODIsu_CaDoodle_TextGeneration_Value",
-    "options": [],
-    "strValue": "Text"
-  },
-  "Efflorescent_Ornithopter_qrFpFsoZV3_CaDoodle_CylinderGeneration_Sides": {
-    "name": "Efflorescent_Ornithopter_qrFpFsoZV3_CaDoodle_CylinderGeneration_Sides",
+  "Scintillating_Android_leIvYsvmVD_CaDoodle_CylinderGeneration_Sides": {
+    "name": "Scintillating_Android_leIvYsvmVD_CaDoodle_CylinderGeneration_Sides",
     "options": [
       "3",
       "4",
@@ -939,80 +1622,8 @@
     ],
     "value": 8000
   },
-  "Blooming_Minotaur_1lbIPqmZ6R00crqEE4JsQmmYypbZzvCkwZlDo0yv_CaDoodle_ShereGeneration_Sides": {
-    "name": "Blooming_Minotaur_1lbIPqmZ6R00crqEE4JsQmmYypbZzvCkwZlDo0yv_CaDoodle_ShereGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "20"
-    ],
-    "value": 8000
-  },
-  "Fruitful_Leviathan_Lf0cpPQyZ3lLSXOcFPuFosciHv80JDTORiakJ8AO_CaDoodle_ShereGeneration_Sides": {
-    "name": "Fruitful_Leviathan_Lf0cpPQyZ3lLSXOcFPuFosciHv80JDTORiakJ8AO_CaDoodle_ShereGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "20"
-    ],
-    "value": 8000
-  },
-  "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw_CaDoodle_CylinderGeneration_Sides": {
-    "name": "Vibrant_Exosuit_hPR4kuR572YH6AfrjLixHlICW7AdM1RJNAxiaNLw_CaDoodle_CylinderGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "64"
-    ],
-    "value": 16000
-  },
-  "Euphoric_Skycycle_4T4UWHYIkHXNkiqzTtxJWSfZ1YKlapb4lucqKNGe_CaDoodle_CylinderGeneration_Sides": {
-    "name": "Euphoric_Skycycle_4T4UWHYIkHXNkiqzTtxJWSfZ1YKlapb4lucqKNGe_CaDoodle_CylinderGeneration_Sides",
+  "Gleaming_Minotaur_ZLqKL4oLMS_CaDoodle_CylinderGeneration_Sides": {
+    "name": "Gleaming_Minotaur_ZLqKL4oLMS_CaDoodle_CylinderGeneration_Sides",
     "options": [
       "3",
       "4",
@@ -1058,30 +1669,6 @@
       "64"
     ],
     "value": 16000
-  },
-  "Dazzling_Behemoth_Toi9psqmhyC2e9ItSRIOJp7828f5zCC5YNI4sYrF_CaDoodle_ShereGeneration_Sides": {
-    "name": "Dazzling_Behemoth_Toi9psqmhyC2e9ItSRIOJp7828f5zCC5YNI4sYrF_CaDoodle_ShereGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "20"
-    ],
-    "value": 8000
   },
   "Astounding_Gremlin_g4OREQlByDZrFDJEGGBkc2YPZTKDMa5ymel4MyGS_CaDoodle_CylinderGeneration_Sides": {
     "name": "Astounding_Gremlin_g4OREQlByDZrFDJEGGBkc2YPZTKDMa5ymel4MyGS_CaDoodle_CylinderGeneration_Sides",
@@ -1183,34 +1770,6 @@
     ],
     "value": 8000
   },
-  "Spirited_Gravicycle_sI3lpxkyGS_CaDoodle_TextGeneration_Font": {
-    "name": "Spirited_Gravicycle_sI3lpxkyGS_CaDoodle_TextGeneration_Font",
-    "options": [
-      "FreeMono Bold",
-      "DejaVu Sans Mono",
-      "FreeMono",
-      "DejaVu Sans Mono Bold",
-      "FreeMono Oblique",
-      "Liberation Serif",
-      "DejaVu Serif",
-      "FreeSerif Bold Italic",
-      "DejaVu Sans Bold",
-      "FreeSans Bold",
-      "FreeMono Bold Oblique",
-      "DejaVu Sans",
-      "Latin Modern Mono 10 Italic",
-      "FreeSerif Bold",
-      "FreeSans",
-      "FreeSans Oblique",
-      "FreeSerif Italic",
-      "Droid Sans Fallback",
-      "FreeSerif",
-      "FreeSans Bold Oblique",
-      "DejaVu Serif Bold",
-      "Arial"
-    ],
-    "strValue": "Arial"
-  },
   "Imaginative_Hologram_ErpNgg79eg4a88Rre9nNZgBbdleHck94jTSlmDgt_CaDoodle_CylinderGeneration_Sides": {
     "name": "Imaginative_Hologram_ErpNgg79eg4a88Rre9nNZgBbdleHck94jTSlmDgt_CaDoodle_CylinderGeneration_Sides",
     "options": [
@@ -1239,30 +1798,6 @@
     "name": "Lively_Hyperpod_vcMfyZl1I6_CaDoodle_TextGeneration_Value",
     "options": [],
     "strValue": "Text"
-  },
-  "Sparkling_Starship_VPOEfpGOlNZ9MyBxuyBKlPSJ0DSfgejVnf9cmU9Q_CaDoodle_ShereGeneration_Sides": {
-    "name": "Sparkling_Starship_VPOEfpGOlNZ9MyBxuyBKlPSJ0DSfgejVnf9cmU9Q_CaDoodle_ShereGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "20"
-    ],
-    "value": 8000
   },
   "Effulgent_Hoversuit_JUUmnr4c97_CaDoodle_CylinderGeneration_Sides": {
     "name": "Effulgent_Hoversuit_JUUmnr4c97_CaDoodle_CylinderGeneration_Sides",
@@ -1312,30 +1847,6 @@
     ],
     "value": 16000
   },
-  "Mirthful_Thunderbird_Ex7sQylHZuw9hVzyDSkxxDXNaEzuKw5T1Wog3TnT_CaDoodle_ShereGeneration_Sides": {
-    "name": "Mirthful_Thunderbird_Ex7sQylHZuw9hVzyDSkxxDXNaEzuKw5T1Wog3TnT_CaDoodle_ShereGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "20"
-    ],
-    "value": 8000
-  },
   "Resplendent_Imp_HSFVtgi3k6ZKW0ilV6mQAVS0EjxbfD9427fjg0Zv_CaDoodle_CylinderGeneration_Sides": {
     "name": "Resplendent_Imp_HSFVtgi3k6ZKW0ilV6mQAVS0EjxbfD9427fjg0Zv_CaDoodle_CylinderGeneration_Sides",
     "options": [
@@ -1360,84 +1871,8 @@
     ],
     "value": 16000
   },
-  "Lively_Hyperpod_vcMfyZl1I6_CaDoodle_TextGeneration_Font": {
-    "name": "Lively_Hyperpod_vcMfyZl1I6_CaDoodle_TextGeneration_Font",
-    "options": [
-      "FreeMono Bold",
-      "DejaVu Sans Mono",
-      "FreeMono",
-      "DejaVu Sans Mono Bold",
-      "FreeMono Oblique",
-      "Liberation Serif",
-      "DejaVu Serif",
-      "FreeSerif Bold Italic",
-      "DejaVu Sans Bold",
-      "FreeSans Bold",
-      "FreeMono Bold Oblique",
-      "DejaVu Sans",
-      "Latin Modern Mono 10 Italic",
-      "FreeSerif Bold",
-      "FreeSans",
-      "FreeSans Oblique",
-      "FreeSerif Italic",
-      "Droid Sans Fallback",
-      "FreeSerif",
-      "FreeSans Bold Oblique",
-      "DejaVu Serif Bold",
-      "Arial"
-    ],
-    "strValue": "Arial"
-  },
   "Inventive_Hoverboard_yopRpLCaAztOucqDbvjixuF3Usg77Gs3fhv5GLzG_CaDoodle_ShereGeneration_Sides": {
     "name": "Inventive_Hoverboard_yopRpLCaAztOucqDbvjixuF3Usg77Gs3fhv5GLzG_CaDoodle_ShereGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "20"
-    ],
-    "value": 8000
-  },
-  "Lively_Siren_hkY7olwQ4ZXen2n5OZJKkWbm0uwHcB6CsM8rkJ5w_CaDoodle_ShereGeneration_Sides": {
-    "name": "Lively_Siren_hkY7olwQ4ZXen2n5OZJKkWbm0uwHcB6CsM8rkJ5w_CaDoodle_ShereGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "20"
-    ],
-    "value": 8000
-  },
-  "Jocund_Skycycle_IEEhPV4WMyKR1aK0qQiIXyuXto554joWXaYXXkEz_CaDoodle_ShereGeneration_Sides": {
-    "name": "Jocund_Skycycle_IEEhPV4WMyKR1aK0qQiIXyuXto554joWXaYXXkEz_CaDoodle_ShereGeneration_Sides",
     "options": [
       "3",
       "4",
@@ -1483,35 +1918,6 @@
       "64"
     ],
     "value": 16000
-  },
-  "Burgeoning_Hovercar_sOiubUDGgpl2CFt4HuDo5R5KeSWTkphE54CPDcn5_CaDoodle_ShereGeneration_Sides": {
-    "name": "Burgeoning_Hovercar_sOiubUDGgpl2CFt4HuDo5R5KeSWTkphE54CPDcn5_CaDoodle_ShereGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "20"
-    ],
-    "value": 8000
-  },
-  "Bouncy_Hoversuit_mPiOZoam6Y_CaDoodle_TextGeneration_Value": {
-    "name": "Bouncy_Hoversuit_mPiOZoam6Y_CaDoodle_TextGeneration_Value",
-    "options": [],
-    "strValue": "Text"
   },
   "Blithe_Hobgoblin_oNBGMwGhFB_CaDoodle_CylinderHoleGeneration_Sides": {
     "name": "Blithe_Hobgoblin_oNBGMwGhFB_CaDoodle_CylinderHoleGeneration_Sides",
@@ -1561,30 +1967,6 @@
     ],
     "value": 16000
   },
-  "Majestic_Cerberus_1KOcN8uOt2Yj9wD2jbJowbgjCh9aIPjTgQ7g8TL9_CaDoodle_ShereGeneration_Sides": {
-    "name": "Majestic_Cerberus_1KOcN8uOt2Yj9wD2jbJowbgjCh9aIPjTgQ7g8TL9_CaDoodle_ShereGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "20"
-    ],
-    "value": 8000
-  },
   "Blithe_Hovercraft_v7tuA3BfaEHT7XL834zk6xXRqIpBEugOveuDmBG0_CaDoodle_ShereGeneration_Sides": {
     "name": "Blithe_Hovercraft_v7tuA3BfaEHT7XL834zk6xXRqIpBEugOveuDmBG0_CaDoodle_ShereGeneration_Sides",
     "options": [
@@ -1608,30 +1990,6 @@
       "20"
     ],
     "value": 8000
-  },
-  "Glowing_Nanobot_ISnFBeP23vDxePjOSMqHGx5IR3NJhwNopLvQvF6g_CaDoodle_CylinderHoleGeneration_Sides": {
-    "name": "Glowing_Nanobot_ISnFBeP23vDxePjOSMqHGx5IR3NJhwNopLvQvF6g_CaDoodle_CylinderHoleGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "64"
-    ],
-    "value": 16000
   },
   "Merry_Elemental_KOi7DLpWf21Wn8Msw0eEYE57rF5ivXMBXHoGpi02_CaDoodle_ShereGeneration_Sides": {
     "name": "Merry_Elemental_KOi7DLpWf21Wn8Msw0eEYE57rF5ivXMBXHoGpi02_CaDoodle_ShereGeneration_Sides",
@@ -1657,29 +2015,33 @@
     ],
     "value": 8000
   },
-  "Efflorescent_Goblin_zRsOynNTr3_CaDoodle_CylinderGeneration_Sides": {
-    "name": "Efflorescent_Goblin_zRsOynNTr3_CaDoodle_CylinderGeneration_Sides",
+  "Snappy_Centaur_KQjCLh9I3w_CaDoodle_TextGeneration_Font": {
+    "name": "Snappy_Centaur_KQjCLh9I3w_CaDoodle_TextGeneration_Font",
     "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "64"
+      "FreeMono Bold",
+      "DejaVu Sans Mono",
+      "FreeMono",
+      "DejaVu Sans Mono Bold",
+      "FreeMono Oblique",
+      "Liberation Serif",
+      "DejaVu Serif",
+      "FreeSerif Bold Italic",
+      "DejaVu Sans Bold",
+      "FreeSans Bold",
+      "FreeMono Bold Oblique",
+      "DejaVu Sans",
+      "Latin Modern Mono 10 Italic",
+      "FreeSerif Bold",
+      "FreeSans",
+      "FreeSans Oblique",
+      "FreeSerif Italic",
+      "Droid Sans Fallback",
+      "FreeSerif",
+      "FreeSans Bold Oblique",
+      "DejaVu Serif Bold",
+      "Arial"
     ],
-    "value": 16000
+    "strValue": "Arial"
   },
   "Verdant_Yeti_wKQVvaf6bwJ74G10kqqgpUTo0jDmbWuA4mdLrE23_CaDoodle_ShereGeneration_Sides": {
     "name": "Verdant_Yeti_wKQVvaf6bwJ74G10kqqgpUTo0jDmbWuA4mdLrE23_CaDoodle_ShereGeneration_Sides",
@@ -1705,34 +2067,6 @@
     ],
     "value": 8000
   },
-  "Beaming_Sprite_B6gqAODIsu_CaDoodle_TextGeneration_Font": {
-    "name": "Beaming_Sprite_B6gqAODIsu_CaDoodle_TextGeneration_Font",
-    "options": [
-      "FreeMono Bold",
-      "DejaVu Sans Mono",
-      "FreeMono",
-      "DejaVu Sans Mono Bold",
-      "FreeMono Oblique",
-      "Liberation Serif",
-      "DejaVu Serif",
-      "FreeSerif Bold Italic",
-      "DejaVu Sans Bold",
-      "FreeSans Bold",
-      "FreeMono Bold Oblique",
-      "DejaVu Sans",
-      "Latin Modern Mono 10 Italic",
-      "FreeSerif Bold",
-      "FreeSans",
-      "FreeSans Oblique",
-      "FreeSerif Italic",
-      "Droid Sans Fallback",
-      "FreeSerif",
-      "FreeSans Bold Oblique",
-      "DejaVu Serif Bold",
-      "Arial"
-    ],
-    "strValue": "Arial"
-  },
   "Abundant_Phantom_yDtGMjk5Vt_CaDoodle_CylinderHoleGeneration_Sides": {
     "name": "Abundant_Phantom_yDtGMjk5Vt_CaDoodle_CylinderHoleGeneration_Sides",
     "options": [
@@ -1756,82 +2090,6 @@
       "64"
     ],
     "value": 16000
-  },
-  "Sprightly_Gyrocar_4vb6zMKrAH_CaDoodle_CylinderHoleGeneration_Sides": {
-    "name": "Sprightly_Gyrocar_4vb6zMKrAH_CaDoodle_CylinderHoleGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "64"
-    ],
-    "value": 16000
-  },
-  "Bouncy_Hoversuit_mPiOZoam6Y_CaDoodle_TextGeneration_Font": {
-    "name": "Bouncy_Hoversuit_mPiOZoam6Y_CaDoodle_TextGeneration_Font",
-    "options": [
-      "FreeMono Bold",
-      "DejaVu Sans Mono",
-      "FreeMono",
-      "DejaVu Sans Mono Bold",
-      "FreeMono Oblique",
-      "Liberation Serif",
-      "DejaVu Serif",
-      "FreeSerif Bold Italic",
-      "DejaVu Sans Bold",
-      "FreeSans Bold",
-      "FreeMono Bold Oblique",
-      "DejaVu Sans",
-      "Latin Modern Mono 10 Italic",
-      "FreeSerif Bold",
-      "FreeSans",
-      "FreeSans Oblique",
-      "FreeSerif Italic",
-      "Droid Sans Fallback",
-      "FreeSerif",
-      "FreeSans Bold Oblique",
-      "DejaVu Serif Bold",
-      "Arial"
-    ],
-    "strValue": "Arial"
-  },
-  "Jaunty_Hoverboard_H55raUpFONdLCSQLtZdtcZUDo4teSoHtsPSeynbZ_CaDoodle_ShereGeneration_Sides": {
-    "name": "Jaunty_Hoverboard_H55raUpFONdLCSQLtZdtcZUDo4teSoHtsPSeynbZ_CaDoodle_ShereGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "20"
-    ],
-    "value": 8000
   },
   "Sprightly_Siren_P5kMfxwVVYbQ8NntlUbSKdjHJnDb7rTGzUVqsYH3_CaDoodle_ShereGeneration_Sides": {
     "name": "Sprightly_Siren_P5kMfxwVVYbQ8NntlUbSKdjHJnDb7rTGzUVqsYH3_CaDoodle_ShereGeneration_Sides",
@@ -1929,30 +2187,6 @@
     ],
     "value": 8000
   },
-  "Euphoric_Jetpack_GFZE8WyWGDTiKYStMfoNXlNY56hSKGl7Woe5rvlU_CaDoodle_ShereGeneration_Sides": {
-    "name": "Euphoric_Jetpack_GFZE8WyWGDTiKYStMfoNXlNY56hSKGl7Woe5rvlU_CaDoodle_ShereGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "20"
-    ],
-    "value": 8000
-  },
   "Creative_Leviathan_MByX5LTziqMd8zfJOKSfp0SVqUERgoq8EQek7Pc5_CaDoodle_TextGeneration_Font": {
     "options2": [
       "FreeMono Bold",
@@ -2028,29 +2262,5 @@
       "20"
     ],
     "value": 8000
-  },
-  "Teeming_Ogre_KmsxNcaUpPQa5cIwGTdkkQ1KFiUlCBwI3qiTdmyz_CaDoodle_CylinderHoleGeneration_Sides": {
-    "name": "Teeming_Ogre_KmsxNcaUpPQa5cIwGTdkkQ1KFiUlCBwI3qiTdmyz_CaDoodle_CylinderHoleGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "64"
-    ],
-    "value": 16000
   }
 }
