@@ -1,88 +1,6 @@
 {
-  "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s_CaDoodle_ShereGeneration_Sides": {
-    "name": "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s_CaDoodle_ShereGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "20"
-    ],
-    "value": 8000
-  },
-  "Lush_Hyperpod_EtRXYJz1a6_CaDoodle_TextGeneration_Value": {
-    "options2": [],
-    "name": "Lush_Hyperpod_EtRXYJz1a6_CaDoodle_TextGeneration_Value",
-    "options": [],
-    "strValue": "Text"
-  },
-  "Lush_Hyperpod_EtRXYJz1a6_CaDoodle_TextGeneration_Font": {
-    "options2": [
-      "FreeMono Bold",
-      "DejaVu Sans Mono",
-      "FreeMono",
-      "DejaVu Sans Mono Bold",
-      "FreeMono Oblique",
-      "Liberation Serif",
-      "DejaVu Serif",
-      "FreeSerif Bold Italic",
-      "DejaVu Sans Bold",
-      "FreeSans Bold",
-      "FreeMono Bold Oblique",
-      "DejaVu Sans",
-      "Latin Modern Mono 10 Italic",
-      "FreeSerif Bold",
-      "FreeSans",
-      "FreeSans Oblique",
-      "FreeSerif Italic",
-      "Droid Sans Fallback",
-      "FreeSerif",
-      "FreeSans Bold Oblique",
-      "DejaVu Serif Bold",
-      "Arial"
-    ],
-    "name": "Lush_Hyperpod_EtRXYJz1a6_CaDoodle_TextGeneration_Font",
-    "options": [
-      "FreeMono Bold",
-      "DejaVu Sans Mono",
-      "FreeMono",
-      "DejaVu Sans Mono Bold",
-      "FreeMono Oblique",
-      "Liberation Serif",
-      "DejaVu Serif",
-      "FreeSerif Bold Italic",
-      "DejaVu Sans Bold",
-      "FreeSans Bold",
-      "FreeMono Bold Oblique",
-      "DejaVu Sans",
-      "Latin Modern Mono 10 Italic",
-      "FreeSerif Bold",
-      "FreeSans",
-      "FreeSans Oblique",
-      "FreeSerif Italic",
-      "Droid Sans Fallback",
-      "FreeSerif",
-      "FreeSans Bold Oblique",
-      "DejaVu Serif Bold",
-      "Arial"
-    ],
-    "strValue": "Arial"
-  },
-  "Efflorescent_Segway_nd1X54edwR_CaDoodle_CylinderGeneration_Sides": {
-    "name": "Efflorescent_Segway_nd1X54edwR_CaDoodle_CylinderGeneration_Sides",
+  "Imaginative_Specter_DX0zWi9EQg_CaDoodle_CylinderGeneration_Height": {
+    "name": "Imaginative_Specter_DX0zWi9EQg_CaDoodle_CylinderGeneration_Height",
     "options": [
       "3",
       "4",
@@ -103,10 +21,10 @@
       "19",
       "64"
     ],
-    "value": 16000
+    "value": 20000
   },
-  "Fabulous_Levitator_7r7m6mxO4Y_CaDoodle_CylinderGeneration_Sides": {
-    "name": "Fabulous_Levitator_7r7m6mxO4Y_CaDoodle_CylinderGeneration_Sides",
+  "Imaginative_Specter_DX0zWi9EQg_CaDoodle_CylinderGeneration_Diameter": {
+    "name": "Imaginative_Specter_DX0zWi9EQg_CaDoodle_CylinderGeneration_Diameter",
     "options": [
       "3",
       "4",
@@ -127,55 +45,23 @@
       "19",
       "64"
     ],
-    "value": 16000
+    "value": 20000
   },
-  "Bouncy_Bathyscaphe_8vIbFJ3nF2_CaDoodle_CylinderHoleGeneration_Sides": {
-    "name": "Bouncy_Bathyscaphe_8vIbFJ3nF2_CaDoodle_CylinderHoleGeneration_Sides",
+  "Fabulous_Levitator_7r7m6mxO4Y_CaDoodle_CylinderGeneration_Chamfer": {
+    "name": "Fabulous_Levitator_7r7m6mxO4Y_CaDoodle_CylinderGeneration_Chamfer",
     "options": [
+      "0",
+      "1",
+      "2",
       "3",
       "4",
       "5",
       "6",
       "7",
       "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "64"
+      "9"
     ],
-    "value": 16000
-  },
-  "Burgeoning_Leprechaun_PFXkvrAK79_CaDoodle_ShereGeneration_Sides": {
-    "name": "Burgeoning_Leprechaun_PFXkvrAK79_CaDoodle_ShereGeneration_Sides",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6",
-      "7",
-      "8",
-      "9",
-      "10",
-      "11",
-      "12",
-      "13",
-      "14",
-      "15",
-      "16",
-      "17",
-      "18",
-      "19",
-      "20"
-    ],
-    "value": 8000
+    "value": 0
   },
   "Imaginative_Specter_DX0zWi9EQg_CaDoodle_CylinderGeneration_Sides": {
     "name": "Imaginative_Specter_DX0zWi9EQg_CaDoodle_CylinderGeneration_Sides",
@@ -224,6 +110,421 @@
       "64"
     ],
     "value": 16000
+  },
+  "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s_CaDoodle_ShereGeneration_Sides": {
+    "name": "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s_CaDoodle_ShereGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "value": 8000
+  },
+  "Lush_Hyperpod_EtRXYJz1a6_CaDoodle_TextGeneration_Value": {
+    "name": "Lush_Hyperpod_EtRXYJz1a6_CaDoodle_TextGeneration_Value",
+    "options": [],
+    "strValue": "Text"
+  },
+  "Efflorescent_Segway_nd1X54edwR_CaDoodle_CylinderGeneration_Sides": {
+    "name": "Efflorescent_Segway_nd1X54edwR_CaDoodle_CylinderGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 16000
+  },
+  "CaDoodle_File_Location": {
+    "options2": [],
+    "name": "CaDoodle_File_Location",
+    "options": [],
+    "strValue": "/home/hephaestus/Documents/bowler-workspace/gitcache/github.com/madhephaestus/TestRepo/Doodle1/TestRepo.doodle"
+  },
+  "Lush_Hyperpod_EtRXYJz1a6_CaDoodle_TextGeneration_Font": {
+    "name": "Lush_Hyperpod_EtRXYJz1a6_CaDoodle_TextGeneration_Font",
+    "options": [
+      "FreeMono Bold",
+      "DejaVu Sans Mono",
+      "FreeMono",
+      "DejaVu Sans Mono Bold",
+      "FreeMono Oblique",
+      "Liberation Serif",
+      "DejaVu Serif",
+      "FreeSerif Bold Italic",
+      "DejaVu Sans Bold",
+      "FreeSans Bold",
+      "FreeMono Bold Oblique",
+      "DejaVu Sans",
+      "Latin Modern Mono 10 Italic",
+      "FreeSerif Bold",
+      "FreeSans",
+      "FreeSans Oblique",
+      "FreeSerif Italic",
+      "Droid Sans Fallback",
+      "FreeSerif",
+      "FreeSans Bold Oblique",
+      "DejaVu Serif Bold",
+      "Arial"
+    ],
+    "strValue": "Arial"
+  },
+  "Effulgent_Hoversuit_JUUmnr4c97_CaDoodle_CylinderGeneration_Height": {
+    "name": "Effulgent_Hoversuit_JUUmnr4c97_CaDoodle_CylinderGeneration_Height",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 20000
+  },
+  "Verdant_Leprechaun_ytpyvvPC2I_CaDoodle_CylinderGeneration_Height": {
+    "name": "Verdant_Leprechaun_ytpyvvPC2I_CaDoodle_CylinderGeneration_Height",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 20000
+  },
+  "Verdant_Leprechaun_ytpyvvPC2I_CaDoodle_CylinderGeneration_Chamfer": {
+    "name": "Verdant_Leprechaun_ytpyvvPC2I_CaDoodle_CylinderGeneration_Chamfer",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "value": 0
+  },
+  "Imaginative_Specter_DX0zWi9EQg_CaDoodle_CylinderGeneration_Round": {
+    "name": "Imaginative_Specter_DX0zWi9EQg_CaDoodle_CylinderGeneration_Round",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "value": 0
+  },
+  "Effulgent_Hoversuit_JUUmnr4c97_CaDoodle_CylinderGeneration_Diameter": {
+    "name": "Effulgent_Hoversuit_JUUmnr4c97_CaDoodle_CylinderGeneration_Diameter",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 20000
+  },
+  "Effulgent_Hoversuit_JUUmnr4c97_CaDoodle_CylinderGeneration_Round": {
+    "name": "Effulgent_Hoversuit_JUUmnr4c97_CaDoodle_CylinderGeneration_Round",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "value": 0
+  },
+  "Imaginative_Specter_DX0zWi9EQg_CaDoodle_CylinderGeneration_Chamfer": {
+    "name": "Imaginative_Specter_DX0zWi9EQg_CaDoodle_CylinderGeneration_Chamfer",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "value": 0
+  },
+  "Bouncy_Bathyscaphe_8vIbFJ3nF2_CaDoodle_CylinderHoleGeneration_Sides": {
+    "name": "Bouncy_Bathyscaphe_8vIbFJ3nF2_CaDoodle_CylinderHoleGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 16000
+  },
+  "Fabulous_Levitator_7r7m6mxO4Y_CaDoodle_CylinderGeneration_Height": {
+    "name": "Fabulous_Levitator_7r7m6mxO4Y_CaDoodle_CylinderGeneration_Height",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 20000
+  },
+  "Fabulous_Levitator_7r7m6mxO4Y_CaDoodle_CylinderGeneration_Sides": {
+    "name": "Fabulous_Levitator_7r7m6mxO4Y_CaDoodle_CylinderGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 16000
+  },
+  "Fabulous_Levitator_7r7m6mxO4Y_CaDoodle_CylinderGeneration_Round": {
+    "name": "Fabulous_Levitator_7r7m6mxO4Y_CaDoodle_CylinderGeneration_Round",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "value": 0
+  },
+  "Verdant_Leprechaun_ytpyvvPC2I_CaDoodle_CylinderGeneration_Round": {
+    "name": "Verdant_Leprechaun_ytpyvvPC2I_CaDoodle_CylinderGeneration_Round",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "value": 0
+  },
+  "Verdant_Leprechaun_ytpyvvPC2I_CaDoodle_CylinderGeneration_Diameter": {
+    "name": "Verdant_Leprechaun_ytpyvvPC2I_CaDoodle_CylinderGeneration_Diameter",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 20000
+  },
+  "Effulgent_Hoversuit_JUUmnr4c97_CaDoodle_CylinderGeneration_Chamfer": {
+    "name": "Effulgent_Hoversuit_JUUmnr4c97_CaDoodle_CylinderGeneration_Chamfer",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "value": 0
+  },
+  "Fabulous_Levitator_7r7m6mxO4Y_CaDoodle_CylinderGeneration_Diameter": {
+    "name": "Fabulous_Levitator_7r7m6mxO4Y_CaDoodle_CylinderGeneration_Diameter",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "64"
+    ],
+    "value": 20000
+  },
+  "Burgeoning_Leprechaun_PFXkvrAK79_CaDoodle_ShereGeneration_Sides": {
+    "name": "Burgeoning_Leprechaun_PFXkvrAK79_CaDoodle_ShereGeneration_Sides",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "value": 8000
   },
   "Verdant_Leprechaun_ytpyvvPC2I_CaDoodle_CylinderGeneration_Sides": {
     "name": "Verdant_Leprechaun_ytpyvvPC2I_CaDoodle_CylinderGeneration_Sides",

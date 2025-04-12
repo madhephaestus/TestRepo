@@ -5,7 +5,6 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "sphere.groovy",
-        "name": "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s",
         "location": {
           "x": 0.0,
           "y": 0.0,
@@ -16,7 +15,9 @@
             "y": 0.0,
             "z": 0.0
           }
-        }
+        },
+        "preventBoM": false,
+        "name": "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s"
       }
     },
     {
@@ -43,7 +44,6 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cylinder.groovy",
-        "name": "Verdant_Leprechaun_ytpyvvPC2I",
         "location": {
           "x": -1.887905186592775,
           "y": 1.145268450615763,
@@ -54,7 +54,9 @@
             "y": 0.0,
             "z": 0.7071067811865475
           }
-        }
+        },
+        "preventBoM": false,
+        "name": "Verdant_Leprechaun_ytpyvvPC2I"
       }
     },
     {
@@ -81,7 +83,6 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cylinder.groovy",
-        "name": "Effulgent_Hoversuit_JUUmnr4c97",
         "location": {
           "x": -1.0,
           "y": 0.0,
@@ -92,7 +93,9 @@
             "y": 0.0,
             "z": 0.7071067811865475
           }
-        }
+        },
+        "preventBoM": false,
+        "name": "Effulgent_Hoversuit_JUUmnr4c97"
       }
     },
     {
@@ -111,7 +114,8 @@
         },
         "names": [
           "Effulgent_Hoversuit_JUUmnr4c97"
-        ]
+        ],
+        "name": "Bright_Maglev_UXbzE8KM3t"
       }
     },
     {
@@ -130,7 +134,8 @@
         },
         "names": [
           "Effulgent_Hoversuit_JUUmnr4c97"
-        ]
+        ],
+        "name": "Productive_Aerosled_SF8H2Dk6kv"
       }
     },
     {
@@ -138,7 +143,6 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cylinder.groovy",
-        "name": "Imaginative_Specter_DX0zWi9EQg",
         "location": {
           "x": 0.0,
           "y": 23.0,
@@ -149,7 +153,9 @@
             "y": 0.0,
             "z": 0.7071067811865475
           }
-        }
+        },
+        "preventBoM": false,
+        "name": "Imaginative_Specter_DX0zWi9EQg"
       }
     },
     {
@@ -168,7 +174,8 @@
         },
         "names": [
           "Imaginative_Specter_DX0zWi9EQg"
-        ]
+        ],
+        "name": "Fruitful_Cybertooth_AiPeG7w3KC"
       }
     },
     {
@@ -176,7 +183,6 @@
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cylinder.groovy",
-        "name": "Fabulous_Levitator_7r7m6mxO4Y",
         "location": {
           "x": 10.0,
           "y": -2.0,
@@ -187,7 +193,9 @@
             "y": -0.5526984785476011,
             "z": 0.5404006843421835
           }
-        }
+        },
+        "preventBoM": false,
+        "name": "Fabulous_Levitator_7r7m6mxO4Y"
       }
     },
     {
@@ -206,7 +214,8 @@
         },
         "names": [
           "Fabulous_Levitator_7r7m6mxO4Y"
-        ]
+        ],
+        "name": "Amazing_Ifrit_7IF7l2jhPL"
       }
     },
     {
@@ -217,7 +226,8 @@
           "Effulgent_Hoversuit_JUUmnr4c97"
         ],
         "groupID": "Joyous_Hobgoblin_DogfVjZEmQ",
-        "hull": false
+        "hull": false,
+        "name": "Glistening_Warpod_xlz9PGPgD2"
       }
     },
     {
@@ -236,7 +246,8 @@
         },
         "names": [
           "Joyous_Hobgoblin_DogfVjZEmQ"
-        ]
+        ],
+        "name": "Jubilant_Elemental_02okO5p4ew"
       }
     },
     {
@@ -255,7 +266,8 @@
         },
         "names": [
           "Joyous_Hobgoblin_DogfVjZEmQ"
-        ]
+        ],
+        "name": "Plentiful_Hoversled_ilEsSNr9aG"
       }
     }
   ],
