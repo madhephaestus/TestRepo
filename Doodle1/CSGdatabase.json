@@ -114,7 +114,6 @@
   "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s_CaDoodle_ShereGeneration_Sides": {
     "name": "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s_CaDoodle_ShereGeneration_Sides",
     "options": [
-      "3",
       "4",
       "5",
       "6",
@@ -131,7 +130,8 @@
       "17",
       "18",
       "19",
-      "20"
+      "20",
+      "64"
     ],
     "value": 8000
   },
@@ -168,7 +168,7 @@
     "options2": [],
     "name": "CaDoodle_File_Location",
     "options": [],
-    "strValue": "/home/hephaestus/Documents/bowler-workspace/gitcache/github.com/madhephaestus/TestRepo/Doodle1/TestRepo.doodle"
+    "strValue": "/Users/kharrington/Library/Application Support/BowlerLauncher/bowler-workspace/gitcache/github.com/madhephaestus/TestRepo/Doodle1/TestRepo.doodle"
   },
   "Lush_Hyperpod_EtRXYJz1a6_CaDoodle_TextGeneration_Font": {
     "name": "Lush_Hyperpod_EtRXYJz1a6_CaDoodle_TextGeneration_Font",

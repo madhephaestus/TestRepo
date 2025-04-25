@@ -227,6 +227,7 @@
         ],
         "groupID": "Joyous_Hobgoblin_DogfVjZEmQ",
         "hull": false,
+        "intersect": false,
         "name": "Glistening_Warpod_xlz9PGPgD2"
       }
     },
@@ -269,11 +270,55 @@
         ],
         "name": "Plentiful_Hoversled_ilEsSNr9aG"
       }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 14.0,
+          "y": 25.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Joyous_Hobgoblin_DogfVjZEmQ"
+        ],
+        "name": "Generative_Submarine_HdVeglj3s7"
+      }
+    },
+    {
+      "type": "ToSolid",
+      "data": {
+        "names": [
+          "Joyous_Hobgoblin_DogfVjZEmQ"
+        ],
+        "r": 0.9019607901573181,
+        "g": 0.9019607901573181,
+        "b": 0.9019607901573181,
+        "a": 1.0,
+        "useColor": true
+      }
     }
   ],
-  "currentIndex": 14,
+  "currentIndex": 16,
   "timeCreated": -1,
   "projectName": "First One",
+  "rulerLocation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "rotation": {
+      "w": 1.0,
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
   "workplane": {
     "x": 0.0,
     "y": 0.0,
