@@ -303,9 +303,29 @@
         "a": 1.0,
         "useColor": true
       }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -11.0,
+          "y": 20.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Joyous_Hobgoblin_DogfVjZEmQ"
+        ],
+        "name": "Dazzling_Kraken_6yFQwb1ZFc"
+      }
     }
   ],
-  "currentIndex": 16,
+  "currentIndex": 17,
   "timeCreated": -1,
   "projectName": "First One",
   "rulerLocation": {
