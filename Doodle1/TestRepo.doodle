@@ -4,84 +4,6 @@
       "type": "AddFromScript",
       "data": {
         "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
-        "fileRel": "sphere.groovy",
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "preventBoM": false,
-        "name": "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s"
-      }
-    },
-    {
-      "type": "Delete",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s"
-        ]
-      }
-    },
-    {
-      "type": "AddFromScript",
-      "data": {
-        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
-        "fileRel": "cylinder.groovy",
-        "location": {
-          "x": -1.887905186592775,
-          "y": 1.145268450615763,
-          "z": 0.0,
-          "rotation": {
-            "w": 0.7071067811865476,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.7071067811865475
-          }
-        },
-        "preventBoM": false,
-        "name": "Verdant_Leprechaun_ytpyvvPC2I"
-      }
-    },
-    {
-      "type": "Delete",
-      "data": {
-        "location": {
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0,
-          "rotation": {
-            "w": 1.0,
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0
-          }
-        },
-        "names": [
-          "Verdant_Leprechaun_ytpyvvPC2I"
-        ]
-      }
-    },
-    {
-      "type": "AddFromScript",
-      "data": {
-        "gitULR": "https://github.com/madhephaestus/CaDoodle-Example-Objects.git",
         "fileRel": "cylinder.groovy",
         "location": {
           "x": -1.0,
@@ -323,9 +245,27 @@
         ],
         "name": "Dazzling_Kraken_6yFQwb1ZFc"
       }
+    },
+    {
+      "type": "AddFromFile",
+      "data": {
+        "location": {
+          "x": 4.0,
+          "y": 22.0,
+          "z": 20.0,
+          "rotation": {
+            "w": 0.7071067811865476,
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.7071067811865475
+          }
+        },
+        "preventBoM": false,
+        "name": "Shimmering_Ekranoplan_IPmF6Hi8kG"
+      }
     }
   ],
-  "currentIndex": 17,
+  "currentIndex": 14,
   "timeCreated": -1,
   "projectName": "First One",
   "rulerLocation": {
