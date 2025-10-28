@@ -1,4 +1,9 @@
 {
+  "Copious_Teleporter_CMuJGwbAvf_CaDoodle_Z-per": {
+    "name": "Copious_Teleporter_CMuJGwbAvf_CaDoodle_Z-per",
+    "options": [],
+    "value": 10000
+  },
   "Imaginative_Specter_DX0zWi9EQg_CaDoodle_CylinderGeneration_Height": {
     "name": "Imaginative_Specter_DX0zWi9EQg_CaDoodle_CylinderGeneration_Height",
     "options": [
@@ -111,6 +116,17 @@
     ],
     "value": 16000
   },
+  "Shimmering_Ekranoplan_IPmF6Hi8kG_CaDoodle_File": {
+    "options2": [],
+    "name": "Shimmering_Ekranoplan_IPmF6Hi8kG_CaDoodle_File",
+    "options": [],
+    "strValue": "/home/hephaestus/Documents/bowler-workspace/gitcache/github.com/madhephaestus/TestRepo/Doodle1/Shimmering_Ekranoplan_IPmF6Hi8kG.blend"
+  },
+  "Teeming_Hovercraft_oJLV4kiTZ0_CaDoodle_Rad": {
+    "name": "Teeming_Hovercraft_oJLV4kiTZ0_CaDoodle_Rad",
+    "options": [],
+    "value": 0
+  },
   "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s_CaDoodle_ShereGeneration_Sides": {
     "name": "Glittering_Colossus_xaJT0s2vdv69dkxqUYqEuLmU8HfYMQeCegn4wm9s_CaDoodle_ShereGeneration_Sides",
     "options": [
@@ -140,6 +156,21 @@
     "options": [],
     "strValue": "Text"
   },
+  "Teeming_Hovercraft_oJLV4kiTZ0_CaDoodle_Z-per": {
+    "name": "Teeming_Hovercraft_oJLV4kiTZ0_CaDoodle_Z-per",
+    "options": [],
+    "value": 0
+  },
+  "Copious_Teleporter_CMuJGwbAvf_CaDoodle_Angle": {
+    "name": "Copious_Teleporter_CMuJGwbAvf_CaDoodle_Angle",
+    "options": [],
+    "value": 720000
+  },
+  "Copious_Teleporter_CMuJGwbAvf_CaDoodle_Rad": {
+    "name": "Copious_Teleporter_CMuJGwbAvf_CaDoodle_Rad",
+    "options": [],
+    "value": 0
+  },
   "Efflorescent_Segway_nd1X54edwR_CaDoodle_CylinderGeneration_Sides": {
     "name": "Efflorescent_Segway_nd1X54edwR_CaDoodle_CylinderGeneration_Sides",
     "options": [
@@ -164,11 +195,28 @@
     ],
     "value": 16000
   },
+  "Copious_Teleporter_CMuJGwbAvf_CaDoodle_File": {
+    "options2": [],
+    "name": "Copious_Teleporter_CMuJGwbAvf_CaDoodle_File",
+    "options": [],
+    "strValue": "/home/hephaestus/Documents/bowler-workspace/gitcache/github.com/madhephaestus/TestRepo/Doodle1/Copious_Teleporter_CMuJGwbAvf.svg"
+  },
+  "Teeming_Hovercraft_oJLV4kiTZ0_CaDoodle_File": {
+    "options2": [],
+    "name": "Teeming_Hovercraft_oJLV4kiTZ0_CaDoodle_File",
+    "options": [],
+    "strValue": "/home/hephaestus/Documents/bowler-workspace/gitcache/github.com/madhephaestus/TestRepo/Doodle1/Teeming_Hovercraft_oJLV4kiTZ0.svg"
+  },
   "CaDoodle_File_Location": {
     "options2": [],
     "name": "CaDoodle_File_Location",
     "options": [],
     "strValue": "/home/hephaestus/Documents/bowler-workspace/gitcache/github.com/madhephaestus/TestRepo/Doodle1/TestRepo.doodle"
+  },
+  "Teeming_Hovercraft_oJLV4kiTZ0_CaDoodle_Spiral": {
+    "name": "Teeming_Hovercraft_oJLV4kiTZ0_CaDoodle_Spiral",
+    "options": [],
+    "value": 20000
   },
   "Lush_Hyperpod_EtRXYJz1a6_CaDoodle_TextGeneration_Font": {
     "name": "Lush_Hyperpod_EtRXYJz1a6_CaDoodle_TextGeneration_Font",
@@ -221,6 +269,11 @@
       "64"
     ],
     "value": 20000
+  },
+  "Teeming_Hovercraft_oJLV4kiTZ0_CaDoodle_Angle": {
+    "name": "Teeming_Hovercraft_oJLV4kiTZ0_CaDoodle_Angle",
+    "options": [],
+    "value": 360000
   },
   "Verdant_Leprechaun_ytpyvvPC2I_CaDoodle_CylinderGeneration_Chamfer": {
     "name": "Verdant_Leprechaun_ytpyvvPC2I_CaDoodle_CylinderGeneration_Chamfer",
@@ -277,6 +330,11 @@
       "9"
     ],
     "value": 0
+  },
+  "Copious_Teleporter_CMuJGwbAvf_CaDoodle_Step": {
+    "name": "Copious_Teleporter_CMuJGwbAvf_CaDoodle_Step",
+    "options": [],
+    "value": 30000
   },
   "Effulgent_Hoversuit_JUUmnr4c97_CaDoodle_CylinderGeneration_Diameter": {
     "name": "Effulgent_Hoversuit_JUUmnr4c97_CaDoodle_CylinderGeneration_Diameter",
@@ -358,6 +416,11 @@
     ],
     "value": 16000
   },
+  "Copious_Teleporter_CMuJGwbAvf_CaDoodle_Spiral": {
+    "name": "Copious_Teleporter_CMuJGwbAvf_CaDoodle_Spiral",
+    "options": [],
+    "value": 25000
+  },
   "Fabulous_Levitator_7r7m6mxO4Y_CaDoodle_CylinderGeneration_Height": {
     "name": "Fabulous_Levitator_7r7m6mxO4Y_CaDoodle_CylinderGeneration_Height",
     "options": [
@@ -421,6 +484,11 @@
       "9"
     ],
     "value": 0
+  },
+  "Teeming_Hovercraft_oJLV4kiTZ0_CaDoodle_Step": {
+    "name": "Teeming_Hovercraft_oJLV4kiTZ0_CaDoodle_Step",
+    "options": [],
+    "value": 30000
   },
   "Verdant_Leprechaun_ytpyvvPC2I_CaDoodle_CylinderGeneration_Round": {
     "name": "Verdant_Leprechaun_ytpyvvPC2I_CaDoodle_CylinderGeneration_Round",

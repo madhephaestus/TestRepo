@@ -263,11 +263,604 @@
         "preventBoM": false,
         "name": "Shimmering_Ekranoplan_IPmF6Hi8kG"
       }
+    },
+    {
+      "type": "Sweep",
+      "data": {
+        "location": {
+          "x": 21.0,
+          "y": 109.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.7071067811865476,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.7071067811865475
+          }
+        },
+        "preventBoM": true,
+        "defz": 0.0,
+        "defrad": 10.0,
+        "defstep": 30.0,
+        "defangle": 360.0,
+        "defSpiral": 0.0,
+        "name": "Teeming_Hovercraft_oJLV4kiTZ0"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 17.0,
+          "y": -104.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Teeming_Hovercraft_oJLV4kiTZ0"
+        ],
+        "name": "Mirthful_Basilisk_k3KNtMLyma"
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Joyous_Hobgoblin_DogfVjZEmQ"
+        ]
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Shimmering_Ekranoplan_IPmF6Hi8kG"
+        ]
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Imaginative_Specter_DX0zWi9EQg"
+        ]
+      }
+    },
+    {
+      "type": "Sweep",
+      "data": {
+        "location": {
+          "x": 11.0,
+          "y": 111.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.7071067811865476,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.7071067811865475
+          }
+        },
+        "preventBoM": true,
+        "defz": 1.0,
+        "defrad": 10.0,
+        "defstep": 30.0,
+        "defangle": 720.0,
+        "defSpiral": 25.0,
+        "name": "Copious_Teleporter_CMuJGwbAvf"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -93.43804174940087,
+          "y": 68.82675493233464,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.8314696123025452,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.5555702330196022
+          }
+        },
+        "names": [
+          "Copious_Teleporter_CMuJGwbAvf"
+        ],
+        "name": "Frisky_Forcefield_VHk6NDBOZU"
+      }
+    },
+    {
+      "type": "AddFromScript",
+      "data": {
+        "gitULR": "https://github.com/madhephaestus/ChainMail.git",
+        "fileRel": "ChainMail.doodle",
+        "location": {
+          "x": 90.0,
+          "y": 18.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 0.7071067811865476,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.7071067811865475
+          }
+        },
+        "preventBoM": false,
+        "name": "Gleeful_Hoverboard_VkBFGY1sTY"
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Teeming_Hovercraft_oJLV4kiTZ0"
+        ]
+      }
+    },
+    {
+      "type": "Delete",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Copious_Teleporter_CMuJGwbAvf"
+        ]
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -63.0,
+          "y": 5.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Gleeful_Hoverboard_VkBFGY1sTY"
+        ],
+        "name": "Resplendent_Siren_NTWIXdHm3v"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -34.0,
+          "y": 14.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Gleeful_Hoverboard_VkBFGY1sTY"
+        ],
+        "name": "Brilliant_Hyperloop_ZDzpq9w4s7"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -38.0,
+          "y": 13.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "spiral_1"
+        ],
+        "name": "Bubbly_Skycycle_cNsLIke79A"
+      }
+    },
+    {
+      "type": "Paste",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "spiral_1"
+        ],
+        "name": "Zippy_Sasquatch_5JtGh2ot4J"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 24.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Gleeful_Hoverboard_VkBFGY1sTY"
+        ],
+        "name": "Grand_Thunderbird_WkutSYMLU5"
+      }
+    },
+    {
+      "type": "Paste",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Gleeful_Hoverboard_VkBFGY1sTY"
+        ],
+        "name": "Zestful_Gyrocopter_0VqGS8x8iB"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": -41.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Zestful_Gyrocopter_0VqGS8x8iB_1"
+        ],
+        "name": "Glowing_Leviathan_PgCgSlR9mJ"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": -1.25,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Zestful_Gyrocopter_0VqGS8x8iB_1"
+        ],
+        "name": "Zestful_Airship_XQA5gAZJJ1"
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Gleeful_Hoverboard_VkBFGY1sTY",
+          "Zestful_Gyrocopter_0VqGS8x8iB_1"
+        ],
+        "groupID": "Glittering_Behemoth_WxbztOSA6g",
+        "hull": false,
+        "intersect": false,
+        "name": "Effulgent_Starship_S681i9qZUy"
+      }
+    },
+    {
+      "type": "Paste",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Glittering_Behemoth_WxbztOSA6g"
+        ],
+        "name": "Mirthful_Colossus_nSBKYqT9SU"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": -84.5,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Mirthful_Colossus_nSBKYqT9SU_3"
+        ],
+        "name": "Zappy_Monowheel_FITvODU3Im"
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Glittering_Behemoth_WxbztOSA6g",
+          "Mirthful_Colossus_nSBKYqT9SU_3"
+        ],
+        "groupID": "Sparkling_Titan_bnElXhWgGt",
+        "hull": false,
+        "intersect": false,
+        "name": "Chirpy_Rocketship_tWTgbpSUtD"
+      }
+    },
+    {
+      "type": "Paste",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Sparkling_Titan_bnElXhWgGt"
+        ],
+        "name": "Effervescent_Gremlin_WxAaVP3WmG"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 42.5,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Effervescent_Gremlin_WxAaVP3WmG_7"
+        ],
+        "name": "Splendid_Hovercar_3uhnS9k5YC"
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Sparkling_Titan_bnElXhWgGt",
+          "Effervescent_Gremlin_WxAaVP3WmG_7"
+        ],
+        "groupID": "Sparkling_Imp_BHEHpUEnZx",
+        "hull": false,
+        "intersect": false,
+        "name": "Chipper_Zeppelin_xxpqmjT5BQ"
+      }
+    },
+    {
+      "type": "Paste",
+      "data": {
+        "location": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Sparkling_Imp_BHEHpUEnZx"
+        ],
+        "name": "Energetic_Ogre_IOshC8UXai"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 57.5,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Energetic_Ogre_IOshC8UXai_15"
+        ],
+        "name": "Blithe_Monorail_RmgW45BVQF"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 3.25,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Sparkling_Imp_BHEHpUEnZx"
+        ],
+        "name": "Prolific_Troll_dJuioMU0zB"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": -30.75,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Sparkling_Imp_BHEHpUEnZx"
+        ],
+        "name": "Blithe_Gnome_l4I0o9NWai"
+      }
+    },
+    {
+      "type": "MoveCenter",
+      "data": {
+        "location": {
+          "x": 0.25,
+          "y": 0.0,
+          "z": 0.0,
+          "rotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        "names": [
+          "Sparkling_Imp_BHEHpUEnZx"
+        ],
+        "name": "Mirthful_Leprechaun_kVthe9KTJr"
+      }
+    },
+    {
+      "type": "Group",
+      "data": {
+        "names": [
+          "Energetic_Ogre_IOshC8UXai_15",
+          "Sparkling_Imp_BHEHpUEnZx"
+        ],
+        "groupID": "Vivid_Hyperpod_lSplVoPCxm",
+        "hull": false,
+        "intersect": false,
+        "name": "Superb_Fairy_Lswo6tn7l5"
+      }
     }
   ],
-  "currentIndex": 14,
+  "currentIndex": 45,
   "timeCreated": -1,
-  "projectName": "First One",
+  "projectName": "Chain Mail Sheet",
   "rulerLocation": {
     "x": 0.0,
     "y": 0.0,
